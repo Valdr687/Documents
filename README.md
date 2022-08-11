@@ -23,3 +23,7 @@
     
 - ### Bibliothèque
     - [Citations](./Biblioth%C3%A8que/Citations.md "Ouvre le fichier citations")
+    
+# Licence
+![image](https://user-images.githubusercontent.com/106614142/184087709-a49da957-c2ad-40a9-a08d-bd75e9d62c0d.png)
+
