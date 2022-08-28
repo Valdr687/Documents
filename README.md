@@ -16,8 +16,8 @@
     - Petite synthèse de la syntaxe Markdown
 
 - ### Documentation
-    - CSS pour le Vervada
-    - CSS pour le portfolio / CV
+    - [CSS pour le Vervada](./documentation/vervada.md)
+    - [CSS pour le portfolio / CV](./documentation/portfolio.md)
 
 - ### Bibliothèque
     - [Citations](./bibliothèque/Citations.md "Ouvre le fichier citations")
