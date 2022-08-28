@@ -13,13 +13,11 @@
         - documentation World Edit / Optifine
         - extensions
         - outils
-        - mes comptes (*je savais pas où les mettre*)
     - Petite synthèse de la syntaxe Markdown
 
 - ### Documentation
     - CSS pour le Vervada
-    - CSS pour le portfolio
-    - CSS pour le "CV"
+    - CSS pour le portfolio / CV
 
 - ### Bibliothèque
     - [Citations](./Biblioth%C3%A8que/Citations.md "Ouvre le fichier citations")
