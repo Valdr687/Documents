@@ -8,7 +8,7 @@
     - README
     - Licence CC  
       
-- ### Resources
+- ### Ressources
     - #### En ligne :
         - documentation World Edit / Optifine
         - extensions
