@@ -1,4 +1,4 @@
-#### [Retour](../Ecrits.md/#liste-de-citationsbibliothc3a8quecitationsmd-ouvre-le-fichier-citations)
+#### [Retour](../README)
 
 # Humour 
 - Guillaume Meurice
