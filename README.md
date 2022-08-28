@@ -1,6 +1,6 @@
 # Lisezladoc
 
-*Documenter, commenter son code, quelle corvée... Et si l'on regroupais, ordonnais tout ça au même endroit, qu'on y ajoutait d'autres resources, qu'on.. centralisait, ce serait pas aussi sympa ?*
+*Documenter, commenter son code, quelle corvée... Et si l'on regroupais, ordonnais tout ça au même endroit, qu'on y ajoutait d'autres ressources, qu'on.. centralisait, ce serait pas aussi sympa ?*
 
 ## Ce dossier contient :
 
