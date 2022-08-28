@@ -1,4 +1,4 @@
-#### [Retour](../README.md)
+#### [Retour](../README.md#bibliothèque)
 
 # Humour 
 - Guillaume Meurice
