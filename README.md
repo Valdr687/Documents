@@ -20,7 +20,7 @@
     - CSS pour le portfolio / CV
 
 - ### Bibliothèque
-    - [Citations](./Biblioth%C3%A8que/Citations.md "Ouvre le fichier citations")
+    - [Citations](./Bibliothèque/Citations.md "Ouvre le fichier citations")
 
 # Licence
 
