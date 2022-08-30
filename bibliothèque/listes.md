@@ -7,6 +7,9 @@
   - Vervada : 
     - [x] GUI
     - [ ] Texture connectées
+      - [x] overlay
+      - [x] application de l'overlay
+      - [ ] détourage
     - [ ] Page erreur 404
       - [ ] Skin narrateur
       - [ ] Modèle 3D
