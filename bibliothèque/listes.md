@@ -6,21 +6,20 @@
 ## To do list
   - Vervada : 
     - [x] GUI
-    - [ ] Texture connectées
-      - [x] overlay
-      - [x] application de l'overlay
-      - [ ] détourage
+    - [x] Texture connectées
     - [ ] Page erreur 404
       - [ ] Skin narrateur
       - [ ] Modèle 3D
       - [ ] Finition
   - Portfolio
     - [x] Page 
+    - [ ] CSS : image survol - 4px
+    - [ ] Github : upload icones
     - [ ] Interface téléphone paysage
   - CV
     - [ ] Bannière
     - [ ] Timeline
-    - [ ] Animation de scrolling 
+    - [ ] Animations de scrolling 
   
 ## Idées 
   - 3D :
