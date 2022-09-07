@@ -1,7 +1,7 @@
 #### [Retour](../README.md#bibliothèque)
 
 # Mes listes
-*Tout est dans le nom*
+*Tout est dans le nom.*
 
 ## To do list
   - Vervada : 
@@ -15,7 +15,6 @@
   - Portfolio
     - [x] Page 
     - [ ] CSS : image survol - 4px
-    - [ ] Github : upload icones
     - [ ] Interface téléphone paysage
   - CV
     - [ ] Bannière
