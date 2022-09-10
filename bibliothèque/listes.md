@@ -14,8 +14,6 @@
       - [ ] Finition
   - Portfolio
     - [x] Page 
-    - [ ] CSS : image survol - 4px
-    - [ ] Interface téléphone paysage
   - CV
     - [ ] Bannière
     - [ ] Timeline
