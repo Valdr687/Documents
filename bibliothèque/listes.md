@@ -7,7 +7,6 @@
   - Vervada : 
     - [x] GUI
     - [x] Texture connectées
-    - [ ] Patch le footer pr la trentième fois
     - [ ] Page erreur 404
       - [ ] Skin narrateur
       - [ ] Modèle 3D
