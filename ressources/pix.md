@@ -86,3 +86,4 @@ Max a entré son adresse mail avec une faute et veut la modifier dans son applic
 Il s'agit du droit à la modification.  
 Rodrick ne veut plus que les moteurs de recherche associent son nom à une publication dégradante.
 Il s'agit du droit au déréférencement.  
+
