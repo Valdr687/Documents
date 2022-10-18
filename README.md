@@ -1,6 +1,6 @@
-# Lisezladoc
+# Documents
 
-*Documenter, commenter son code, quelle corvée... Et si l'on regroupais, ordonnais tout ça au même endroit, qu'on y ajoutait d'autres ressources, qu'on.. centralisait, ce serait pas aussi sympa ?*
+*Documenter, commenter son code, ranger ses ressourcesn organiser ses liens... Que de  corveés, mais casse la tienne comme on dit de par chez moi. Voici mes documentations, mes ressources et divers textes, rangés au meme endroit !*
 
 ## Ce dossier contient :
 
@@ -13,13 +13,15 @@
         - documentation World Edit / Optifine
         - extensions
         - outils
-    - Petite synthèse de la syntaxe Markdown
+    - [Petite fiche pour Pix](./ressources/pix.md)
 
 - ### Documentation
     - [CSS pour le Vervada](./documentation/vervada.md)
     - [CSS pour le portfolio / CV](./documentation/portfolio.md)
 
 - ### Bibliothèque
+    - #### Minecraft
+        - [Résumé des différences entre Sodium et Optifine](./bibliothèque/mc/Sodium_VS_Optifine.md)
     - [Citations](./bibliothèque/Citations.md "Ouvre le fichier citations")
     - [Listes](./bibliothèque/listes.md)
 
