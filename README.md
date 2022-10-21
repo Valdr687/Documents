@@ -42,4 +42,20 @@ This is a human-readable summary of (and not a substitute for) the [license](./h
 
 - No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
+# Licence ( en français )
+ 
+## Attribution-ShareAlike 4.0 International (CC BY-NC-SA) 4.0
+Ceci est un résumé clair et accessible (et non un substitut) de la [license](./https://creativecommons.org/licenses/by-sa/4.0/).
+ 
+## Vous êtes libres de :
+- Partager — copier et redistribuer le contenu quelque soit le format et le moyen
+- Adapter — remixer, transformer, et utiliser le contenu
+ 
+## Le licencieur ne peut pas révoquer ces droits tant que vous respectez les termes de la license
+**Termes de la license**
+- Attribution - Vous devez créditer l'auteur, indiquez par un lien la licence et si des changements ont été faits. Vous devez le faire d'une façon raisonnable, mais pas de manière qui suggère que le licencieur endosse vous ou votre utilisation.
+- ShareAlike — Si vous remixez, transformez, et utilisez le contenu, vous devez le redistribuer selon la même licence que l'original.
+ 
+- No additional restrictions — Vous ne devez pas appliquer de restrictions juridiques ou technologiques supplémentaires qui restreignent autrui de faire quelque chose que la license permet.
+
 
