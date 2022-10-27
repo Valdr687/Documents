@@ -7,8 +7,10 @@
 
 # 2084
 
-> Comme si l'insécurité suprême n'était pas de vivre dans un monde où strictement rien de ce que j'écris, dis, fais ne peut plus être intime ou privé" - Alain Damasion, Le dehors de toute chose
+> Comme si l'insécurité suprême n'était pas de vivre dans un monde où strictement rien de ce que j'écris, dis, fais ne peut plus être intime ou privé"   
+Alain Damasion, Le dehors de toute chose
 
 
 # Autres 
->"The greatest enemy is the one who has nothing to loose" - Christopher Paolini, The inheritance cycle
+>"The greatest enemy is the one who has nothing to loose"  
+Christopher Paolini, The inheritance cycle
