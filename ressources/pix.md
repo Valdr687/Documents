@@ -1,6 +1,6 @@
 # Table des matières
 * Information et données (*Excel et Google*)
-    - [Mener une recherche et une veille d'information](./pix.md#Mener-une-recherche-et-une-veille-d'information)
+    - [Mener une recherche et une veille d'information](./pix.md#mener-une-recherche-et-une-veille-dinformation)
 * Communication et collaboration (*Drive et réseaux sociaux*)
     - [Partager et publier](./pix.md#Partager-et-publier)
 * Création de contenu 
@@ -9,7 +9,8 @@
     - [Programmer](./pix.md#Programmer)
 * Protection et sécurité
     - [Environnement numérique et données personnelles](./pix.md#Environnement-numérique-et-données-personnelles)
-    - [Santé, bien-être et environnement](./pix.md#Santé,-bien-être-et-environnement)
+    - [Santé, bien-être et environnement](./pix.md#Santé,-bien-être-et-environnement
+)
 * Environnement numérique
     - [Résoudre des problèmes techniques](./pix.md#Résoudre-des-problèmes-techniques)
 * [Vrac](./pix.md#vrac) 
@@ -112,13 +113,13 @@ toc toc tic toc toc toc toc tic toc tic tic toc tic toc tic tic tic toc toc toc 
 * Fuite voilà : 
     - Verifications.io
 ## Santé, bien-être et environnement
-* Métaux rares
+* Métaux rares  
 ![image](https://user-images.githubusercontent.com/106614142/183293919-baf40b76-9ab9-4eaa-9e59-99289117360f.png)
 
 <br></br>
 
 # Environnement numérique
-## Titre
+## Résoudre des problèmes techniques
 * Ports de l'ordinateur portable
     - USB / HDMI / VGA / Ethernet
 <br></br>
@@ -126,7 +127,7 @@ toc toc tic toc toc toc toc tic toc tic tic toc tic toc tic tic tic toc toc toc 
 # Vrac
 *Si vous avez la catégorie merci de me l'envoyer*
 
-* Clé privée / clé publique
+* Clé privée / clé publique  
 ![image](https://user-images.githubusercontent.com/106614142/183280993-babff5b7-8fde-4d07-b27a-49935dad582f.png)
 
 * Droits  
