@@ -1,17 +1,17 @@
 # Table des matières
 * Information et données (*Excel et Google*)
-    - [Mener une recherche et une veille d'information](./pix.md#Mener%20une%20recherche%20et%20une%20veille%20d'information)
+    - [Mener une recherche et une veille d'information](./pix.md#Mener-une-recherche-et-une-veille-d'information)
 * Communication et collaboration (*Drive et réseaux sociaux*)
-    - [Partager et publier](./pix.md#Partager%20et%20publier)
+    - [Partager et publier](./pix.md#Partager-et-publier)
 * Création de contenu 
-    - [Dévelloper des documents textuels](./pix.md#Dévelloper%20des%20documents%20textuels)
-    - [Dévelloper des documents multimédias](./pix.md#Dévelloper%20des%20documents%20multimédias)
+    - [Dévelloper des documents textuels](./pix.md#Dévelloper-des-documents-textuels)
+    - [Dévelloper des documents multimédias](./pix.md#Dévelloper-des-documents-multimédias)
     - [Programmer](./pix.md#Programmer)
 * Protection et sécurité
-    - [Environnement numérique et données personnelles](./pix.md#Environnement%20numérique%20e%20données%20personnelles)
-    - [Santé, bien-être et environnement](./pix.md#Santé,%20bien-être%20et%20environnement)
+    - [Environnement numérique et données personnelles](./pix.md#Environnement-numérique-et-données-personnelles)
+    - [Santé, bien-être et environnement](./pix.md#Santé,-bien-être-et-environnement)
 * Environnement numérique
-    - [Résoudre des problèmes techniques](./pix.md#Résoudre%20des%20problèmes%20techniques)
+    - [Résoudre des problèmes techniques](./pix.md#Résoudre-des-problèmes-techniques)
 * [Vrac](./pix.md#vrac) 
 <br></br>
 
