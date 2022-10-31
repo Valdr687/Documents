@@ -34,8 +34,8 @@
 
 # Création de contenu 
 ## Dévelloper des documents textuels
-* Nom en rouge :
-    Florence |  Murielle 
+* Nom en rouge :  
+    - Florence |  Murielle 
 * Mots en évidence
     - Désactiver le style des mots sur Word
     - personnes
