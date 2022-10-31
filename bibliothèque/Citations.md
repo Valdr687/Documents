@@ -2,7 +2,7 @@
 
 # Humour 
 - Guillaume Meurice
-> "Le vrai drame de la gauche c'est de produire des avancées sociales pour que les gens puissent vivre plus longtemps et qu'au final ils puissent tranquillement voter à droite" 
+> "Le vrai drame de la gauche c'est de produire des avancées sociales pour que les gens puissent vivre plus longtemps et qu'au final ils puissent tranquillement voter à droite"  
 > "C'est l'arabe qui cache la foret des saloperies"
 
 # 2084
