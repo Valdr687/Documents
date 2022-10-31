@@ -35,7 +35,7 @@
 # Création de contenu 
 ## Dévelloper des documents textuels
 * Nom en rouge :
-    - Florence
+    Florence |  Murielle 
 * Mots en évidence
     - Désactiver le style des mots sur Word
     - personnes
@@ -57,14 +57,14 @@
 ## Dévelloper des documents multimédias
 * Vidéo fractionnée   
 
-    |durée   | x  | 35s | yys |
+    |durée   | x  | 35s | 27s |
     |-------:|---:|-----|-----|
-    | réponse| 38 |  35 | zz  |
+    | réponse| 38 |  35 | 19  |
 * Profil sRGB
 
-    |valeur bleu ciel   | x  | 190 | yyy |
+    |valeur bleu ciel   | x  | 190 | 210 |
     |------------------:|---:|-----|-----|
-    | réponse           | 88 | 121 | zzz |
+    | réponse           | 88 | 121 | 153 |
 
 
 ## Programmer 
