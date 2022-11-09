@@ -57,9 +57,9 @@
 ## Dévelloper des documents multimédias
 * Vidéo fractionnée   
 
-    |durée   | x  | 35s | 27s | 23s |
-    |-------:|---:|-----|-----|-----|
-    | réponse| 38 |  35 | 19  | 15  |
+    |durée   | x  | 35s | 27s | 23s | 31s |
+    |-------:|---:|-----|-----|-----|-----|
+    | réponse| 38 |  35 | 19  | 15  | 26  |
 * Profil sRGB
 
     |valeur bleu ciel   | 170  | 190 | 210 | 200 |
