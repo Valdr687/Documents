@@ -64,7 +64,8 @@
 
     |valeur bleu ciel   | 170  | 190 | 210 | 200 | 180 |
     |------------------:|-----:|-----|-----|-----|-----|
-    | réponse           | 88   | 121 | 153 | 137 | 104 |
+    | réponse           | 88   | 121 | 153 | 137 | 104 |  
+    [Tuto](https://docs.gimp.org/2.10/fr/gimp-tool-levels.html)    
 
 
 ## Programmer 
