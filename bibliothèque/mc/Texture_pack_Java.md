@@ -21,6 +21,7 @@ Le jeu divise les blocks en 3 parties, les items en 2 et les entités n'ont que 
 * ### Résumé : 
     ![arbre](./images/schema.png)   
 
+<br></br>
 ## Prérequis
 
 * Paint3D ou tout autre logiciel de dessin de votre choix
@@ -33,26 +34,52 @@ Le jeu divise les blocks en 3 parties, les items en 2 et les entités n'ont que 
     - Appuyer sur <kbd>Windows</kbd> + <kbd>R</kbd> 
     - Entrer dans la fenetre qui viens de s'ouvrir :  %appdata%\.minecraft\resourcepacks
     ![Image](./images/appdata.png)
-    - Télécharger le [template ](./template.zip) et dézipper le. On doit obtenr ceci :
+    - Télécharger le [template ](./Template.zip) et dézipper le. On doit obtenr ceci :
     ![Illustation](./images/dossier.png) 
-    
+    - Charger le pack de texture dans le jeu :
+    ![Illustation](./images/fenetre.png)
+
+## Modifier la description
+
+- Ouvrir *pack.mcmeta* avec le bloc note.
+``` json
+{
+   "pack": {
+      "pack_format": 12,
+      "description": "La description va là"
+   }
+}
+```
+- Le "pack_format" désigne la version du jeu, 12 correspond à la 1.19.3, incrémenter de 1 cette valeur augmente la version du pack.
+- La "description" porte bien son nom, il suffit de modifier le texte entre guillemets. 
 
 ## Modifier une texture
 
-On va prendre un exemple tout simple, le tronc de chene (oak log), le principe est le même pour toutes les autres textures.
+On va prendre un exemple tout simple, le tronc de chene (oak log), le principe est le même pour toutes les autres textures. Je cherche à modifier une texture donc je me rend dans le dossier *textures*, puis *block* et je vais sélectionner la texture "*oak_log_top.png*" puis l'ouvrir dans Paint3D. J'ai fais ceci :
+![log](./images/log.png)
+Après sauvegarde et recharge du pack de texture (<kbd>F3</kbd> + <kbd>T</kbd>), j'obtiens ceci :
+![image](./images/log2.png)
+
+## Modifier un modèle 3D
+
+Pour créer un model 3D il faut aller dans le dossier *model*, puis dans *block* ou *item* en fonction de son choix. Ici je fais prendre l'exemple de la bibliothèque :   
+
+- Ouvrir le model dans blockbench : <kbd>Crtl</kbd> + <kbd>O</kbd>
+- On obtient ceci :
+![image](./images/blockbench.png)
+- Après ajout d'un cube, et gestion des textures dans le panneau de gauche, j'obtiens le block par défaut :
+![image](./images/bookshelf.png)
+- Après modification, sauvegarde (<kbd>Crtl</kbd> + <kbd>S</kbd>) et recharge du pack de texture (<kbd>F3</kbd> + <kbd>T</kbd>)  j'obtiens ceci dans le jeu :
+![image](./images/bookshelf2.png)
+
+Pour accéder à plus d'astuces, tutos sur Blockbench, il existe ce [wiki](https://www.blockbench.net/wiki/guides/blockbench-overview-tips) et Internet.
 
 
+<br></br>
+## Mélanger des packs de textures
 
+Pour son usage personnel, ou sous réserve de respecter la license des packs mélangés, il est tout à fait légal et possible de modifier, mélanger des packs pris sur internet.  
+Le principe est le même que de créer son pack, il suffit de déziper le pack et de copier-coller les fichiers en respectant le chemin. Pour ça il suffit d'utiliser la zone de recherche avec le nom du block et de copier-coller.
 
-
-
-
-
-
-
-
-
-
-
-[^1]: Désigne un variant d'un block
+[^1]: Désigne un variant d'un block  
 
