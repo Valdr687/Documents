@@ -2,6 +2,21 @@
 
 Ce tutoriel s'adresse à ceux qui veulent créer leur pack de texture soit à partir des textures du jeu directement ou bien en mélangeant des packs pris sur Internet.
 
+#
+
+## Table des matières 
+
+* [Comment marche un pack de texture ?](#comment-marche-un-pack-de-texture)
+* [Créer son pack](#créer-son-pack)  
+    1. [Prérequis](#prérequis)
+    2. [Avant de commencer](#avant-de-commencer)
+    3. [Modifier la description](#modifier-la-description)
+    4. [Modifier une texture](#modifier-une-texture)
+    5. [Créer un modèle 3D](#créer-un-modèle-3d)
+* [Mélanger des packs](#mélanger-des-packs-de-textures)
+
+#
+
 ## Comment marche un pack de texture ?
 
 Le jeu divise les blocks en 3 parties, les items en 2 et les entités n'ont que leur texture.  
@@ -21,12 +36,12 @@ Le jeu divise les blocks en 3 parties, les items en 2 et les entités n'ont que 
 * ### Résumé : 
     ![arbre](./images/schema.png)   
 
-<br></br>
+# Créer son pack
 ## Prérequis
 
 * Paint3D ou tout autre logiciel de dessin de votre choix
 * Pour ouvrir les .json : bloc-note ( installé par défaut sur Windows)
-* Pour faire de la 3D Blockbench (gratuit), à télécharger [ici](https://www.blockbench.net/downloads), ou à utiliser en [ligne](https://web.blockbench.net/)
+* Pour faire de la 3D : Blockbench (gratuit), à télécharger [ici](https://www.blockbench.net/downloads), ou à utiliser en [ligne](https://web.blockbench.net/)
 
 ## Avant de commencer
 
@@ -60,7 +75,7 @@ On va prendre un exemple tout simple, le tronc de chene (oak log), le principe e
 Après sauvegarde et recharge du pack de texture (<kbd>F3</kbd> + <kbd>T</kbd>), j'obtiens ceci :
 ![image](./images/log2.png)
 
-## Modifier un modèle 3D
+## Créer un modèle 3D
 
 Pour créer un model 3D il faut aller dans le dossier *model*, puis dans *block* ou *item* en fonction de son choix. Ici je fais prendre l'exemple de la bibliothèque :   
 
@@ -68,15 +83,16 @@ Pour créer un model 3D il faut aller dans le dossier *model*, puis dans *block*
 - On obtient ceci :
 ![image](./images/blockbench.png)
 - Après ajout d'un cube, et gestion des textures dans le panneau de gauche, j'obtiens le block par défaut :
-![image](./images/bookshelf.png)
+![image](./images/bookshelf_base.png)
 - Après modification, sauvegarde (<kbd>Crtl</kbd> + <kbd>S</kbd>) et recharge du pack de texture (<kbd>F3</kbd> + <kbd>T</kbd>)  j'obtiens ceci dans le jeu :
 ![image](./images/bookshelf2.png)
+Pour référence j'avais ceci dans blockbench : 
+![image](./images/bookshelf.png) 
 
 Pour accéder à plus d'astuces, tutos sur Blockbench, il existe ce [wiki](https://www.blockbench.net/wiki/guides/blockbench-overview-tips) et Internet.
 
 
-<br></br>
-## Mélanger des packs de textures
+#  Mélanger des packs de textures
 
 Pour son usage personnel, ou sous réserve de respecter la license des packs mélangés, il est tout à fait légal et possible de modifier, mélanger des packs pris sur internet.  
 Le principe est le même que de créer son pack, il suffit de déziper le pack et de copier-coller les fichiers en respectant le chemin. Pour ça il suffit d'utiliser la zone de recherche avec le nom du block et de copier-coller.
