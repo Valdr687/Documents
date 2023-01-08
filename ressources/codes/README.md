@@ -25,6 +25,6 @@ Inclus l'ensemble des algorithmes / projets que j'ai rédigé et qui vallent la 
     - Permet de tester si une entrée correspond bien au type souhaité sans Regex
 * **Fonction exponentielle** :
     - Démo de matplotlib avec utilisation de la structure try and catch
-    - Trace la courbe de la fonction exponetielle avec un pas donné sur un intervalle donné
+    - Tracé la courbe de la fonction exponetielle avec un pas donné sur un intervalle donné
 
 

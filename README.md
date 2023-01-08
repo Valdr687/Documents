@@ -1,29 +1,27 @@
-# Lisezladoc
+# Documents
 
-*L'ensemble de mes documents se trouve ici ! dont mes documentations pour mes autres projets, mes ressources diverses et variées... Le tout est rangé !*
+*L'ensemble de mes documents se trouve ici ! dont mes documentations pour mes autres projets, mes ressources diverses et variées... Le tout rangé !*
 
 ## Ce dossier contient :
 
-- ### Template github
-    - README
-    - Licence CC  
-      
 - ### Ressources
+    - #### [Codes](./ressources/codes/README.md)
     - #### [En ligne :](./ressources/liens.md)
         - documentation World Edit / Optifine
         - extensions
         - outils
-    - [Fiche PIX](./ressources/pix.md)
+    - [Fiche PIX](ressources/pix.md)
 
 - ### Documentation
-    - [CSS pour le Vervada](./documentation/vervada.md)
-    - [CSS pour le portfolio / CV](./documentation/portfolio.md)
+    - [CSS pour le Vervada](documentation/vervada.md)
+    - [CSS pour le portfolio / CV](documentation/portfolio.md)
 
 - ### Bibliothèque
     - #### Minecraft 
         - [Optifine VS Sodium+Iris](bibliothèque/mc/Optifine_VS_Sodium.md)
-    - [Citations](./bibliothèque/Citations.md "Ouvre le fichier citations")
-    - [Listes](./bibliothèque/listes.md)
+        - [Tuto texture pack](bibliothèque/mc/Texture_pack_Java.md)
+    - [Citations](bibliothèque/Citations.md "Ouvre le fichier citations")
+    - [Listes](bibliothèque/listes.md "Ouvre ma liste de chose à faire")
 
 # Licence
 
