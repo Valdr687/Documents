@@ -15,6 +15,8 @@
 # Table des matières
 * Information et données (*Excel et Google*)
     - [Mener une recherche et une veille d'information](./pix.md##mener-une-recherche-et-une-veille-dinformation)
+    - [Gérer des données](#gérer-des-données)
+    - [ Traiter des données ](#traiter-des-données)
 * Communication et collaboration (*Drive et réseaux sociaux*)
     - [Partager et publier](./pix.md##Partager-et-publier)
 * Création de contenu 
@@ -44,6 +46,18 @@
 * Rechercher un document sur un site
     - rechercher sur Google NomDocument site:NomDeSite.DomaineDuSite
     - le document devrait apparaitre dans les premiers résultats
+* Retrouver la localisation d'une image :
+    - télécharger l'image
+    - aller sur [https://jimpl.com/](https://jimpl.com/) et envoyer l'image
+    - descendre un peu et voilà !
+* Obtenir des informations sur un nom de domaine : [afnic.fr]()
+
+### Gérer des données
+* Rien pour le moment
+
+### Traiter des données 
+
+
 <br></br>
 
 ## Communication et collaboration
