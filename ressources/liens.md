@@ -1,6 +1,12 @@
 #### [Retour](../README.md#en-ligne-)
 
 # Liens 
+* [Extensions](#extensions)
+* [Logiciels](#logiciels)
+* [Astuces](#astuces-variées)
+* [Outils](#outils)
+* [Minecraft](#minecraft)
+<br></br>
 
 ## Extensions
 
@@ -12,31 +18,53 @@
 - ### Youtube c'était mieux avant
     - [Return YouTube Dislike](https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi)
     - [YouTube NonStop](https://chrome.google.com/webstore/detail/youtube-nonstop/nlkaejimjacpillmajjnopmpbkbnocid)
+<br></br>
 
-<br>
+## Logiciels 
 
-## Outils
+- ### Gestions de fichier / BD / bibliothèques
+    - [Space sniffer](http://www.uderzo.it/main_products/space_sniffer/index.html)
+    - [Calibre]()
+- ### Alernative Adobe
+    ![Infographic of alternatives for Adobe products - published by u/KillinIsIllegal on r/Piracy](./illustrations/alt_adobe.png)
+<br></br>
+
+## Astuces variées
+
+- ### Numérique
+    - [Bloquer la publicité, partout](https://framablog.org/2022/06/11/de-la-pub-ou-ca/)
+- ### Style de vie
+    - [Réparer, faire durer ses objets](https://longuevieauxobjets.gouv.fr/)
+    - [Vêtements qui durent dans le temps](https://www.reddit.com/r/france/comments/vl2fh2/de_bonnes_marques_de_v%C3%AAtements_hommes_qui_durent/)
+
+<br></br>
+
+## Outils & ressources en ligne
 
 - ### Montage photo 
-    - [Montage photo](https://pixlr.com/fr/x/)
-    - [PNGs pour usage non commercial](https://www.pikpng.com/)
+    - [Montage photo - Pixlr](https://pixlr.com/fr/x/)
+    - [PWA for Color Matching](https://match.color.io/)
     - [Enlever des éléments de photos](https://cleanup.pictures/)
     - [Convertiseur de format](https://convertio.co/fr/)
 
+- ### Images 
+    - [Icones open source](https://tablericons.com/)
+    - [PNGs pour usage non commercial](https://www.pikpng.com/)
 - ### Burautique
     - [Google drive](https://drive.google.com/drive/u/0/my-drive)
     - [Cartes mentales / diagrammes](https://app.diagrams.net/)
     - [Modifications de PDFs](https://smallpdf.com/fr/modifier-un-pdf)
 
-- ### Assets 
+- ### Blender
     - [Polygon](https://www.poliigon.com/textures/free)
     - [Ambientcg](https://ambientcg.com/)
     - [Polyhaven](https://polyhaven.com/)
+    - [Stable Diffusion - texture](https://www.reddit.com/r/blender/comments/zmomxw/stable_diffusion_can_texture_your_entire_scene/)
+    - [BlockBlender](https://www.youtube.com/watch?v=TUw65gz8nOs)
 
 - ### Documentation
     - [Raccourcis claviers dans Windows](https://support.microsoft.com/fr-fr/windows/raccourcis-clavier-dans-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec)  
-
-<br>
+<br></br>
 
 ## Minecraft
 
