@@ -32,7 +32,7 @@ ___
   - [Accessibilité](#accessibilité)
 
 - Réseau  
-  -[DNS, FAI, paquets](#fonctionnement-dinternet)
+  - [DNS, FAI, paquets](#fonctionnement-dinternet)
 
 ___
 
@@ -129,3 +129,7 @@ ___
 ## Réseau  
 
 ### Fonctionnement d'Internet  
+
+*On s'appuiera sur les cours de SNT et de NSI de D-krypton*
+
+- DNS / FAI / Protocole IPV4 6 / HTTP  
