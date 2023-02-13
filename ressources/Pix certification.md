@@ -94,6 +94,10 @@ ___
 
 ### Programmer  
 
+#### Web  
+
+- [Convertisseur HEX / RGB]()
+
 #### Bases de données & SQL  
 
 - Strucutre d'une base de données :  
@@ -123,6 +127,11 @@ ___
   - -f : Ne pas afficher les messages d'erreur  
 - Exemples d'utilisation :
   - Sur le [Wiki Ubuntu](https://doc.ubuntu-fr.org/tutoriel/console_commandes_de_base#chmod)
+
+#### Encodages binaires
+
+- Décoder Hauffman :
+Parcourir la suite de bits en repérant les fragments correspondants à une lettre.
 
 ### Accessibilité  
 
