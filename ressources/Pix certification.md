@@ -18,7 +18,6 @@ ___
 
 - Information et données  
   - [Mener une recherche](#mener-une-recherche)
-  - [Gérer des données](#gérer-des-données)
   - [Traiter des données](#traiter-des-données--tableurs)
 
 - Se protéger et protéger les autres  
@@ -31,6 +30,9 @@ ___
   - [Multimédia](#multimédia)
   - [Programmer](#programmer)
   - [Accessibilité](#accessibilité)
+
+- Réseau  
+  -[DNS, FAI, paquets](#fonctionnement-dinternet)
 
 ___
 
@@ -92,9 +94,38 @@ ___
 
 ### Programmer  
 
-#### Gérer des données
+#### Bases de données & SQL  
 
 - Strucutre d'une base de données :  
 ![Schéma bdd](./illustrations/architecture_bdd.png)
 
+#### Changer les permisions en Bash  
+
+*D'après le [Wiki Ubuntu](https://doc.ubuntu-fr.org/tutoriel/console_commandes_de_base#chmod)* :
+
+- Équivalent Windows : cacls
+- Signification : change mode
+- Modifie les permissions d'accès à un fichier ou à un répertoire.
+- Type d'autorisations (une autorisation d'exécution sur un répertoire autorise son ouverture) :
+  - "+" : Ajoute une permission
+  - "-" : Enlève une permission
+  - "=" : Autorise uniquement l'autorisation indiquée
+  - r : Lecture ; Valeur octale 4
+  - w : Écriture ; Valeur octale 2
+  - x : Exécution ; Valeur octale 1
+  - s : Utilise les droits du propriétaire ou du groupe lors de l'exécution
+  - u : Propriétaire du fichier
+  - g : Groupe propriétaire du fichier
+  - o : Tous les autres utilisateurs
+- Options les plus fréquentes :
+  - -R : Récursif, modifie les autorisations d'un répertoire et tout ce qu'il contient
+  - -c : Ne montrer que les fichiers ayant été réellement modifiés
+  - -f : Ne pas afficher les messages d'erreur  
+- Exemples d'utilisation :
+  - Sur le [Wiki Ubuntu](https://doc.ubuntu-fr.org/tutoriel/console_commandes_de_base#chmod)
+
 ### Accessibilité  
+
+## Réseau  
+
+### Fonctionnement d'Internet  
