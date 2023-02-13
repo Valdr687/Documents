@@ -94,6 +94,15 @@ ___
 
 ### Programmer  
 
+#### Introduction  
+
+- Les types de données :  
+  |Nom|Abréviation|Ecriture|Nature|Type| 
+  |-:|-:|-:|-:|-:|
+  |String|str|'texte' ou "texte"| Chaine de charactère| Basique|  
+  |Integer|int|11| Chiffre et nombre $\in$\Z| Basique|
+  |Float|float|1.1| Nombre $\in$\R| Basique|  
+
 #### Web  
 
 - [Convertisseur HEX / RGB]()
@@ -102,6 +111,9 @@ ___
 
 - Strucutre d'une base de données :  
 ![Schéma bdd](./illustrations/architecture_bdd.png)
+- Rédiger une requete SQL :  
+  Soit TEST un test logique (=,<,>...) et valeur un string ou un int ou un float.
+  SELECT * FROM table WHERE attributTESTvaleur AND attributTESTvaleur  
 
 #### Changer les permisions en Bash  
 
