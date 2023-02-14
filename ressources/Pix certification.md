@@ -82,6 +82,15 @@ ___
 
 ### Licenses CC et juridictions  
 
+  ||Nom|Citer l'auteur|Modifier|Partage sous les mêmes conditions|Utilisation commerciale|  
+  |-:|-:|-:|-:|-:|-:|
+  |CC|BY|:heavy_check_mark:| :heavy_check_mark: | Non obligatoire|:heavy_check_mark:|
+  |CC|BY NC|:heavy_check_mark:| :heavy_check_mark: | Non obligatoire|:x: |  
+  |CC|BY SA|:heavy_check_mark:| :heavy_check_mark: | :heavy_check_mark:|:heavy_check_mark: |
+  |CC|BY NC SA|:heavy_check_mark:| :heavy_check_mark: | :heavy_check_mark:|:x: |
+  |CC|BY ND|:heavy_check_mark:| :x: | Non obligatoire| NA |  
+  |CC|BY NC ND|:heavy_check_mark:| :x: | :heavy_check_mark:|:x: |
+
 ### Se protéger
 
 ### Protéger l'environnement  
@@ -90,6 +99,16 @@ ___
 
 ### Documents textuels
 
+1. Les styles :  
+Ils permettent de définir la police, la couleur mais aussi des propriétées plus avancées comme l'identation, l'insertion de saut de page ( menu Enchaînement )...
+1. Les paragraphes :  
+Il est possible de conserver un paragraphe entier sans ligne isolée ( son titre par exemple ), pour cela il faut cocher les bons paramètres dans le menu Enchaînement du style.
+1. Les orphelines & les veuves  
+Une orphelines est la première ligne d'un paragraphe apparaissant isolée en bas d'une page et une veuve est la dernière ligne d'un paragraphe apparaissant isolée en haut d'une page. On cherche à les éviter pour fluidifier la lecture.  
+Pour cela aller dans **Format...**, **Paragraphe...**, **Enchaînement** et activer le traitement des veuves et des orphelines.
+1. Couleur d'accentuation :  
+Concept très important en design UI/UX, le sous-menu **Style de caractère** du menu **Style** permet de définir la couleur d'Accentuation.
+
 ### Multimédia  
 
 ### Programmer  
@@ -97,15 +116,15 @@ ___
 #### Introduction  
 
 - Les types de données :  
-  |Nom|Abréviation|Ecriture|Nature|Type| 
+  |Nom|Abréviation|Ecriture|Nature|Type|  
   |-:|-:|-:|-:|-:|
   |String|str|'texte' ou "texte"| Chaine de charactère| Basique|  
-  |Integer|int|11| Chiffre et nombre $\in$\Z| Basique|
-  |Float|float|1.1| Nombre $\in$\R| Basique|  
+  |Integer|int|11| Chiffre et nombre $\in$ $\Z$| Basique|
+  |Float|float|1.1| Nombre $\in$ $\R$| Basique|  
 
 #### Web  
 
-- [Convertisseur HEX / RGB]()
+- [Convertisseur HEX / RGB](https://rgb.to/)
 
 #### Bases de données & SQL  
 
