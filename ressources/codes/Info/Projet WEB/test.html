@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Test de culture internet</title>
+	<script src="./js/script_test.js"></script>
+	<link rel='stylesheet' href='./css/style_formulaire.css'>
+    <link rel="icon" href="./images/globales/icon_small.png" type="image/icon type">
+    <link href='http://fonts.googleapis.com/css?family=Droid+Serif' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
+</head>
+<body>
+    <form action="" method="GET">
+        <div class="corps">
+             <!-- ************************************* Logo - Page web -->
+            <div class="logo"><img src="./images/globales/icon.png" alt="logo"></div>
+            <!-- ************************************* Texte  -->
+            <h3>Formulaire de culture générale</h3>
+            <!-- ************************************* -->
+            <h3>Pastèque ou Melon d'eau?</h3>
+            <select id="melon" onchange="Pasteque();">
+                <option value=-1>--Choisissez--</option>
+               <option value=1>Melon d'eau</option>
+               <option value=2>Pastèque</option>     
+            </select>
+            <p></p>
+            <!-- ************************************* -->
+            <h3>Utilité d'une banane?</h3>
+            <select id="banane" onchange="Banane();">
+                <option value=-1>--Choisissez--</option>
+               <option value=1>Manger</option>
+               <option value=2>Faire glisser les autres</option>     
+               <option value=3>Unité de mesure</option>     
+            </select>
+            <p></p>
+            <!-- ************************************* -->
+            <h3>Premier meme sur internet?</h3>
+            <select id="first" onchange="Premier();">
+                <option value=-1>--Choisissez--</option>
+               <option value=1>Dancing baby</option>  
+               <option value=2>Une illustration de 1921</option>     
+            </select>
+            <p></p>
+            <!-- ************************************* -->
+            <h3>Gif ou Jif?</h3>
+            <select id="Gif" onchange="Giphy();">
+                <option value=-1>--Choisissez--</option>
+               <option value=1>Gif</option>
+               <option value=2>Jif</option>   
+            </select>
+            <p></p>
+            <!-- ************************************* -->
+            <h3>IMPORTANT : Vous devez avoir rempli le reste avant de répondre à la question.</h3>
+            <p></p>
+            <!-- ************************************* -->
+            <h3>QUESTION ELIMINATOIRE</h2>
+            <select id="choc" required="" onchange="Chocolat();">
+                <option value=-1>--Choisissez--</option>
+               <option value=1>Pain au chocolat</option>
+               <option value=2>Chocolatine</option>     
+            </select>
+            <p></p>
+            <div ><input class="button"  value="Valider" type="submit"></div>    
+        </div>
+    </form>
+
+</body>
