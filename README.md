@@ -13,7 +13,6 @@
     - documentation World Edit / Optifine
     - extensions
     - outils
-  - [Fiche PIX](ressources/pix.md)
 
 - ### Documentation
 
