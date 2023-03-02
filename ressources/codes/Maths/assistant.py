@@ -86,7 +86,7 @@ while run== 1:
         print("|  Division euclidienne :    |")
         x=int(input("Nombre a diviser : "))
         a=int(input("Diviseur : "))
-        print("Quotien",x//a,"; Reste",x%a)
+        print("Quotient",x//a,"; Reste",x%a)
         print("|____________________________|") 
     elif entree == "3" :
         print("Deg vers rad / rad vers deg")
