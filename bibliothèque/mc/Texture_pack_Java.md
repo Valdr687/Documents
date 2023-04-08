@@ -71,7 +71,7 @@ Le jeu divise les blocks en 3 parties, les items en 2 et les entités n'ont que 
 ``` json
 {
    "pack": {
-      "pack_format": 12,
+      "pack_format": 13,
       "description": "La description va là"
    }
 }
