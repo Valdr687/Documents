@@ -1,4 +1,4 @@
-# Cree par Thomas C           
+# Cree par Paul V         
 from math import *
 def menu() :
   print(" ____________________________ ")
@@ -56,7 +56,7 @@ while run== 1:
           print("La solution est ",alpha)
 
         else :
-          print("Erreur : code clem")
+          print("Erreur")
         #Tableau de signe
         print("|     Tableau de signe :     |") 
         if delta <0 :
@@ -86,7 +86,7 @@ while run== 1:
         print("|  Division euclidienne :    |")
         x=int(input("Nombre a diviser : "))
         a=int(input("Diviseur : "))
-        print("Quotien",x//a,"; Reste",x%a)
+        print("Quotient",x//a,"; Reste",x%a)
         print("|____________________________|") 
     elif entree == "3" :
         print("Deg vers rad / rad vers deg")
@@ -187,9 +187,9 @@ while run== 1:
         elif x=="6" :
             break
         else :
-          print("Erreur : code mel")
+          print("Erreur")
     else :
-        print("Vous quittez l'assistant realise par Thomas Casanova")
+        print("Vous quittez l'assistant")
         run=0
 
 
