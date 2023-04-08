@@ -32,9 +32,9 @@ Le jeu divise les blocks en 3 parties, les items en 2 et les entités n'ont que 
   * Model : ce fichier .json définit le model utilisé par l'item, il peut faire appel à un model parent et définit comment doit être affiché l'item dans l'inventaire, dans un cadre...
   * Texture(s) : un ou plusieurs ( si model 3d custom) .png
 
-* ### Les entitées
+* ### Les entités
 
-  * Texture : accesibles dans *NomDuPack*/assets/minecraft/textures/entity il existe soit un fichier / entitées ou un dossier avec des variants
+  * Texture : accessibles dans *NomDuPack*/assets/minecraft/textures/entity il existe soit un fichier / entités ou un dossier avec des variants
 
 * ### Nomenclature
 
@@ -57,12 +57,12 @@ Le jeu divise les blocks en 3 parties, les items en 2 et les entités n'ont que 
 
 * Installer le Template dans le dossier texture pack du jeu :
   * Appuyer sur <kbd>Windows</kbd> + <kbd>R</kbd>
-  * Entrer dans la fenetre qui viens de s'ouvrir :  %appdata%\.minecraft\resourcepacks
+  * Entrer dans la fenêtre qui viens de s'ouvrir :  %appdata%\\.minecraft\resourcepacks
     ![Image](./images/appdata.png)
-  * Télécharger le [template](./Template.zip) et dézipper le. On doit obtenr ceci :
-    ![Illustation](./images/dossier.png)
+  * Télécharger le [template](./Template.zip) et dézipper le. On doit obtenir ceci :
+    ![Illustration](./images/dossier.png)
   * Charger le pack de texture dans le jeu :
-    ![Illustation](./images/fenetre.png)
+    ![Illustration](./images/fenetre.png)
 
 ## Modifier la description
 
@@ -71,7 +71,7 @@ Le jeu divise les blocks en 3 parties, les items en 2 et les entités n'ont que 
 ``` json
 {
    "pack": {
-      "pack_format": 12,
+      "pack_format": 13,
       "description": "La description va là"
    }
 }
@@ -83,7 +83,7 @@ Le jeu divise les blocks en 3 parties, les items en 2 et les entités n'ont que 
 
 ## Modifier une texture
 
-On va prendre un exemple tout simple, le tronc de chene (oak log), le principe est le même pour toutes les autres textures. Je cherche à modifier une texture donc je me rend dans le dossier *textures*, puis *block* et je vais sélectionner la texture "*oak_log_top.png*" puis l'ouvrir dans Paint3D. J'ai fais ceci :
+On va prendre un exemple tout simple, le tronc de chêne (oak log), le principe est le même pour toutes les autres textures. Je cherche à modifier une texture donc je me rend dans le dossier *textures*, puis *block* et je vais sélectionner la texture "*oak_log_top.png*" puis l'ouvrir dans Paint3D. J'ai fais ceci :
 ![log](./images/log.png)
 Après sauvegarde et recharge du pack de texture (<kbd>F3</kbd> + <kbd>T</kbd>), j'obtiens ceci :
 ![image](./images/log2.png)
