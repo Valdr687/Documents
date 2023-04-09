@@ -24,7 +24,36 @@
     - image : div parent
     - image-actif : image active
 
-### CSS :
+## Couleurs
+
+1. Thème clair / par défaut :
+    - Couleurs d'arrière plan :
+        - Couleur de fond : --fond-page ![#f5f5ee](https://via.placeholder.com/15/f5f5ee/000000.png?text=+) `#f5f5ee`
+        - Fond secondaire : --fond-2 ![#204ecc](https://via.placeholder.com/15/204ecc/000000.png?text=+) `#204ecc`
+        - Fond tertiaire : --fond-3
+        - Fond quaternaire : --fond-4
+        - Fond sombre : --fond-sombre ![#0f0f0f](https://via.placeholder.com/15/0f0f0f/000000.png?text=+) `#0f0f0f`
+    - Couleurs textes :
+        - Texte : --texte ![#131212](https://via.placeholder.com/15/131212/000000.png?text=+) `#131212` 
+        - Citation : --citation ![#858585](https://via.placeholder.com/15/858585/000000.png?text=+) `#858585`
+        - Texte clair : --texte-clair ![#eedbd3](https://via.placeholder.com/15/eedbd3/000000.png?text=+) `#eedbd3`
+    - Couleurs d'accentuation :
+        - Liens : --accentuation-1 ![#764d47](https://via.placeholder.com/15/764d47/000000.png?text=+) `#764d47`
+    - Couleurs de survol :
+        - Liens : --accentuation-2 ![#cc7320](https://via.placeholder.com/15/cc7320/000000.png?text=+) `#cc7320`
+
+1. Thème sombre :
+    - Couleurs d'arrière plan :
+        - Couleur de fond : --fond-page ![#2b2a33](https://via.placeholder.com/15/2b2a33/000000.png?text=+) `#2b2a33`
+        - Fond secondaire : --fond-2 ![#204ecc](https://via.placeholder.com/15/204ecc/000000.png?text=+) `#204ecc`
+        - Fond tertiaire : --fond-3
+        - Fond quaternaire : --fond-4
+    - Couleurs textes :
+        - Citation : --citation ![#858585](https://via.placeholder.com/15/858585/000000.png?text=+) `#858585`
+    - Couleurs d'accentuation :
+        - Liens : --accentuation-1 ![#96625a](https://via.placeholder.com/15/96625a/000000.png?text=+) `#96625a`
+
+## CSS :
 
 - Déclarations générales pour faciliter le positionnement, on définit une classe qui permet de cacher le défilement lors de l'ouverture d'une image (gràce à jquery) et des variables pour la réacivité.
 ```css
