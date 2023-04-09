@@ -12,7 +12,7 @@
 > "Comme si l'insécurité suprême n'était pas de vivre dans un monde où strictement rien de ce que j'écris, dis, fais ne peut plus être intime ou privé"  
 
 Alain Damasio, Le dehors de toute chose
-> " Si la liberté a un sens, elle signifie le droit de dire aux autres ce qu'ils n'ont pas envie d'entendre. "
+> " Si la liberté a un sens, elle signifie le droit de dire aux autres ce qu'ils n'ont pas envie d'entendre."
 
 George Orwell
 
