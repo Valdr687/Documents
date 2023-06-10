@@ -1,0 +1,38 @@
+{
+    "manifest_version": 2,
+    "name": "Companion for Radio France",
+    "version": "1",
+    "description": "Add shortcuts for the Radio France player",
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*.radiofrance.fr/*"
+            ],
+            "js": [
+                "companion.js"
+            ]
+        }
+    ],
+    "permissions": [
+        "activeTab",
+        "*://*.radiofrance.fr/*"
+    ],
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "companion@radiofrance"
+        }
+    },
+    "icons": {
+        "48": "border-48.png"
+    },
+    "browser_action": {
+        "default_icon": "border-48.png",
+        "default_title": "Companion for Radio France",
+        "default_popup": "popup/companion.html"
+    },
+    "web_accessible_resources": [
+        "beasts/frog.jpg",
+        "beasts/turtle.jpg",
+        "beasts/snake.jpg"
+    ]
+}
