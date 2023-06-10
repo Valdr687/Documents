@@ -6,13 +6,13 @@
 
 - ### Ressources
 
-  - #### [Codes](./ressources/codes/README.md)
+- #### [Codes](./ressources/codes/README.md)
 
-  - #### [En ligne :](./ressources/liens.md)
+- #### [En ligne :](./ressources/liens.md)
   
-    - documentation World Edit / Optifine
-    - extensions
-    - outils
+  - documentation World Edit / Optifine
+  - extensions
+  - outils
 
 - ### Documentation
 
@@ -21,10 +21,10 @@
 
 - ### Bibliothèque
 
-  - #### Minecraft
+- #### Minecraft
   
-    - [Optifine VS Sodium+Iris](bibliothèque/mc/Optifine_VS_Sodium.md)
-    - [Tuto texture pack](bibliothèque/mc/Texture_pack_Java.md)
+  - [Optifine VS Sodium+Iris](bibliothèque/mc/Optifine_VS_Sodium.md)
+  - [Tuto texture pack](bibliothèque/mc/Texture_pack_Java.md)
   - [Citations](bibliothèque/Citations.md "Ouvre le fichier citations")
   - [Listes](bibliothèque/listes.md "Ouvre ma liste de chose à faire")
 
