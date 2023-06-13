@@ -9,13 +9,14 @@
                 "*://*.radiofrance.fr/*"
             ],
             "js": [
-                "companion.js"
+                "background.js"
             ]
         }
     ],
     "permissions": [
         "activeTab",
-        "*://*.radiofrance.fr/*"
+        "*://*.radiofrance.fr/*",
+        "downloads"
     ],
     "browser_specific_settings": {
         "gecko": {
@@ -28,11 +29,9 @@
     "browser_action": {
         "default_icon": "border-48.png",
         "default_title": "Companion for Radio France",
-        "default_popup": "popup/companion.html"
+        "default_popup": "popup/popup.html"
     },
     "web_accessible_resources": [
-        "beasts/frog.jpg",
-        "beasts/turtle.jpg",
-        "beasts/snake.jpg"
+        "popup/popup.js"
     ]
 }

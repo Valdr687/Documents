@@ -49,3 +49,16 @@ addButtonsInterval = setInterval(() => {
 		clearInterval(addButtonsInterval)
 	}
 }, 500);
+
+// Gestionnaire des messages provenant de la popup
+browser.runtime.onMessage.addListener((message, sender, sendResponse) => {
+	if (message.action === 'getHtml') {
+	  // Récupérer le contenu de la page active
+	  browser.tabs.executeScript({ code: 'document.documentElement.innerHTML' }).then((result) => {
+		const html = result[0];
+		sendResponse({ html });
+	  });
+	  return true; // Indiquer que nous allons répondre de manière asynchrone
+	}
+  });
+  
