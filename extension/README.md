@@ -3,8 +3,8 @@
 Add easy download and keyboard shortcuts for almost all keys on the Radio France player(s).
 
 The shortcuts are:  
-|<kbd>Space</kbd>|Pause and resume| 
-|--|--| 
+|<kbd>Space</kbd>|Pause and resume|
+|--|--|
 |:arrow_left:|-10s|
 |:arrow_right:|+10s|
 |:arrow_up:|Increase volume|

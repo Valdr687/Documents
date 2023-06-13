@@ -7,33 +7,30 @@
 * [Astuces](#astuces-variées)
 * [Outils](#outils)
 * [Minecraft](#minecraft)
-<br></br>
 
 ## Extensions
 
 * ### Bloqueurs de publicités
 
-  * [L'incontournable Ublock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
-  * [Youtube enhancer : pas de pubs et plus de personnalisation](https://chrome.google.com/webstore/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle)
+  * [L'incontournable Ublock Origin](https://addons.mozilla.org/fr/firefox/addon/ublock-origin/reviews/?utm_source=firefox-browser&utm_medium=firefox-browser&utm_content=addons-manager-reviews-link)
+  * [AdNauseam](https://addons.mozilla.org/fr/firefox/addon/adnauseam/)  
   * [Unpaywall](https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha)
 
 * ### Youtube c'était mieux avant
 
-  * [Return YouTube Dislike](https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi)
-  * [YouTube NonStop](https://chrome.google.com/webstore/detail/youtube-nonstop/nlkaejimjacpillmajjnopmpbkbnocid)
-<br></br>
+  * [Return Youtube Dislike](https://addons.mozilla.org/fr/firefox/addon/return-youtube-dislikes/reviews/?utm_source=firefox-browser&utm_medium=firefox-browser&utm_content=addons-manager-reviews-link)  
+  * [SponsorBlock](https://addons.mozilla.org/fr/firefox/addon/sponsorblock/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
 ## Logiciels
 
 * ### Gestions de fichier / BD / bibliothèques
 
   * [Space sniffer](http://www.uderzo.it/main_products/space_sniffer/index.html)
-  * [Calibre]()
+  * [Calibre](https://calibre-ebook.com/fr)
 
-* ### Alernative Adobe
+* ### Alternatives Adobe
 
     ![Infographic of alternatives for Adobe products - published by u/KillinIsIllegal on r/Piracy](./illustrations/alt_adobe.png)
-<br></br>
 
 ## Astuces variées
 
@@ -46,8 +43,6 @@
   * [Réparer, faire durer ses objets](https://longuevieauxobjets.gouv.fr/)
   * [Vêtements qui durent dans le temps](https://www.reddit.com/r/france/comments/vl2fh2/de_bonnes_marques_de_v%C3%AAtements_hommes_qui_durent/)
 
-<br></br>
-
 ## Outils & ressources en ligne
 
 * ### Montage photo
@@ -55,14 +50,14 @@
   * [Montage photo - Pixlr](https://pixlr.com/fr/x/)
   * [PWA for Color Matching](https://match.color.io/)
   * [Enlever des éléments de photos](https://cleanup.pictures/)
-  * [Convertiseur de format](https://convertio.co/fr/)
+  * [Convertisseur de format](https://convertio.co/fr/)
 
 * ### Images
 
   * [Icones open source](https://tablericons.com/)
   * [PNGs pour usage non commercial](https://www.pikpng.com/)
 
-* ### Burautique
+* ### Bureautique
 
   * [Google drive](https://drive.google.com/drive/u/0/my-drive)
   * [Cartes mentales / diagrammes](https://app.diagrams.net/)
@@ -76,7 +71,7 @@
   * [Stable Diffusion - texture](https://www.reddit.com/r/blender/comments/zmomxw/stable_diffusion_can_texture_your_entire_scene/)
   * [BlockBlender](https://www.youtube.com/watch?v=TUw65gz8nOs)
 
-* ### Documentation
+* ### Ressources
 
   * [Raccourcis claviers dans Windows](https://support.microsoft.com/fr-fr/windows/raccourcis-clavier-dans-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec)  
 <br></br>
@@ -97,7 +92,7 @@
 
 * ### Assistants construction
 
-  * [Gradians](https://1280px.github.io/hueblocks/)
+  * [Gradients](https://1280px.github.io/hueblocks/)
   * [lignes courbes](https://iseenbaas.nl/curve/)
   * [formes géométriques](https://minecraftshapes.com/)
   * [formes convexes](http://oranj.io/blog/VoxelSphereGenerator)
