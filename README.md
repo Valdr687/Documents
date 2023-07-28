@@ -1,32 +1,28 @@
 # Documents
 
-*L'ensemble de mes documents se trouve ici ! dont mes documentations pour mes autres projets, mes ressources diverses et variées... Le tout rangé !*
+*Ressources collectées sur internet et liées à mes projets*
 
 ## Ce dossier contient
 
-- ### Ressources
+- ### [Codes](./ressources/codes/README.md)
 
-- #### [Codes](./ressources/codes/README.md)
-
-- #### [En ligne :](./ressources/liens.md)
+- ### [Liens](./ressources/liens.md)
   
-  - documentation World Edit / Optifine
-  - extensions
-  - outils
+Liens utiles
 
-- ### Documentation
+- ### Projets
 
-  - [CSS pour le Vervada](documentation/vervada.md)
+  - [CSS pour le Vervada - obsolète](documentation/vervada.md)
   - [CSS pour le portfolio / CV](documentation/portfolio.md)
 
 - ### Bibliothèque
 
+  - [Citations](bibliothèque/Citations.md "Ouvre le fichier citations")
+  
 - #### Minecraft
   
   - [Optifine VS Sodium+Iris](bibliothèque/mc/Optifine_VS_Sodium.md)
   - [Tuto texture pack](bibliothèque/mc/Texture_pack_Java.md)
-  - [Citations](bibliothèque/Citations.md "Ouvre le fichier citations")
-  - [Listes](bibliothèque/listes.md "Ouvre ma liste de chose à faire")
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
