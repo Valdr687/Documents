@@ -1,28 +1,18 @@
 # Documents
 
-*Ressources collectées sur internet et liées à mes projets*
+*Ressources collectées sur internet et fiches de cours de PTSI*
 
-## Ce dossier contient
+## Bibliothèque
 
-- ### [Codes](./ressources/codes/README.md)
+Ressources et écrits diverses, hors contexte.
 
-- ### [Liens](./ressources/liens.md)
-  
-Liens utiles
+## Info
 
-- ### Projets
+Fiches pour les cours d'info et programmes ballotés depuis la NSI.
 
-  - [CSS pour le Vervada - obsolète](documentation/vervada.md)
-  - [CSS pour le portfolio / CV](documentation/portfolio.md)
+## Ressources
 
-- ### Bibliothèque
-
-  - [Citations](bibliothèque/Citations.md "Ouvre le fichier citations")
-  
-- #### Minecraft
-  
-  - [Optifine VS Sodium+Iris](bibliothèque/mc/Optifine_VS_Sodium.md)
-  - [Tuto texture pack](bibliothèque/mc/Texture_pack_Java.md)
+Liens et illustration du Wiki.
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
