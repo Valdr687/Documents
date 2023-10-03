@@ -1,5 +1,3 @@
-#### [Retour](../README.md#liens)
-
 # Liens
 
 * [Extensions](#extensions)
