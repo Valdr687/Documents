@@ -93,7 +93,7 @@ L'expression de la partie dans une nouvelle base $B$ est obtenue par multiplicat
 0,32 $\times$ 2 = <span style="color:red">0</span>,64
 0,64 $\times$ 2 = <span style="color:red">1</span>,28
 ...
-donc 0,145 $\approx$ (0,<span style="color:red">001001</span>)$_2$
+donc 0,145 $\approx$ (0,<span style="color:red">001001</span>)<sub>2</sub>
 
 **_Autre méthode_**
 
@@ -178,4 +178,4 @@ Selon les images, le codage peut être réalisé en :
 
 - noir et blanc: 1 bit/px
 - niveau de gris: 4, 8 ou 16 bit/px
-- couleur RGB (Red, Green, Blue): chaque couleur est décomposée en sa composante rouge, verte et bleue et chaque composante est codée sur 4, 8 ou 16 bits (le plus souvent sur 8 bits selon le modèle rgb($r$,$g$,$b$) avec $r$,$g$ et $b$ $\in [0;255]$)
+- couleur RGB (Red, Green, Blue): chaque couleur est décomposée en sa composante rouge, verte et bleue et chaque composante est codée sur 4, 8 ou 16 bits (le plus souvent sur 8 bits selon le modèle rgb($r,g,b$) avec $r$, $g$ et $b$ $\in [0;255]$)
