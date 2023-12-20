@@ -10,6 +10,13 @@
 | Watershed | Décisif |
 | heedless | qui ne fait pas attention, insensible à |
 | Sentient | Sensible (conscient) |
+| Thorough | Reliable |
+| Savvy | Ingénieux, doté de connaissances dans un domaine (computer savvy)    |
+| Life-like | Réaliste, qui semble être vivant    |
+| State-of-the-art | Cutting Edge |
+| Saddened | Attristé     |
+| Creepy | Effrayant    |
+| Versatile |Polyvalent, Versatile     |
 
 ### Noms
 
@@ -18,9 +25,12 @@
 | Ubiquity | Omniprésence |
 | Panacea | Panacée / Remède miracle |
 | Ailment | Maux |
-| Concatenation | Concatenation (Enchaînement d'élément) |
+| Concatenation | Concatenation (Enchainement d'élément) |
 | Surveillance |     |
 | infringement | Infraction / Violation |
+| Awe | Admiration     |
+| Red-teaming | A red team is a group that pretends to be an enemy, attempts a physical or digital intrusion against an organization at the direction of that organization, then reports back so that the organization can improve their defenses.    |
+| Ethics | Éthique     |
 
 ### Verbes
 
