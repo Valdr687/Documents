@@ -19,14 +19,14 @@ import numpy as np
 
 | Objectif                                       | Code Python                                               |
 |------------------------------------------------|-----------------------------------------------------------|
-| Récupérer l’élément de rang i d’un tableau 1D     | `t[i]`                                                    |
-| Récupérer les éléments entre les rangs a (inclus) et b (exclus) d’un tableau 1D | `t[a:b]`                                             |
-| Récupérer les éléments à partir du rang a (inclus) d’un tableau 1D | `t[a:]`                                               |
-| Récupérer les éléments jusqu’au rang b (exclus) d’un tableau 1D | `t[:b]`                                               |
-| Récupérer les éléments entre les rangs a (inclus) et b (exclus) par pas p d’un tableau 1D | `t[a:b:p]`                                       |
-| Récupérer l’élément de la ligne i et colonne j d’un tableau 2D | `t[i, j]` ou `t[i][j]`                                 |
-| Récupérer la ligne i d’un tableau 2D             | `t[i, :]`                                               |
-| Récupérer la colonne j d’un tableau 2D          | `t[:, j]`                                               |
+| Récupérer l'élément de rang i d'un tableau 1D     | `t[i]`                                                    |
+| Récupérer les éléments entre les rangs a (inclus) et b (exclus) d'un tableau 1D | `t[a:b]`                                             |
+| Récupérer les éléments à partir du rang a (inclus) d'un tableau 1D | `t[a:]`                                               |
+| Récupérer les éléments jusqu'au rang b (exclus) d'un tableau 1D | `t[:b]`                                               |
+| Récupérer les éléments entre les rangs a (inclus) et b (exclus) par pas p d'un tableau 1D | `t[a:b:p]`                                       |
+| Récupérer l'élément de la ligne i et colonne j d'un tableau 2D | `t[i, j]` ou `t[i][j]`                                 |
+| Récupérer la ligne i d'un tableau 2D             | `t[i, :]`                                               |
+| Récupérer la colonne j d'un tableau 2D          | `t[:, j]`                                               |
 
 ### Fonctions statistiques utiles
 
@@ -44,7 +44,7 @@ import numpy as np
 import matplotlib . pyplot as plt # Pour tracer des graphiques
 ```
 
-## Tracé d’un graphe
+## Tracé d'un graphe
 
 Entrée des données expérimentales dans un tableau array, grâce à la bibliothèque numpy on crée un
 np.array pour chacune des grandeurs (abscisses et ordonnées).
@@ -55,6 +55,15 @@ x = np. array ([ rentrer les valeurs de x séparées par des virgules ])
 # contient les valeurs x auxquelles ont été mesurées celles de y
 y = np. array ([ rentrer les valeurs de y séparées par des virgules ])
 # ce sont les valeurs de y correspondantes
+
+plt.plot (x, y, 'bo ',label ='nom de la courbe ') # Représenter y en fonction de x avec
+ronds bleus
+plt.xlabel ('légende à adapter ') # Légende axe de abscisses
+plt.ylabel ('légende à adapter ') # Légende axe des ordonnées
+plt.title ('titre à adapter ') # Titre
+plt.legend () # Afficher la légende ( utile si plusieurs courbes sur le même graphique)
+plt.grid () # Quadrillage
+plt.show () # Affiche le graphique
 ```
 
 ## Options
