@@ -1,5 +1,12 @@
 # Algorithmique et programmation
 
+## Introduction
+
+Installer une bibliothèque avec pip
+
+1. Ouvrir un terminal
+1. ```pip install Nom```
+
 ## Variables
 
 ### Opérations
