@@ -17,4 +17,4 @@
 
 Feel free to use this content for educational purposes.  
 
-"We need to implement avant-garde laisser-faire policies to protect pâtissiers and their protégées after the recent coup d'état."
+> We need to implement avant-garde laisser-faire policies to protect pâtissiers and their protégées after the recent coup d'état.

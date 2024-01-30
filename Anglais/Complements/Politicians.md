@@ -1,0 +1,19 @@
+[Back](../Themed/4%20-%20The%20World%20is%20a%20Stage.md)
+
+# Politicians
+
+> :warning: **Written in Q1 of 2024**: May be outdated
+
+| Picture | Name | Bio |
+| --- | --- | --- |
+|  ![Suella Braverman](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Suella_Braverman_Official_Cabinet_Portrait%2C_September_2022_%28cropped%29.jpg/800px-Suella_Braverman_Official_Cabinet_Portrait%2C_September_2022_%28cropped%29.jpg)    | Suella Braverman | British politician and barrister who served as Home Secretary, sacked by PM over a flagship immigration policy wishing to send asylum seekers to Rwanda |
+|  ![Xi Jinping](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Xi_Jinping_with_Macron_and_Von_der_Leyen_2023.jpg/800px-Xi_Jinping_with_Macron_and_Von_der_Leyen_2023.jpg)    | Xi Jinping | President of the People's Republic of China since 2013 |
+| ![Donald Trump](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/800px-Donald_Trump_official_portrait.jpg)     | Donald Trump | American politician, media personality, and businessman who served as the 45th president of the United States from 2017 to 2021 |
+|  ![Boris Johnson](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Boris_Johnson_official_portrait_%28cropped%29.jpg/800px-Boris_Johnson_official_portrait_%28cropped%29.jpg)    | Boris Johnson ('BoJo') | Alexander Boris de Pfeffel Johnson is a British politician and writer, Prime Minister of the United Kingdom and Leader of the Conservative Party from 2019 to 2022 |
+| ![King Charles III](https://upload.wikimedia.org/wikipedia/commons/a/ac/King_Charles_III_%28July_2023%29.jpg)     | King Charles III ('The Third') | King of the United Kingdom and other Commonwealth realms as off 2023 |
+| ![Rishi Sunak](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Portrait_of_Prime_Minister_Rishi_Sunak_%28cropped%29.jpg/800px-Portrait_of_Prime_Minister_Rishi_Sunak_%28cropped%29.jpg)     | Rishi Sunak | British politician who has served as Prime Minister of the United Kingdom and Leader of the Conservative Party since 2022. The first British Asian prime minister, he previously held two cabinet positions under Boris Johnson |
+| ![David Cameron](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/David_Cameron_Official_Portrait_2023_%28cropped%29.jpg/800px-David_Cameron_Official_Portrait_2023_%28cropped%29.jpg)     | David Cameron | British politician who has served as Foreign Secretary since November 2023 / PM between 2010 and 2016 |
+|![Mohamed bin Salman](https://upload.wikimedia.org/wikipedia/commons/e/e3/Mohammad_bin_Salman_October_2019_%28cropped%29.jpg)      | Mohamed bin Salman ('MBS') | Mohammed bin Salman Al Saud is Crown Prince and Prime Minister of Saudi Arabia is the de facto ruler of Saudi Arabia |
+| ![ Keir Starmer](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Official_portrait_of_Keir_Starmer_crop_2.jpg/800px-Official_portrait_of_Keir_Starmer_crop_2.jpg)     | Keir Starmer | British politician and barrister who has served as Leader of the Opposition and Leader of the Labour Party since 2020 |
+| ![Georgia Meloni](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Giorgia_Meloni_Official_2023_%28cropped%29.jpg/800px-Giorgia_Meloni_Official_2023_%28cropped%29.jpg)    | Georgia Meloni | Neo-fascist Italian politician who has been serving as the prime minister of Italy since October 2022 |
+| ![Liz Truss](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Official_portrait_of_Liz_Truss_%28cropped%29.jpg/800px-Official_portrait_of_Liz_Truss_%28cropped%29.jpg)    | Liz Truss | British politician who served as Prime Minister  from September to October 2022. On her fiftieth day in office, she stepped down amid a government crisis, making her the shortest-serving prime minister in British history. Managed to sunk british economy in 50 days |
