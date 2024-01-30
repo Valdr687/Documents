@@ -1,4 +1,8 @@
-### Adjectifs
+[Back](../README.md)
+
+# The Big Quit
+
+## Adjectifs
 
 |     |     |
 | --- | --- |
@@ -7,7 +11,7 @@
 | Demanding | Exigeant |
 | Soaring | Qui monte en flèche |
 
-### Noms
+## Noms
 
 |     |     |
 | --- | --- |
@@ -26,19 +30,19 @@
 | swathes of workers | Hordes de travailleurs |
 | The payroll | Masse salariale |
 
-### Verbes
+## Verbes
 
 |     |     |
 | --- | --- |
 | To stall | Caller (pour une voiture) / Ralentir (pour une tendance) / Ne pas avoir de connection (pour un torrent) |
 | To resign | Démissionner |
-| To trigger | Déclancher |
+| To trigger | Déclencher |
 | Tipping point | Point de basculement |
 | Turning point | Tournant |
 | To peak | Reach maximum |
 | to juggle work and family | concilier travail et vie de famille |
 
-### Expressions
+## Expressions
 
 |     |     |
 | --- | --- |
@@ -49,4 +53,4 @@
 | To go awry | Mal tourner / déraper |
 | Flexible working hours | des heures de travail flexibles |
 | Without the hassle of | sans le tracas lié à qq chose |
-| stream lining | réduire les coûts , profiler, rationnaliser |
+| stream lining | réduire les couts , profiler, rationaliser |

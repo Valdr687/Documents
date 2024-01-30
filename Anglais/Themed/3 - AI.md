@@ -1,4 +1,8 @@
-### Adjectifs
+[Back](../README.md)
+
+# AI
+
+## Adjectifs
 
 |     |     |
 | --- | --- |
@@ -18,7 +22,7 @@
 | Creepy | Effrayant    |
 | Versatile |Polyvalent, Versatile     |
 
-### Noms
+## Noms
 
 |     |     |
 | --- | --- |
@@ -32,7 +36,7 @@
 | Red-teaming | A red team is a group that pretends to be an enemy, attempts a physical or digital intrusion against an organization at the direction of that organization, then reports back so that the organization can improve their defenses.    |
 | Ethics | Éthique     |
 
-### Verbes
+## Verbes
 
 |     |     |
 | --- | --- |
@@ -40,7 +44,7 @@
 | To purport | To appear to do something |
 | To foresee | Anticiper |
 
-### Expressions
+## Expressions
 
 |     |     |
 | --- | --- |
