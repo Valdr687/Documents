@@ -1,6 +1,6 @@
 [Back](../README.md)
 
-# The World is a Stage
+# The World is Stage
 
 ## Nouns
 
@@ -9,14 +9,30 @@
 | PUN (Play on word) | Jeu de mot |
 | POTUS | President Of The United States |
 | Spine doctor | adviser (derogatory word) / conseiller (péjoratif) |
+| White van man | a man who is thought to be typical of drivers of white vans by being rude, not well educated, and having very strong, often unpleasant opinions |
+| Headquarters | Siège |
+| Quirk | Étrange |
+| Thuggish | Voyou |
+| Establishment | dominant social group, the elite who control a polity, an organization, or an institution |
+| Tory | Conservative party in UK |
+
+## Adjectifs
+
+|     |     |
+| --- | --- |
+| Well off | Aisé |
+| Wealthy | Riche |
+| Supine | Soumis |
+| Tongue-in-cheek | Ironique |
+| Eclectic | Hétéroclite |
 
 ## Verbs
 
 |     |     |
 | --- | --- |
-| Flout | to openly disregard (a law, a convention) |
-|     |     |
-|     |     |
+| to flout | to openly disregard (a law, a convention) |
+| To boast | Se vanter |
+| To dog | Poursuivre, harceler |
 
 ## Expressions
 
