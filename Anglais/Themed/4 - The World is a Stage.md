@@ -8,7 +8,7 @@
 | --- | --- |
 | PUN (Play on word) | Jeu de mot |
 | POTUS | President Of The United States |
-| Spine doctor | adviser (derogatory word) / conseiller (péjoratif) |
+| Spin doctor | adviser (derogatory word) / conseiller (péjoratif) |
 | White van man | a man who is thought to be typical of drivers of white vans by being rude, not well educated, and having very strong, often unpleasant opinions |
 | Headquarters | Siège |
 | Quirk | Étrange |
