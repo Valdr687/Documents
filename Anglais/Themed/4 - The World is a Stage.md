@@ -1,6 +1,6 @@
 [Back](../README.md)
 
-# The World is Stage
+# The World is a Stage
 
 ## Nouns
 
