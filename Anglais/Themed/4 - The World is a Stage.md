@@ -15,7 +15,9 @@
 | Thuggish | Voyou |
 | Establishment | dominant social group, the elite who control a polity, an organization, or an institution |
 | Tory | Conservative party in UK |
-|Whitehall|Siège du gouvernement britannique|
+| Whitehall|Siège du gouvernement britannique|
+| Damages | Dommages (et intérêts)|
+| Hindsight | Recul |
 
 ## Adjectifs
 
@@ -25,18 +27,22 @@
 | Wealthy | Riche |
 | Supine | Soumis |
 | Tongue-in-cheek | Ironique |
-| Eclectic | Hétéroclite (Qui est fait de parties de styles différents.)|
-|Bold |Audacieux|
+| Eclectic | Hétéroclite[^1]|
+| Bold | Audacieux |
+| Deceitful | Someone that behaves in a dishonest way|
 
 ## Verbs
 
 |     |     |
 | --- | --- |
-| to flout | to openly disregard (a law, a convention) |
+| To flout | to openly disregard (a law, a convention) |
 | To boast | Se vanter |
 | To dog | Poursuivre, harceler |
-|Flourish / Prosper / Thrive |Prospérer|
-|Overlap (Overlapped)|Se chevaucher|
+| To flourish / prosper / thrive |Prospérer|
+| To overlap (Overlapped)|Se chevaucher|
+| To coddle | To treat tenderly (Dorloter)|
+| To avert | To prevent / Éviter |
+| To pastich | Pasticher[^2]|
 
 ## Expressions
 
@@ -45,4 +51,20 @@
 | Busted on his own petard | Pris à son propre piège |
 | I won't do it for all the tea in China | Je ne le ferais pas pour tout l'or du monde |
 | To be one sandwich short of a picnic / To be nut / To be crackers | Avoir une case en moins |
-|Running metaphor|Métaphore filée|
+| Running metaphor | Métaphore filée|
+| To weather the storm | Traverser la tempête |
+| Devil-may-care | not considering or worrying about the results of your actions|
+| Provided / providing that | if and only if |
+| The then government | The government at that time |
+
+## Comparatif
+
+|||
+|-|-|
+| Skyrocket / Soar | Monter en flèche |
+| Plunge / dwindle | Plonger / Chuter |
+
+*Ex* : Prices are soaring because of ~~inflation~~ Liz Truss.
+
+[^1]: Qui est fait de parties de styles différents.
+[^2]: Imiter la manière, le style d'un écrivain, d'un artiste.

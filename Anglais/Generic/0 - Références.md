@@ -31,3 +31,10 @@
 |-|-|
 |Christine Fox|Christine Fox is an American military civilian official and politician, who served as the Acting Deputy Secretary of Defense|
 |Uncanny Valley|Uncanny valley describes a situation in which a machine looks so eerily "almost but not quite human" that it just creeps people out|
+
+## Contractions
+
+|||
+|-|-|
+|Great expectations but bleak realty| ref. à *Great Expectations* de Charles Dickens|
+|Be careful about what you whish for| expression |
