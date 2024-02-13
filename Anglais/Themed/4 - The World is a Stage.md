@@ -15,7 +15,6 @@
 | Thuggish | Voyou |
 | Establishment | dominant social group, the elite who control a polity, an organization, or an institution |
 | Tory | Conservative party in UK |
-|Cuddle|Calin|
 
 ## Adjectifs
 
@@ -35,8 +34,9 @@
 | to flout | to openly disregard (a law, a convention) |
 | To boast | Se vanter |
 | To dog | Poursuivre, harceler |
-|Florish / Prosper / Thrive |Prospérer|
+|Flourish / Prosper / Thrive |Prospérer|
 |Overlap (Overlapped)|Se chevaucher|
+
 ## Expressions
 
 |     |     |
@@ -44,4 +44,4 @@
 | Busted on his own petard | Pris à son propre piège |
 | I won't do it for all the tea in China | Je ne le ferais pas pour tout l'or du monde |
 | To be one sandwich short of a picnic / To be nut / To be crackers | Avoir une case en moins |
-|Running metaphora|Métaphore filée|
+|Running metaphor|Métaphore filée|

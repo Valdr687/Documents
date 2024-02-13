@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**Describe the bug / Feature request** 
+**Describe the bug / Feature request**  
 A clear and concise description of what the bug is.  
 A clear and concise description of what you want to see added.
 

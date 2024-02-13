@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "esbenp.prettier-vscode",
+        "bierner.markdown-yaml-preamble",
+        "bierner.markdown-preview-github-styles",
+        "bierner.markdown-footnotes",
+        "bierner.markdown-checkbox",
+        "streetsidesoftware.code-spell-checker"
+    ]
+}
