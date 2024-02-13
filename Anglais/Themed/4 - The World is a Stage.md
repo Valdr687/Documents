@@ -15,6 +15,7 @@
 | Thuggish | Voyou |
 | Establishment | dominant social group, the elite who control a polity, an organization, or an institution |
 | Tory | Conservative party in UK |
+|Whitehall|Siège du gouvernement britannique|
 
 ## Adjectifs
 
@@ -24,7 +25,7 @@
 | Wealthy | Riche |
 | Supine | Soumis |
 | Tongue-in-cheek | Ironique |
-| Eclectic | Hétéroclite |
+| Eclectic | Hétéroclite (Qui est fait de parties de styles différents.)|
 |Bold |Audacieux|
 
 ## Verbs

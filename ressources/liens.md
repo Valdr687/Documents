@@ -3,8 +3,6 @@
 * [Extensions](#extensions)
 * [Logiciels](#logiciels)
 * [Astuces](#astuces-variées)
-* [Outils](#outils)
-* [Minecraft](#minecraft)
 
 ## Extensions
 
@@ -41,54 +39,7 @@
   * [Réparer, faire durer ses objets](https://longuevieauxobjets.gouv.fr/)
   * [Vêtements qui durent dans le temps](https://www.reddit.com/r/france/comments/vl2fh2/de_bonnes_marques_de_v%C3%AAtements_hommes_qui_durent/)
 
-## Outils & ressources en ligne
-
-* ### Montage photo
-
-  * [Montage photo - Pixlr](https://pixlr.com/fr/x/)
-  * [PWA for Color Matching](https://match.color.io/)
-  * [Enlever des éléments de photos](https://cleanup.pictures/)
-  * [Convertisseur de format](https://convertio.co/fr/)
-
-* ### Images
-
-  * [Icones open source](https://tablericons.com/)
-  * [PNGs pour usage non commercial](https://www.pikpng.com/)
-
-* ### Bureautique
-
-  * [Google drive](https://drive.google.com/drive/u/0/my-drive)
-  * [Cartes mentales / diagrammes](https://app.diagrams.net/)
-  * [Modifications de PDFs](https://smallpdf.com/fr/modifier-un-pdf)
-
-* ### Blender
-
-  * [Polygon](https://www.poliigon.com/textures/free)
-  * [Ambientcg](https://ambientcg.com/)
-  * [Polyhaven](https://polyhaven.com/)
-  * [Stable Diffusion - texture](https://www.reddit.com/r/blender/comments/zmomxw/stable_diffusion_can_texture_your_entire_scene/)
-  * [BlockBlender](https://www.youtube.com/watch?v=TUw65gz8nOs)
-
-* ### Ressources
-
-  * [Raccourcis claviers dans Windows](https://support.microsoft.com/fr-fr/windows/raccourcis-clavier-dans-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec)  
-<br></br>
-
-## Minecraft
-
-* ### Documentation
-
-  * [Documentation WorldEdit](https://worldedit.enginehub.org/en/latest/)
-  * [Documentation Optifine](https://optifine.readthedocs.io/)
-  * [Patterns WorldEdit](https://docs.google.com/document/d/176SgJ7ZeAAGX-A6FnnY2yaIE6_nAKXNlLpuxOPLRH-A/edit?usp=drive_web&ouid=111429833868159511368)
-
-* ### Outils
-
-  * [Générateur de fichier cit](https://pablomcprojects.github.io/documents/tools/cit.html)
-  * [Bot discord d'assistance](https://www.wynem.com/?commands=minecraft/resourcepacks)
-  * [Minecraft Tools](https://minecraft.tools/fr/)
-
-* ### Assistants construction
+* ### Minecraft
 
   * [Gradients](https://1280px.github.io/hueblocks/)
   * [lignes courbes](https://iseenbaas.nl/curve/)

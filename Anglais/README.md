@@ -17,6 +17,8 @@
 
 Feel free to use this content as long as you respect the licence.
 
->I shall not be held responsible if a word is missing. If you find my work incomplete feel free to open a pull request. 
+>I shall not be held responsible if a word is missing. If you find my work incomplete feel free to open a pull request.
+
+***
 
 > We need to implement avant-garde laisser-faire policies to protect pâtissiers and their protégées after the recent coup d'état.
