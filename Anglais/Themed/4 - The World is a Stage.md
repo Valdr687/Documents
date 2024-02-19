@@ -18,6 +18,9 @@
 | Whitehall|Siège du gouvernement britannique|
 | Damages | Dommages (et intérêts)|
 | Hindsight | Recul |
+| Hurdles | Obstacles|
+| Fallout | Conséquences / Répercussions / Retombées |
+| Long-run | Long terme |
 
 ## Adjectifs
 
@@ -30,6 +33,10 @@
 | Eclectic | Hétéroclite[^1]|
 | Bold | Audacieux |
 | Deceitful | Someone that behaves in a dishonest way|
+| dire | terrible, désastreux |
+| keen | enthousiaste |
+| Scarce | Rare |
+| Staunch | Fervent |
 
 ## Verbs
 
@@ -43,6 +50,9 @@
 | To coddle | To treat tenderly (Dorloter)|
 | To avert | To prevent / Éviter |
 | To pastich | Pasticher[^2]|
+| To set up | Mettre en place |
+| To shift | Déplacer, changer |
+| To grasp | Saisir |
 
 ## Expressions
 
@@ -56,6 +66,8 @@
 | Devil-may-care | not considering or worrying about the results of your actions|
 | Provided / providing that | if and only if |
 | The then government | The government at that time |
+| to leave unscathed | Laisser indemne |
+| Self-inflected | Blessure auto-infligée |
 
 ## Comparatif
 
