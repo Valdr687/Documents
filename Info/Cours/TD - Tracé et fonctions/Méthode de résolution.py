@@ -21,38 +21,38 @@ for x in Abscises:
     dérivé.append(fonctionDérivé(x))
 
 
-figure, axis = plt.subplots(1, 2) 
-  
-axis[0].plot(Abscises, profil) 
-axis[0].set_title("Profil de l'aile") 
-  
-axis[1].plot(Abscises, dérivé) 
-axis[1].set_title("fonction f(x)") 
-  
+plt.figure()
+plt.plot(Abscises, profil, 'r', label="Profil de l'aile")
+plt.plot(Abscises, dérivé, 'g', label="Fonction dérivé")
+plt.xlabel('Abscises')
+plt.legend()
+plt.ylim(-0.3, 0.3)
+plt.xlim(0, 1)
 plt.show()
 
 # 2) Dichotomie
 
-a = 0.2
-b = 0.5
+
 epsilon = 10**(-4)
-IterationMax = 1000
-ai,bi,racine= a,b,(a+b)/2
-fa, fb, fc = fonctionProfil(ai), fonctionProfil(bi), fonctionProfil(racine)
+IterationMax = 100
 
-Iteration = 0
-while  bi-ai > 2*epsilon and abs(fc) > epsilon and Iteration < IterationMax : 
-    Iteration += 1
-    racine = (ai+bi)/2 
-    fc = fonctionProfil(racine)
-    if  fa*fc <= 0 :
-        bi = racine
-        fb = fc
-    else :
-        ai = racine 
-        fa = fc
+def dicho(fonctionDérivé, a: float, b: float, e: float, IterationMax: int) -> float:
+    ai, bi, ci = a, b, (a+b)/2
+    fa, fb, fc = fonctionDérivé(ai), fonctionDérivé(bi), fonctionDérivé(ci)
+    ite = 0
+    while bi-ai > 2*e and abs(fc) > e and ite < IterationMax:
+        ite += 1
+        ci = (ai+bi)/2
+        fc = fonctionDérivé(ci)
+        if fa*fc <= 0:
+            bi, fb = ci, fc
+        else:
+            ai, fa = ci, fc
+    return ci
 
-print('Racine obtenue par dichotomie',racine)
+
+print('Racine obtenue par dichotomie', dicho(
+    fonctionDérivé, 0.2, 0.4, epsilon, IterationMax))
 
 # 3) Méthode de Newton
 
@@ -67,7 +67,9 @@ while abs(fx) > epsilon and Iteration < IterationMax :
     if fpx == 0 :
         break
     else : 
+
         xi = xi - fx/fpx
+        print(xi)
         fx = fonctionProfil(xi)
 
 print('Racine obtenue par méthode de Newton',xi)
