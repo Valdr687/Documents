@@ -69,6 +69,20 @@
 | to leave unscathed | Laisser indemne |
 | Self-inflected | Blessure auto-infligée |
 
+## Different types of power
+
+|Power|Definition|
+|-|-|
+|Democracy|a system of government by the whole population or all the eligible members of a state, typically through elected representatives.|
+|Plutocracy|government by the wealthy.|
+|Meritocracy|government or the holding of power by people selected according to merit.|
+|Cronyism|the appointment of friends and associates to positions of authority, without proper regard to their qualifications.|
+|Oligarchy|a small group of people having control of a country or organization.|
+|Autocracy|a system of government by one person with absolute power.|
+|Theocracy|a system of government in which priests rule in the name of God or a god.|
+|Nepotism|the practice among those with power or influence of favouring relatives, friends, or associates, especially by giving them jobs.|
+|Technocracy|the government or control of society or industry by an elite of technical experts.|
+
 ## Comparatif
 
 |||

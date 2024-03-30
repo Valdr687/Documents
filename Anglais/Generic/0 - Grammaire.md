@@ -17,4 +17,12 @@ P1 <span style="color:red">nevertheless</span> P2
 <span style="color:red">Despite</span> P1,P2
 <span style="color:red">In spite of</span> P1,P2
 
----
+## Structures types
+
+$\left.\begin{array}{l}\text{Not only} \\ \text{Hardly} \\ \text{No sooner}\end{array}\right\}$ + inversion sujet auxiliaire
+
+## Règles variés
+
+- Nombres et plusieurs
+  - Précis : sans s (*ex: 10 million*)
+  - Non précis : avec un s (*ex: several millions*)
