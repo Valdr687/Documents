@@ -15,6 +15,10 @@
 |accommodation|hébergement|
 | a city-dweller | un habitant des villes |
 | a town planner  | un urbaniste |
+| an urban landscape, a cityscape            | un paysage urbain           |
+| property market                            | le marché immobilier        |
+| a real estate agent                        | un agent immobilier         |
+| a listed building                          | un monument classé          |
 | downtown, the city centre                 | le centre-ville             |
 | an inhabitant, resident                   | un habitant, une habitante  |
 | The old districts                         | les vieux quartiers         |
@@ -43,7 +47,6 @@
 |-|-|
 |to plateau||
 |to greenwash||
-| a city-dweller | un habitant des villes      |
 |to lambast|critiquer|
 | to renovate, to refurbish                  | rénover                     |
 | to gentrify, become middle class           | embourgeoiser               |
@@ -67,11 +70,7 @@
 |heavy reliance|fort dépendance|
 |scathing criticism|critique acerbe|
 |hence + GN|d'où|
-| an urban landscape, a cityscape            | un paysage urbain           |
-| property market                            | le marché immobilier        |
-| a real estate agent                        | un agent immobilier         |
 | to level out slums                         | raser les taudis            |
-| a listed building                          | un monument classé          |
 | a sustainable future                     | un avenir durable          |
 | an incremental increase                  | une augmentation incrémentale |
 | to slow something down                    | ralentir quelque chose      |
