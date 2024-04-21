@@ -40,6 +40,8 @@
 | a sponge city                             | une ville éponge            |
 | the consumer society                      | la société de consommation  |
 | a real estate agent                        | un agent immobilier         |
+|plight | bad fate|
+|urbanites|urbains|
 
 ## Verbs
 
