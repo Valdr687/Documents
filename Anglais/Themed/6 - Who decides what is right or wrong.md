@@ -32,6 +32,7 @@
 |to endure|endurer|
 |to atone for|expiez ses|
 |Smuggle | to import or export (goods) secretly, in violation of the law, especially without payment of legal duty. (faire passer en contrebande)|
+|to epitomize||
 
 ## Expressions
 
@@ -39,3 +40,6 @@
 |-|-|
 |to make up for|pour compenser|
 |fraught with|chargé de|
+|to de divided over something|être divisé par qqch|
+|to be watered down / to be tempered down / to be diluted / to be mellowed|être atténué|
+|to run amok| devenir enragé et perdre tout contrôle |

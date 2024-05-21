@@ -1,40 +1,45 @@
-# Programmes
+# Mémo info PTSI/PT
 
 ## Table des matières
 
-1. [Cours](#cours)
-1. [Bibliothèques](#bibliothèques)
-1. [Traitement de données](#traitement-de-données)  
+1. [Python](#python)
+1. [Méthode de résolutions analytique](#méthodes-de-résolutions-analytique)
+1. [Traitement de données](#traitements-de-données)
+1. [SQL](#sql)
 
-### Cours
+===
 
-* [Introduction](./Cours/Python.md)
-* [Binaire](./Cours/Binaire.md)
-* [Complexité](./Cours/Complexité.md)
+## Python
 
-### Bibliothèques
+### Lecture dans un fichier
 
-* <details>
-    <summary><a href="./Programmes/Outils/Info.md">Outils de monitoring</a></summary>
-        - Avancement des variables</p>
-        - Temps d’exécution</p>
-    </details>
-* [Boite à outils Physique - Courbes](./Programmes/Outils/Physique.md)
+with open(chemin,"r",encoding="utf8") as f:
+texte = f.read()
+ Lecture ligne par ligne
+with open(chemin,"r",encoding="utf8") as f:
+lignes = f.readlines()
+(Nettoyage éventuel des débuts et fins de lignes)
+lignes = [c.strip() for c in lignes]
+ Écriture dans un fichier
+with open(chemin,"w",encoding="utf8") as f:
+f.write(début)…
+⁝
+f.write(suite)…
+⁝
+f.write(fin)
 
-### Traitement de données
+## Méthodes de résolutions analytique
 
-* [Dichotomie](./Programmes/Code/Dichotomie.py)
-* [Matrices](./Programmes/Code/Matrices.py)
-* <details>
-    <summary><a href="./Programmes/Code/RechercheElement.py">Recherche d'éléments "candide"</a></summary>
-        - Recherche d'élément</p>
-        - Recherche du maximum</p>
-        - Recherche du second maximum</p>
-        - Comptage des éléments d'un tableau</p>
-    </details>
-* <details>
-    <summary><a href="./Programmes/Code/Tri.py">Tri</a></summary>
-        - Tri par sélection</p>
-        - Tri à bulle</p>
-        - *A venir*</p>
-    </details>
+### Méthode de Newton
+
+### Intégration numérique
+
+## Traitements de données
+
+### Dichotomie
+
+### Tris
+
+### Manipulations sur les listes
+
+## SQL
