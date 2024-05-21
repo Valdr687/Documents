@@ -1,14 +1,12 @@
 [Back](../README.md)
 
-Sure, here are the entries sorted into separate tables by category:
-
 ### Verbs
 
 | English                                    | French                                                    |
 |--------------------------------------------|-----------------------------------------------------------|
 | to be akin to                              | être semblable à                                          |
 | to garner                                  | recueillir, récolter                                      |
-| to have the upper hand on                  | avoir la main mise sur/ avoir le dessus sur quelque chose  |
+| to have the upper hand on                  | avoir la main mise sur/ avoir le dessus sur quelque chose |
 | to tar something with the same brush       | mettre tout dans le même panier                           |
 | to be worth + VING/ Nom                    | valoir quelque chose                                      |
 | to postpone                                | remettre à plus tard                                      |
@@ -19,6 +17,12 @@ Sure, here are the entries sorted into separate tables by category:
 | to rely on                                 | compter (sur), se fier (à)                                |
 | to hit the headlines                       | faire les gros titres/la une                              |
 | to entail                                  | impliquer, occasionner                                    |
+| to tweak                                   | amélioration mineure                                      |
+| to be rooted in                            | être enraciné dans                                        |
+| to fight tooth and nail                    | se battre bec et ongle                                    |
+| to deem                                    | estimer/ juger/ considérer                                |
+| to debunk                                  | détruire un mythe/ démystifier                            |
+| to don                                     | porter/ arborer                                           |
 
 ### Nouns
 
@@ -36,6 +40,9 @@ Sure, here are the entries sorted into separate tables by category:
 | the source of contention                   | la source de la discorde                                  |
 | a powerful leverage                        | un levier puissant                                        |
 | the risks entailed by                      | les risques impliqués/ occasionnés/ représentés par...    |
+| a slight                                   | une offense                                               |
+| the question of                            | la question de                                            |
+| red letters                                | structures complexes                                      |
 
 ### Adjectives
 
@@ -45,6 +52,13 @@ Sure, here are the entries sorted into separate tables by category:
 | visionary (adj)                            | visionnaire                                               |
 | bountiful                                  | abondant                                                  |
 | fraught with dangers/ obstacles/ difficulty/ problems | présenter de multiples dangers, obstacles... (toujours connoté négativement) |
+| ubiquitous                                 | répandu/ omnipresent                                      |
+| currently                                  | en ce moment, actuellement                                |
+| seemingly                                  | en apparence                                              |
+| absurdly                                   | clairement                                                |
+| critical                                   | crucial                                                   |
+| all encompassing                           | all inclusive                                             |
+| impervious to                              | être immune/ indifférent à                                |
 
 ### Other
 
@@ -81,3 +95,6 @@ Sure, here are the entries sorted into separate tables by category:
 | he pinpoints that ou he pinpoints+ nom     | il identifie/ désigne/ met le doigt sur                   |
 | they are not on the same page              | ils ne sont pas sur la même longueur d'onde               |
 | these ideas boil down to one question/ thing... | ces idées se résument à une question/chose...            |
+| in the interest of                         | dans un souci de / au nom de / dans l'intérêt de          |
+| namely                                     | à savoir, c'est-à-dire                                    |
+| merely                                     | simplement                                                |
