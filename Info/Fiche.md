@@ -21,12 +21,8 @@
 ### Méthode de Newton
 
 On cherche à résoudre le problème (dit de Cauchy) suivant :  
-$
-\left\{\begin{array}{l}
-y\prime = f(t,y(t)) \\
-y(t_0)=y_0
-\end{array} t \in [t_{0} ; t_{max} ]\right.
-$
+$y\prime = f(t,y(t))$  
+$y(t_0)=y_0$ $t \in [t_{0} ; t_{max} ]$
 
 On procède ainsi :  
 
