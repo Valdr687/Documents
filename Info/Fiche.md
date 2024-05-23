@@ -22,7 +22,7 @@
 
 On cherche à résoudre le problème (dit de Cauchy) suivant :  
 $y\prime = f(t,y(t))$  
-$y(t_0)=y_0$ $t \in [t_{0} ; t_{max} ]$
+$y(t_0)=y_0$ pour $t \in [t_{0} ; t_{max} ]$
 
 On procède ainsi :  
 
@@ -54,7 +54,7 @@ def euler(y0,T0,Tmax,h,f(t,y)):
 
 ### Dichotomie
 
-Entrée : liste triée par ordre croissant ; élément à chercher
+Entrée : liste triée par ordre croissant ; élément à chercher  
 Sortie : rang de l'élément cherché
 
 ```python
