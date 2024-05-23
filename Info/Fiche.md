@@ -50,6 +50,65 @@ def euler(y0,T0,Tmax,h,f(t,y)):
 
 ### Intégration numérique
 
+#### Méthode des rectangles
+
+Dans cette méthode, la fonction à intégrer est interpolée par un polynôme de degré 0, à savoir une fonction constante. Géométriquement, l'aire sous la courbe est alors approximée par un rectangle.  
+
+Le théorème de Riemann dit que si f est continue (par morceaux) sur un segment [a; b], alors on peut approcher I'aire située sous le graphe de f par la somme des aires des rectangles approchant f en n points uniformément répartis. f est intégrable sur [a; b], si et seulement si pour toute subdivision $\sigma_k = (\sigma_0 < \sigma_1 <...< \sigma_n)$ les sommes ci-dessous convergent:
+
+$\sum_{k=1}^{n-1}\left(\sigma_{k+1}-\sigma_k\right) f\left(t_k\right) \xrightarrow[n \rightarrow \infty]{\forall t_t \in\left[\sigma_k, \sigma_{t+1}\right]} I=\int_a^b f(t) d t$
+
+Avec l'expression de $\sigma$ :  
+$\sigma_k=a+\frac{b-a}{n} , 0 \le k \le n -1 $
+
+On peut donc insérer le point des rectangles à gauche, au milieu ou à droite :  
+|Gauche|Milieu|Droite|
+|-|-|-|
+|$R_n=\frac{b-a}{n} \sum_{k=0}^{n-1} f\left(\sigma_{k}\right)$|$R_n=\frac{b-a}{n} \sum_{k=0}^{n-1} f\left({\sigma_{k+1} + \sigma_{k}} \over {2}\right)$|$R_n=\frac{b-a}{n} \sum_{k=0}^{n-1} f\left(\sigma_{k+1}\right)$|
+
+```python
+def f(x):
+    return x # Expression de f - à modifier à chaque fois
+
+# Méthode avec insertion à gauche, il suffit de changer l'expression dans comme dans le tableau ci dessus pour les autres
+
+a = int(input("Entrer le nombre de départ de la courbe"))
+b = int(input("Entrer le nombre d'arrivée de la courbe"))
+n = int(input("Entrer le nombre de subdivisions"))
+
+def AireSousLaCourbe(a,b,n,f) :
+    S = 0
+    for k in range(0,n):
+        sigma = a + k * ((b-a)/float(n))
+        S = S + ((b-a)/float(n)) * f(sigma)
+    return S
+```
+
+#### Méthode des trapèzes
+
+Le principe est similaire mais on utilise des trapèzes. On somme donc les $T_n$ tels que :
+
+$T_n=\frac{b-a}{2n} \sum_{k=0}^{n-1}\left(f(\sigma_k) + f(\sigma_{k+1}) \right)$
+
+```python
+def f(x):
+    return x # Expression de f - à modifier à chaque fois
+
+# Méthode avec insertion à gauche, il suffit de changer l'expression dans comme dans le tableau ci dessus pour les autres
+
+a = int(input("Entrer le nombre de départ de la courbe"))
+b = int(input("Entrer le nombre d'arrivée de la courbe"))
+n = int(input("Entrer le nombre de subdivisions"))
+
+def AireSousLaCourbe(a,b,n,f) :
+    S = 0
+    for k in range(0,n):
+        sigma = a + k * ((b-a)/float(n))
+        sigma1 = a + (k+1) * ((b-a)/float(n))
+        S = S + ((b-a)/float(2*n)) * (f(sigma) + f(sigma1))
+    return S
+```
+
 ## Traitements de données
 
 ### Dichotomie
