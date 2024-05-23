@@ -79,4 +79,4 @@ plt.show () # Affiche le graphique
 
 | Paramètre      | -   | -  | .   | P   | _   | ,   | v   |
 |----------------|-----|---|-----|-----|-----|-----|-----|
-| Marqueur       | trait pointillé | Ligne continue | Point | tiret | Plus plein | Ligne de tirets | pixel | triangle |
+| Marqueur       | trait pointillé | Ligne continue | Point | tiret | Plus plein | Ligne de tirets | pixel |
