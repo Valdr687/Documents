@@ -175,4 +175,4 @@ def dicho(liste, x):
 
 ## SQL
 
-[^1]: Loves $\mathbb{U}$
+[^1]: Loves U$
