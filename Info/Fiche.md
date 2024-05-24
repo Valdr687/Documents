@@ -4,7 +4,8 @@
 
 - [Python](#python)
 - [Méthode de résolutions analytique](#méthodes-de-résolutions-analytique)
-  - [Méthode de Newton](#méthode-de-newton)
+  - [Recherche de 0](#recherche-de-0---dichotomie)
+  - [Résolution d'équation différentielle](#résolution-déquation-différentielle)
   - [Intégration numérique](#intégration-numérique)
 - [Traitement de données](#traitements-de-données)
   - [Dichotomie](#dichotomie)
@@ -18,13 +19,45 @@
 
 ## Méthodes de résolutions analytique
 
-### Méthode de Newton
+### Recherche de 0 - Dichotomie
+
+Entrées : fonction f, a et b (l'intervalle de recherche est [a,b]), ε (marge de précision), IteMax (Nombre max d'itération)  
+Sortie : racine approchée de 0 notée c
+
+```python
+from math import abs 
+
+def f(x)
+    return x #expression de f
+
+def dichotomie(f,a,b,ε,IteMax):
+    ai,bi,ci=a,b,(a+b)/2
+    fa,fb,fc=f(ai),f(bi),f(ci)
+    ite = 0
+    while bi-ai > 2 and abs(fc)>ε and ite<IteMax :
+        ci = (ai+bi)/2
+        fc=f(ci)
+
+        if fa*fc <= 0 : # la racine est dans [ai,ci]
+            bi = ci # on actualise l'intervalle de recherche
+            fb = fc
+        else : # la racine est dans [ci,bi]
+            ai = ci
+            fa = fc
+    return ci
+```
+
+### Recherche de 0 - Newton
+
+---
+
+### Résolution d'équation différentielle
 
 On cherche à résoudre le problème (dit de Cauchy) suivant :  
 $y\prime = f(t,y(t))$  
 $y(t_0)=y_0$ pour $t \in [t_{0} ; t_{max} ]$
 
-On procède ainsi :  
+On procède ainsi (grace à la méthode d'Euler [^1]) :  
 
 - Calcul du pas :  
 $h=\frac{t_{m a x} \times t_0}{n}$ où n représente le nombre de points
@@ -36,7 +69,6 @@ et la relation de récurrence : $y_{k+1}=y_k+h f(t_k, y_k)$
 Programme :  
 
 ```python
-
 def euler(y0,T0,Tmax,h,f(t,y)):
     t=T0
     y=y0
@@ -47,6 +79,8 @@ def euler(y0,T0,Tmax,h,f(t,y)):
         ListeY.append(y)
     return ListeY
 ```
+
+---
 
 ### Intégration numérique
 
@@ -140,3 +174,5 @@ def dicho(liste, x):
 ### Manipulations sur les listes
 
 ## SQL
+
+[^1]: Loves $\mathbb{U}$
