@@ -59,7 +59,7 @@ Le théorème de Riemann dit que si f est continue (par morceaux) sur un segment
 $\sum_{k=1}^{n-1}\left(\sigma_{k+1}-\sigma_k\right) f\left(t_k\right) \xrightarrow[n \rightarrow \infty]{\forall t_t \in\left[\sigma_k, \sigma_{t+1}\right]} I=\int_a^b f(t) d t$
 
 Avec l'expression de $\sigma$ :  
-$\sigma_k=a+\frac{b-a}{n} , 0 \le k \le n -1 $
+$\sigma_k=a+k \times \frac{b-a}{n} , 0 \le k \le n -1 $
 
 On peut donc insérer le point des rectangles à gauche, au milieu ou à droite :  
 |Gauche|Milieu|Droite|
