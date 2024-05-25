@@ -44,7 +44,7 @@ def dichotomie(f,a,b,ε,IteMax):
         else : # la racine est dans [ci,bi]
             ai = ci
             fa = fc
-         ite=ite+1
+        ite=ite+1
     return ci
 ```
 
