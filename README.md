@@ -12,7 +12,7 @@ Ressources et écrits diverses, hors contexte.
 
 ## Info
 
-[Fiches](./Info/Fiche.md) pour les cours d'info et programmes ballotés depuis la NSI.
+[Fiches](./Info/README.md) pour les cours d'info et programmes ballotés depuis la NSI.
 
 ## Ressources
 

@@ -1,106 +1,62 @@
-# Entiers relatifs
+# Représentation des nombres
 
-## Introduction
+## Table des matières
 
-## Définition
-
-**Bit**: Information élémentaire de type de 0 ou 1 (contraction de **_bi_**nary digi**_t_**).  
-**Mot**: ensemble de bits de longueur fixe suivant le type de processeur, les mots peuvent avoir 32, 64, 128 bits.
-
-### Bases
-
-On exprime le nombre $N$ exprimé dans la base _b_ sera écrit $(N)_b$.
-
-### Le code binaire naturel
-
-Le code binaire s'exprime en base 2.  
-On appelle :
-
-- _taille_ d'un nombre binaire, le nombre de bit nécessaire à son écriture
-- _bit de poids fort_, le bit affecté de la plus forte puissance (bit de gauche)
-- _bit de poids faible_ le bit affecté de la plus faible puissance (bit de droite, associé à $2^0$)
-
-## Représentation d'un nombre entier naturel
-
-### Dépassement de capacité - Overflow
-
-Si l'addition de deux nombre en binaire utilise plus de bits que le nombre sur lequel on les code, le résultat va "dépasser" vers a gauche, on parle alors de dépassement.  
-Pour certain systèmes, le calcul ne crée pas d'erreur tandis que sur d'autres une erreur est signalé.
-
----
+1. [Mémo](../README.md)
+1. [Entiers relatifs](#représentation-dun-nombre-entier-relatif)
+    1. [Entiers naturels](#entiers-naturels)
+    1. [Entiers relatifs](#entiers-relatifs--codage-complément-à-deux)
+1. [Réels](#codage-des-réels)
+    1. [Partie décimale](#codage-de-la-partie-décimale)
+    1. [Simple précision](#codage-dun-réel---simple-précision)
+1. [Compléments](#compléments)
 
 ## Représentation d'un nombre entier relatif
 
-### Codage complément à deux
+Un octet est composé de 8 bits (bit provient de la contraction en anglais de binary digit), chaque bit peut avoir la valeur 0 ou 1.
 
-**Un entier relatif positif ou nul** sera représenté en binaire comme un entier naturel à la différence que le bit de poids fort représente le signe par un un $0$.  
-**Un entier relatif négatif** sera codé en _complément à deux_ :
+Le codage d'un nombre entier se fait donc en base 2 (puisqu'un bit peut avoir 2 valeurs différentes), comme le montre le schéma suivant :
+
+![illustration passage entier vers binaire](structCodageOctet.png)
+
+>Cours ci dessus honteusement plagié sur dkryton.fr
+
+### Entiers naturels
+
+### Entiers relatifs : Codage complément à deux
+
+**Un entier relatif** est représenté en binaire comme un entier naturel à la différence que le premier bit (appelé _bit de poids fort_) représente le signe ($0$ si positif, $1$ si négatif).  
+On code les nombres négatifs en _complément à deux_ :
 
 1. Méthode 1 :
    - prendre son opposé
    - le représenter en base 2 sur n-1 bits
    - complémenter sur chaque bit (remplacer les 0 par des 1 et vice-versa)
    - ajouter 1 au nombre obtenu
-   - mettre le bit de poids fort à 1 (pour signifier qu'il s'agit d'un entier négatif)
+   - mettre le bit de poids fort à 1 (le premier, pour signifier qu'il s'agit d'un entier négatif)
 2. Méthode 2 :
-   - pour coder sur $n$ bits un entier relatif négatif en complément à deux, on code son opposé $a + 2^n$.
+   - pour coder sur $n$ bits un entier relatif négatif en complément à deux, on code son opposé auquel on ajoute $2^n$.
 
-## Représentation plus concise d'un nombre entier - Hexadécimal
-
-### Le code hexadécimal
-
-Le code _hexadécimal_ de base 16 utilise 16 éléments: 0, 1, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, F. Il est d'usage de mettre 0x devant un nombre hexadécimal.  
-Ce code présente des avantages :
-
-- limite le nombre de caractère
-- transcodage binaire $\Longleftrightarrow$ hexadécimal rapide
-
-### Transcodage code binaire $\Longleftrightarrow$ hexadécimal
-
-Pour convertir un nombre binaire en hexadécimal on suit les étapes :
-
-- regrouper le binaire en paquet de 4
-- faire correspondre les paquets de 4 à un élément de la base 16
-
-Tableau de conversion :
-
-| Binaire | Hexadécimal | Binaire | Hexadécimal |
-| ------- | ----------- | ------- | ----------- |
-| 0000    | 0           | 1010    | A           |
-| 0001    | 1           | 1011    | B           |
-| 0010    | 2           | 1100    | C           |
-| 0011    | 3           | 1101    | D           |
-| 0100    | 4           | 1110    | E           |
-| 0101    | 5           | 1111    | F           |
-| 0110    | 6           |         |             |
-| 0111    | 7           |         |             |
-| 1000    | 8           |         |             |
-| 1001    | 9           |         |             |
-
-# Représentation des nombres réels et des caractères
-
-## Partie décimale
+## Codage des réels
 
 ### Codage de la partie décimale
 
 L'expression de la partie dans une nouvelle base $B$ est obtenue par multiplication successive par $B$ de la partie décimale du résultat précédent, l'unité obtenue correspond à un élément de la décomposition. On procède ainsi de suite jusqu'à ce qu'il n'y ait plus de partie décimale ou que le nombre de bits obtenus correspond au nombre de bits dont on dispose.
 
-**_Example :_** passage de 0,145 en base 2
-0,145 $\times$ 2 = <span style="color:red">0</span>,29
-0,29 $\times$ 2 = <span style="color:red">0</span>,58
-0,58 $\times$ 2 = <span style="color:red">1</span>,16
-0,16 $\times$ 2 = <span style="color:red">0</span>,32
-0,32 $\times$ 2 = <span style="color:red">0</span>,64
-0,64 $\times$ 2 = <span style="color:red">1</span>,28
-...
+**_Exemple :_** passage de 0,145 en base 2
+0,145 $\times$ 2 = <span style="color:red">0</span>,29  
+0,29 $\times$ 2 = <span style="color:red">0</span>,58  
+0,58 $\times$ 2 = <span style="color:red">1</span>,16  
+0,16 $\times$ 2 = <span style="color:red">0</span>,32  
+0,32 $\times$ 2 = <span style="color:red">0</span>,64  
+0,64 $\times$ 2 = <span style="color:red">1</span>,28  
+...  
 donc 0,145 $\approx$ (0,<span style="color:red">001001</span>)<sub>2</sub>
 
 **_Autre méthode_**
 
 - Imposer le nombre $n$ de chiffre significatif souhaité
 - Multiplier la partie décimal par $B^n$, puis coder le résultat de la partie entière.
-
-### Représentation d'un nombre réel NORME IEE 754 - type float
 
 ### Codage d'un réel - simple précision
 
@@ -147,6 +103,38 @@ La formule des nombres réels est $(-1)^S \times 2^{E - 127} \times (1 + M)$. Av
 
 ---
 
+## Compléments
+
+### Représentation plus concise d'un nombre entier - Le code hexadécimal
+
+Le code _hexadécimal_ de base 16 utilise 16 éléments: 0, 1, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, F. On le signale par un "0x" devant le nombre.  
+Le passage se fait selon cette méthode :
+
+- regrouper le binaire en paquet de 4
+- faire correspondre les paquets de 4 à un élément de la base 16
+
+Tableau de conversion :
+
+| Binaire | Hexadécimal | Binaire | Hexadécimal |
+| ------- | ----------- | ------- | ----------- |
+| 0000    | 0           | 1010    | A           |
+| 0001    | 1           | 1011    | B           |
+| 0010    | 2           | 1100    | C           |
+| 0011    | 3           | 1101    | D           |
+| 0100    | 4           | 1110    | E           |
+| 0101    | 5           | 1111    | F           |
+| 0110    | 6           |         |             |
+| 0111    | 7           |         |             |
+| 1000    | 8           |         |             |
+| 1001    | 9           |         |             |
+
+#### Dépassement de capacité - Overflow
+
+Si l'addition de deux nombre en binaire utilise plus de bits que le nombre sur lequel on les code, le résultat va "dépasser" vers a gauche, on parle alors de dépassement.  
+Pour certain systèmes, le calcul ne crée pas d'erreur tandis que sur d'autres une erreur est signalé.
+
+>Franchement, la suite n'est pas utile, mais fait partie de la culture, les maths sont eux inutiles.
+
 ### Notion de mode d'arrondi et problème de précision
 
 Le codage des réels nécessite l'utilisation d'arrondis, en effet tous les réels ne sont pas codé sur $n$ bits, l'espace entre les réels représentables ne sont pas égaux.
@@ -158,7 +146,7 @@ Alors pour $x \in F$, deux cas peuvent se présenter :
 - sinon ils existents $X^{-} \in F$ et $X^{+} \in F$ tels que
   $X^{-} < x < X^{+}$ et $]X^{-},X^{+}[ \cap F=\emptyset$
 
----
+Un exemple marquant est $0.1 + 0,2 = 0,300000004$, ce qui explique une fameuse erreur en `JavaScript`, consultez cet [article](https://gauravkk22.medium.com/why-0-1-0-2-0-3-is-false-in-js-mystery-unsolved-with-solution-4f7db2755f18).
 
 ### Représentation d'autres informations
 
