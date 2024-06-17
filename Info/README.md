@@ -12,7 +12,7 @@
   - [Lecture dans un fichier](./Cours/fichier.md)
   - [Tracé de courbes](#tracé-de-courbes)
 - [Méthode de résolutions analytique](#méthodes-de-résolutions-analytique)
-  - [Recherche de 0](#recherche-de-0---dichotomie) *Newton*
+  - [Recherche de 0](#recherche-de-0---dichotomie)
   - [Résolution d'équation différentielle](#résolution-déquation-différentielle)
   - [Intégration numérique](#intégration-numérique)
 - [Traitement de données](#traitements-de-données)
