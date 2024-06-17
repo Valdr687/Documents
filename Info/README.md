@@ -75,6 +75,45 @@ def dichotomie(f,a,b,ε,IteMax):
 
 ### Recherche de 0 - Newton
 
+Cette méthode utilise le développement de Taylor à l’ordre 1. Si la fonction est de classe $\mathcal{C}^1$ sur l’intervalle $[a,b]$, alors le
+développement de Taylor d’ordre 1 donne :  
+
+$f(b)=f(a)+f\prime(a)\times(b-a) + o(b-a)$.  
+
+A partir d’un point choisi x0, la méthode consiste à rechercher le point suivant x1 en le supposant racine de la fonction $f$ et en négligeant le terme $o(x1-x0)$ dans le développement de Taylor. Si bien que :  
+
+$0 = f(x_1) = f(x_0) + f\prime(x_0)\times(x_1-x_0) \implies x_1 = x_0 - \frac{f(x_0)}{f\prime(x_0)}$.
+
+Si $f(x_1)$ ne vérifie pas le critère de convergence $|f(x_1)| < \epsilon$, alors un nouveau candidat $x_2$ est calculé à partir de $x_1$ et ainsi de suite
+jusqu’à convergence.
+
+Entrées : fonction f, fonction $f\prime$, $x_0$ (début de la recherche), $\epsilon$ (marge de précision), IteMax (Nombre max d'itération)  
+Sortie : racine approchée de 0
+
+```python
+from math import abs
+
+def f(x)
+    return x #expression de f
+
+def df(x):
+    return x #expression de f'
+
+def newton(f,df,x0,ε,IteMax):
+    ite=0
+    xi=x0
+    fx=f(xi)
+    while abs(fx)>ε and ite < IteMax:
+        ite +=1
+        fpx=df(xi)
+        if fpx=0: # on sort de la boucle si la dérivée est nulle
+            break
+        else:
+            xi = xi - fx/fpx # on actualise le candidat
+            fx=f(xi)
+    return xi
+```
+
 ---
 
 ### Résolution d'équation différentielle
