@@ -9,7 +9,7 @@
 ## Table des matières
 
 - [Python](#python)
-  - [Lecture dans un fichier](#lecture-dans-un-fichier) *TBD*
+  - [Lecture dans un fichier](./Cours/fichier.md)
   - [Tracé de courbes](#tracé-de-courbes)
 - [Méthode de résolutions analytique](#méthodes-de-résolutions-analytique)
   - [Recherche de 0](#recherche-de-0---dichotomie) *Newton*
@@ -19,13 +19,11 @@
   - [Dichotomie](#dichotomie)
   - [Tris](#tris)
   - [Manipulation sur les listes](#manipulations-sur-les-listes) *TBD*
-- [SQL](#sql) *TBD*
+- [SQL](#sql)
 
 ---
 
 ## Python
-
-### Lecture dans un fichier
 
 ### Tracé de courbes
 
@@ -246,4 +244,41 @@ Vous pouvez visualiser leur fonctionnement grace à ce [site](https://interstice
 
 ## SQL
 
+|Commande||
+|-|-|
+|SELECT *colonne*,*colonne2*| Précise les colonnes qui vont apparaitre dans la requête (* permet de tout sélectionner)|
+|FROM *table*|Précise la table dont on sélectionne les donnés|
+|WHERE|Précise les [conditions](#conditions) à appliquer sur les lignes|
+|JOIN *table2* ON *table1*.*colonne_de_table1* = *table2*.*colonne_de_table2* |JOIN est utilisée pour combiner les lignes de deux ou plusieurs tables, en fonction d'une colonne liée entre elles.|
+|ORDER BY *tri*|Tri croissant *ASC* ou décroissant *DESC* |
+| HAVING | Applique des conditions sur les groupes de résultats.|
+| MIN(*colonne*) | Renvoie la plus petite valeur de la colonne spécifiée.|
+| MAX(*colonne*) | Renvoie la plus grande valeur de la colonne spécifiée.|
+| SUM(*colonne*)  | Renvoie la somme des valeurs de la colonne spécifiée.|
+| COUNT(*colonne*) | Renvoie le nombre de valeurs dans la colonne. `COUNT(DISTINCT colonne)` élimine les doublons.         |
+| COUNT(*)  | Compte toutes les lignes de la table.|
+| AVG(*colonne*)       | Renvoie la moyenne des valeurs de la colonne spécifiée.|
+
+### Modification
+
+|Commande||
+|-|-|
+| CREATE    | Crée une nouvelle table.|
+| ALTER     | Modifie une table existante.|
+| DROP      | Supprime une table.|
+| INSERT    | Insère des lignes dans une table.|
+| UPDATE    | Met à jour des lignes dans une table.|
+| DELETE    | Supprime des lignes dans une table.|
+
+### Conditions
+
+**Comparaisons:**
+=,>,<,>=,<=,!= : comme en Python sauf que l'égalité est testée avec *un simple* égal
+
+**Opérateurs logiques**  
+AND, NOT, OR
+
+**Les prédicats**  
+IN, NOT IN, LIKE, NULL, ALL, SOME, ANY, EXIST
+  
 [^1]: Loves U
