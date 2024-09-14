@@ -15,6 +15,7 @@
     * [Politicians](./Complements/Politicians.md)
   * [Are cities the future of humanity ?](./Themed/5%20-%20Are%20cities%20the%20future%20of%20humanity.md)
   * [Who decides what is right or wrong ?](./Themed/6%20-%20Who%20decides%20what%20is%20right%20or%20wrong.md)
+  * [Summer press review](./Themed/7%20-%20Summer%20press%20review.md)
 
 ***
 
