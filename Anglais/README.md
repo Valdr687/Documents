@@ -7,6 +7,7 @@
   * [Cultural references](./Generic/0%20-%20Références.md)
   * [Synthèse](./Generic/0%20-%20Synthèse.md)
   * [Miscelleneous](./Generic/0%20-%20Miscelleneous.md)
+  * [Tool box](./Generic/1%20-%20Utile.md)
 * Themed
   * [The Press is in Danger](./Themed/1%20-%20The%20Press%20is%20in%20danger.md)
   * [The Big Quit](./Themed/2%20-%20The%20big%20quit.md)
