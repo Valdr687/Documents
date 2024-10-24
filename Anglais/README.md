@@ -18,6 +18,7 @@
   * [Who decides what is right or wrong ?](./Themed/6%20-%20Who%20decides%20what%20is%20right%20or%20wrong.md)
   * [Summer press review](./Themed/7%20-%20Summer%20press%20review.md)
   * [Transhumanism](./Themed/8%20-%20Transhumanism.md)
+  * [Elections](./Themed/9%20-%20Elections.md)
 
 ***
 
