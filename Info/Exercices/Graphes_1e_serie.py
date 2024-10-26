@@ -119,7 +119,3 @@ def graphe_alea(n):
 
 
 # Exemple d'utilisation
-M=graphe_alea(10)
-
-nx.draw(nx.DiGraph(M), with_labels=True, arrows=False)
-plt.show()

@@ -41,5 +41,25 @@ def parcours_profondeur(G, s):
 # Exercice 1
 
 def distance_et_parcours(G,s,t):
+    n = len(G)
+    inf = float('inf')
+    dist = [inf] * n
+    dist[s] = 0
+
+    F = deque()
+    F.append(s)
+
+    while len(F) > 0:
+        x = F.popleft()
+        for y in G[x]:
+            if dist[y] == inf:
+                dist[y] = dist[x] + 1
+                F.append(y)
     
-    
+    return dist[t-1], 
+
+G=Graphe(10,5)
+print(G)
+print(distance(ListeAdjacence(G),2))
+
+tracer_graphe(G)
