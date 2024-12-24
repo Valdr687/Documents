@@ -24,6 +24,7 @@
 | The Daily Mail                      | Daily paper. Right of centre. Tabloid.                                                                    |
 
 **US**
+
 | | |
 | --- | --- |
 | The New York Times | A quality daily. A reference for the democrats and moderate Republicans. Nicknamed The Gray Lady because of its lay-out and its style |
