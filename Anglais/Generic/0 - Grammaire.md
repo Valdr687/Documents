@@ -26,3 +26,6 @@ $\left.\begin{array}{l}\text{Not only} \\ \text{Hardly} \\ \text{No sooner}\end{
 - Nombres et plusieurs
   - Précis : sans s (*ex: 10 million*)
   - Non précis : avec un s (*ex: several millions*)
+
+- Les *noms*
+  - the young, the old, the deaf
