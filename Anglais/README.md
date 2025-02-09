@@ -16,8 +16,7 @@ Each themed sheet includes a an introduction, cultural references and a vocabula
   * [The media](./Themed/2%20-%20The%20media.md)
   * [World of work](./Themed/3%20-%20Work.md)
   * [The institutions](./Themed/4%20-%20Institutions.md)
-  * [Languages](./Themed/5%20-%20Languages.md)
-  * [The environment](./Themed/6%20-%20Environment.md)
+  * [The environment](./Themed/5%20-%20Environment.md)
 
 ***
 
