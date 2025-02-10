@@ -23,6 +23,10 @@
 
 ## Concepts
 
+* Anthropocene : Anthropocène
+* Climate change : Changement climatique
+* Cities : Villes
+
 # Cultural references
 
 ## Anthropocene
