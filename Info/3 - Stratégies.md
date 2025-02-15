@@ -1,12 +1,14 @@
-# Récursivité
+# Stratégies
 
 ## Table des matières
 
-1. [Mémo](../README.md)
-1. [Principe](#principe)
-1. [Exemple de cours](#exemple-de-cours--factorielle)
+1. [Mémo](./README.md)
+1. [Récursivité](#récursivité)
+    1. [Éléments Caractéristiques](#éléments-caractéristiques)
+    1. [Exemple de cours](#exemple-de-cours--factorielle)
+1. [Programmation dynamique](#programmation-dynamique)
 
-## Principe
+## Récursivité
 
 La récursivité est la caractéristique des objets défini à partir d'eux mêmes, concrètement une fonction est dite récursive si elle comporte, dans son corps, au moins un appel à elle-même.
 
@@ -31,7 +33,7 @@ Cette situation est appelée situation de terminaison ou situation d’arrêt ou
 
 Il faut s’assurer que la situation de terminaison est atteinte après un nombre fini d’appels récursifs.
 
-## Exemple de cours : factorielle
+### Exemple de cours : factorielle
 
 ```python
 def fact(n):
@@ -40,3 +42,7 @@ def fact(n):
     else:
         return n * fact(n-1)
 ```
+
+## Programmation dynamique
+
+La programmation dynamique est une méthode d'optimisation de la complexité d'un algorithme en mémorisant les résultats des sous-problèmes déjà résolus.

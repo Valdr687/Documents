@@ -2,7 +2,7 @@
 
 ## Table des matières
 
-1. [Mémo](../README.md)
+1. [Mémo](./README.md)
 1. [Graphiques (x,y)](#graphiques-xy)
 1. [Autres graphiques](#autres-graphiques)
 

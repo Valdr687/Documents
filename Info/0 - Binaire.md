@@ -2,16 +2,18 @@
 
 ## Table des matières
 
-1. [Mémo](../README.md)
-1. [Entiers relatifs](#représentation-dun-nombre-entier-relatif)
-    1. [Entiers naturels](#entiers-naturels)
+1. [Mémo](./README.md)
+1. [Entiers relatifs](#entiers-relatifs)
+    1. [Entiers positifs](#représentation-dun-nombre-entier)
     1. [Entiers relatifs](#entiers-relatifs--codage-complément-à-deux)
 1. [Réels](#codage-des-réels)
     1. [Partie décimale](#codage-de-la-partie-décimale)
     1. [Simple précision](#codage-dun-réel---simple-précision)
 1. [Compléments](#compléments)
 
-## Représentation d'un nombre entier relatif
+## Entiers relatifs
+
+### Représentation d'un nombre entier
 
 Un octet est composé de 8 bits (bit provient de la contraction en anglais de binary digit), chaque bit peut avoir la valeur 0 ou 1.
 
@@ -20,8 +22,6 @@ Le codage d'un nombre entier se fait donc en base 2 (puisqu'un bit peut avoir 2 
 ![illustration passage entier vers binaire](structCodageOctet.png)
 
 >Cours ci dessus honteusement plagié sur dkryton.fr
-
-### Entiers naturels
 
 ### Entiers relatifs : Codage complément à deux
 

@@ -1,5 +1,14 @@
 # Notion de complexité d'un algorithme
 
+## Table des matières
+
+1. [Mémo](./README.md)
+1. [Introduction](#introduction)
+1. [Calcul de la complexité](#calcul-de-la-complexité)
+1. [Compléments](#compléments)
+    1. [Les différentes classes de complexité](#les-différentes-classes-de-complexité)
+    1. [Les différents types de complexité](#les-différents-types-de-complexité)
+
 ## Introduction
 
 En plus d'être correct, un algorithme doit être efficace. On mesure cette efficacité par la :
@@ -11,20 +20,28 @@ On s'intéresse à la **complexité en temps**.
 
 ## Calcul de la complexité
 
-On définit une fonction $T(n)$ qui représente le temps d'unité de temps ou d'opérations de temps en fonction de $n$, la taille de l'entrée.
+**Hypothèses** :
 
-On considère les opérations élémentaires :
+- Cout constant pour chaque opération
+- Jeu d'entrée de taille $n$
 
-- déclaration, affectations, et retour d'une variable
-- incrémentation d'une variable
-  -gestion de la variable dans une boucle "Pour" `For i in range()`
-- tests élémentaires, boucle "Tant que" et structures conditionnelles "Si"
-
-**Par hypothèse les couts sont identiques et de valeur $1$**
-
-On s'intéresse à $\Theta$ qui correspond à l'ordre de grandeur de $T$ :
+On s'intéresse à $\Theta$ qui correspond à l'ordre de grandeur de la complexité :
 
 - $T(2n + 2)$ correspond à $\Theta(n)$, à l'infini on considère que $2n+2 \approx n$
+
+**Règles de calcul** :
+
+| Opération | Coût |
+| --------- | ---- |
+| Affectation d'une variable / lecture `t = 1` | 1 |
+| Opération arithmétique (addition/multiplication) `t = t + 1` | 1 |
+| Comparaison `if` | 1 |
+| Boucle `for` | $n$ |
+| Boucle `while` (pire des cas) | $n$ |
+
+Attention, des boucles imbriquées -*à priori*- ont une complexité multipliée !
+
+## Compléments
 
 ### Les différentes classes de complexité
 

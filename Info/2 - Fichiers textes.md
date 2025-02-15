@@ -2,7 +2,7 @@
 
 ## Table des matières
 
-1. [Mémo](../README.md)
+1. [Mémo](./README.md)
 1. [Ouvrir un fichier](#ouvrir-un-fichier)
 1. [Extraire des données](#extraire-les-données)
 1. [Écrire dans un fichier](#écrire-dans-un-fichier)
