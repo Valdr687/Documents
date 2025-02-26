@@ -174,3 +174,5 @@ def AireSousLaCourbe(a,b,n,f) :
         S = S + ((b-a)/float(2*n)) * (f(sigma) + f(sigma1))
     return S
 ```
+
+[^1]: loves U
