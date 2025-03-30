@@ -56,6 +56,11 @@
 | overnight                                  | du jour au lendemain                                      |
 | reliant on                                 | dépendant de                                              |
 | figures are telling | les chiffres parlent d'eux memes                                                       |
+| firstly, secondly, thirdly... | d'abord, ensuite,                              |
+
+### A nuance that NEEDS to be made
+
+Correlation vs causation : correlation does not imply causation.
 
 # Miscellaneous - Stage 1
 

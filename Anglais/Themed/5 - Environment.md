@@ -52,6 +52,17 @@ The Intergovernmental Panel on Climate Change (IPCC) is an intergovernmental bod
 as technology progresses, the increase in efficiency with which a resource is used tends to increase (rather than decrease) the rate of consumption of that resource.  
 Exemple : LEDs / home isolation which lead to more heating...
 
+## Biodiversity
+
+* **Concrete damages**
+Half of word GDP relies on nature and the productivity of agriculture in Europe has dropped by 20% since 2000. [^3]
+
+* **Shrinking habitat**
+Or habitat loss is the process in which a natural habitat becomes incapable of supporting its native species. A famous victim is the panda in Sichuan, China.
+
+* **COP 16 for biodiversity**
+Happened in Cali (Colombia), was a disappointment.
+
 ## Cities
 
 * **The Line**  
@@ -89,6 +100,7 @@ A 170 km long city in Saudi Arabia, with a population of 1 million, powered by 1
 | blaze | incendie/brasier |
 | COP | Conference of Parties |
 | climate denier | |
+| Pesticides ||
 
 ## Verbs
 
@@ -107,6 +119,8 @@ A 170 km long city in Saudi Arabia, with a population of 1 million, powered by 1
 |reluctant|réticent|
 |sprawling|s'étalant|
 | ablaze | en feu |
+| shrinking| rétrécissant |
+| sustainable|durable|
 
 ## Expressions
 
@@ -166,3 +180,4 @@ A 170 km long city in Saudi Arabia, with a population of 1 million, powered by 1
 
 [^1]: pas [Macron](https://www.francetvinfo.fr/environnement/crise-climatique/qui-aurait-pu-predire-la-crise-climatique-la-petite-phrase-d-emmanuel-macron-agace-les-specialistes-du-climat_5576013.html) du coup
 [^2]: Réponse d'actionnaire de Total à un militant [voir](https://www.huffingtonpost.fr/environnement/video/a-l-ag-de-total-vives-tensions-entre-actionnaires-et-militants-ecologistes_218374.html)
+[^3]: Vous avez bien lu : la moitié du PIB mondial dépend de la biodiversité

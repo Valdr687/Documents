@@ -27,5 +27,13 @@ $\left.\begin{array}{l}\text{Not only} \\ \text{Hardly} \\ \text{No sooner}\end{
   - Précis : sans s (*ex: 10 million*)
   - Non précis : avec un s (*ex: several millions*)
 
-- Les *noms*
-  - the young, the old, the deaf
+- Structures spéciales
+  - a means, a species, a series $\rightarrow$ toujours un s
+  - the young, the old, the rich, the poor, the blind, the deaf
+
+- Autre structures
+  - $\phi$ youth : jeunesse
+
+- Les invariables
+  - research : recherche
+  - information : information

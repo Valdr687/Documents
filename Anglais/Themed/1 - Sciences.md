@@ -59,6 +59,12 @@ Seven Bank has introduced a service allowing its account holders to deposit and 
 
 ## Transhumanism
 
+* **Three laws of robotics**
+The Three Laws of Robotics are a set of rules devised by science fiction author Isaac Asimov :
+    1. A robot may not injure a human being or, through inaction, allow a human being to come to harm.
+    1. A robot must obey the orders given it by human beings except where such orders would conflict with the First Law.
+    1. A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
+
 * **Origin**  
 The term "Transhumanism" was coined in 1957 by Julian Huxley, biologist and brother of Aldous Huxley, author of "Brave New World". (*Le meilleur des mondes*)
 
