@@ -5,6 +5,31 @@
 ## Table des matières
 
 1. [Mémo](./README.md)
+1. [Introduction](#introduction)
+   - [Principe](#principe)
+   - [Typologie des problèmes d'apprentissage](#typologie-des-problèmes-dapprentissage)
+   - [Concernant les données d'entrée](#concernant-les-données-dentrée)
+   - [Mesures de performance](#mesures-de-performance)
+   - [En bref](#en-bref)
+
+1. [Régression](#régression)
+   - [Régression linéaire](#régression-linéaire)
+   - [Fonction coût et descente de gradient](#fonction-coût-et-descente-de-gradient)
+   - [Régression logistique](#régression-logistique)
+
+1. [KNN et K-means](#knn-et-k-means)
+   - [KNN](#knn)
+   - [K-means](#k-means)
+
+1. [Réseaux de neurones](#réseaux-de-neurones)
+   - [Perceptron](#perceptron)
+   - [Fonctionnement mathématique](#fonctionnement-mathématique)
+   - [Apprentissage et limites](#apprentissage-et-limites)
+   - [Perceptron multicouche](#réseau-de-neurones---perceptron-multicouche)
+   - [Apprentissage](#apprentissage)
+   - [Critère d'arrêt - Risque de sur-apprentissage](#critère-darrêt---risque-de-sur-apprentissage)
+
+1. [Comparaison des méthodes](#comparaison-des-méthodes)
 
 ## Introduction
 
