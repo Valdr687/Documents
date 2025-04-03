@@ -1,18 +1,18 @@
 # Documents
 
-_Ressources collectées sur internet et fiches de cours de PTSI_
+Ensemble de fiches de révisions / résumés de cours pour les classes préparatoires en anglais et en maths.  
 
 ## Anglais
+
+Several sheets organized in three categories : Miscellaneous (Complements) / Grammar point (Generic) / Themed. Each themed sheet aims to provide some cultural references and some vocabulary to understand and discuss of what is a stake.
 
 [Fiches de vocabulaire](./Anglais/README.md)
 
 ## Info
 
+Résumés de cours, parfois trop exhaustif.
+
 [Fiches](./Info/README.md)
-
-## Ressources
-
-Liens et illustration du Wiki.
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 

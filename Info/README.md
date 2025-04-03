@@ -10,3 +10,7 @@
 1. [Traitement de données](./5%20-%20Traitement%20de%20données.md)
 1. [Analyse](./6%20-%20Analyse.md)
 1. [SQL](./7%20-%20SQL.md)
+
+## Les bases ?
+
+![Illustration](./pres-seq-control.png)
