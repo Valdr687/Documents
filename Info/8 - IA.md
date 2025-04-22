@@ -67,7 +67,7 @@ On cherche à mesurer la performance d'un algorithme, pour cela on mesure la qua
 #### En classification binaire
 
 Lorsque les sorties prennent des valeurs discrètes, on utilise la **justesse** (ou **accuracy**)[^4] : il s'agit de la proportion de prédictions correctes sur l'ensemble des prédictions.  
-$$ \text{justesse} = \frac{1}{N} \sum_{i=1}^N \mathbb{1}_{\hat{y}_i = y_i} $$
+$$\text{justesse} = \frac{1}{N} \sum_{i=1}^N \mathbb{1}_{\hat{y}_i = y_i}$$
 où $\hat{y}_i$ est la prédiction de l'algorithme et $y_i$ la valeur réelle.
 
 #### En régression
