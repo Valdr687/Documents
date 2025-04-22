@@ -72,7 +72,7 @@ où $\hat{y}_i$ est la prédiction de l'algorithme et $y_i$ la valeur réelle.
 
 #### En régression
 
-Lorsque les sorties prennent des valeurs continues, on utilise la **erreur moyenne quadratique** (ou **mean squared error**) : il s'agit de la moyenne des carrés des erreurs entre la valeur réelle et la valeur prédite.
+Lorsque les sorties prennent des valeurs continues, on utilise l'**erreur moyenne quadratique** (ou **mean squared error**) : il s'agit de la moyenne des carrés des erreurs entre la valeur réelle et la valeur prédite.
 
 $$ \text{MSE} = \frac{1}{N} \sum_{i=1}^N (y_i - \hat{y}_i)^2 $$
 
