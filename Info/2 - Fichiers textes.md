@@ -60,7 +60,7 @@ with open("legende.txt","w") as fichier : # si le fichier n’existe pas il sera
     fichier.write("Bonjour")
     fichier.write("Connaissez-vous la légende de Darth Pleigeis le sage ?")
     fichier.write("il était une fois...")
-fich.close()                       # fermeture du fichier
+fichier.close()                       # fermeture du fichier
 ```
 
 ou encore la fonction `writelines`, attention pour écrire sur plusieurs lignes il faut ajouter le caractère de fin de ligne "`\n`" à la fin de chacune des chaines de caractères dans la liste.
