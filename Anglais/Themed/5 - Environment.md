@@ -66,7 +66,7 @@ Happened in Cali (Colombia), was a disappointment.
 ## Cities
 
 * **The Line**  
-A 170 km long city in Saudi Arabia, with a population of 1 million, powered by 100% renewable energy, with no cars, no streets, no carbon emissions, and no waste. If its built, for now the only that's there is a promotional video (because human rights are not) but the construction has started.
+A 170 km long city in Saudi Arabia, with a population of 1 million, powered by 100% renewable energy, with no cars, no streets, no carbon emissions, and no waste. That is... if it end up built, the construction has started, human rights are already violated but the project is still in its infancy.
 
 # Vocabulary (must known)
 
