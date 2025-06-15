@@ -1,6 +1,6 @@
 [Back](../README.md)
 
-# Table of content
+# Tabla de contenido
 
 * [Introducción](#introducción)
 * [Referencias culturales](#referencias-culturales)
@@ -35,87 +35,109 @@
 
 # Referencias culturales
 
-## Anthropocene
+## Antropoceno
 
-Def : (technically not) a geological era caused by human influence
+Def : (técnicamente no) una era geológica causada por la influencia humana
 
-* **Article 6 of the Paris agreement**  
-creation of a global carbon market
+* **Artículo 6 del acuerdo de París**  
+creación de un mercado global del carbono
 
-* **Sir David Attenborough and 414 ppm**  
-British broadcaster, biologist, natural historian, and writer.  
-414 ppm is the concentration of CO2 in the atmosphere
+* **Sir David Attenborough y 414 ppm**  
+Locutor, biólogo, naturalista y escritor británico.  
+414 ppm es la concentración de CO2 en la atmósfera
 
-* **$1 billion**  
-Median public subsidies to fossil fuel in the 65 most greenhouse effect gaz-emitting countries
-* **the IPCC**  
-The Intergovernmental Panel on Climate Change (IPCC) is an intergovernmental body of the United Nations. Its job is to advance scientific knowledge about climate change caused by human activities. In consists of three working groups:
-  * Working Group I: Assesses scientific aspects of the climate system and climate change.
-  * Working Group II: Assesses the impacts of climate change on human and natural systems. Assesses adaptation options.
-  * Working Group III: Assesses how to stop climate change by limiting greenhouse gas emissions. (Known as "mitigation".)
+* **$1 mil millones**  
+Subsidios públicos medianos a los combustibles fósiles en los 65 países que más emiten gases de efecto invernadero
 
-* **The Javons paradox**
-as technology progresses, the increase in efficiency with which a resource is used tends to increase (rather than decrease) the rate of consumption of that resource.  
-Exemple : LEDs / home isolation which lead to more heating...
+* **el IPCC**  
+El Panel Intergubernamental sobre el Cambio Climático (IPCC) es un organismo intergubernamental de las Naciones Unidas. Su trabajo es avanzar el conocimiento científico sobre el cambio climático causado por actividades humanas. Consiste en tres grupos de trabajo:
+  * Grupo de Trabajo I: Evalúa los aspectos científicos del sistema climático y el cambio climático.
+  * Grupo de Trabajo II: Evalúa los impactos del cambio climático en sistemas humanos y naturales. Evalúa opciones de adaptación.
+  * Grupo de Trabajo III: Evalúa cómo detener el cambio climático limitando las emisiones de gases de efecto invernadero. (Conocido como "mitigación".)
 
-## Biodiversity
+* **La paradoja de Jevons**
+A medida que la tecnología progresa, el aumento en la eficiencia con la que se usa un recurso tiende a aumentar (en lugar de disminuir) la tasa de consumo de ese recurso.  
+Ejemplo: LEDs / aislamiento del hogar que lleva a más calefacción...
 
-* **Concrete damages**
-Half of word GDP relies on nature and the productivity of agriculture in Europe has dropped by 20% since 2000. [^3]
+## Biodiversidad
 
-* **Shrinking habitat**
-Or habitat loss is the process in which a natural habitat becomes incapable of supporting its native species. A famous victim is the panda in Sichuan, China.
+* **Daños concretos**
+La mitad del PIB mundial depende de la naturaleza y la productividad de la agricultura en Europa ha caído un 20% desde 2000. [^3]
 
-* **COP 16 for biodiversity**
-Happened in Cali (Colombia), was a disappointment.
+* **Hábitat en reducción**
+O pérdida de hábitat es el proceso en el cual un hábitat natural se vuelve incapaz de sostener sus especies nativas. Una víctima famosa es el panda en Sichuan, China.
+
+* **COP 16 para la biodiversidad**
+Tuvo lugar en Cali (Colombia), fue una decepción.
 
 # Vocabulario
 
-## Medio ambiente
+## Vocabulario esencial
 
-### Les éléments de la nature en espagnol
+| Espagnol | Français |
+|----------|----------|
+| la dana | goutte froide (météo) |
+| un huracán | un ouragan |
+| los estragos | les ravages |
+| una plaga | un fléau |
+| estallar | éclater |
+| el barro | la boue |
+| barranco | ravin |
+| despilfarro | gâchis |
+
+## Acciones y consecuencias
+
+| Espagnol | Français |
+|----------|----------|
+| contaminar | polluer |
+| proteger | protéger |
+| conservar | conserver |
+| reciclar | recycler |
+| ahorrar | économiser |
+| malgastar | gaspiller |
+| explotar | exploiter |
+
+## Elementos de la naturaleza
 
 | Espagnol          | Français        |
 | ----------------- | --------------- |
 | La naturaleza     | la nature       |
-| El medio ambiente | l’environnement |
-| El ecosistema     | l’écosystème    |
+| El medio ambiente | l'environnement |
+| El ecosistema     | l'écosystème    |
 | El paisaje        | le paysage      |
 | El bosque         | la forêt        |
 | La selva          | la jungle       |
 | El río            | la rivière      |
 | El lago           | le lac          |
 | El mar            | la mer          |
-| El océano         | l’océan         |
+| El océano         | l'océan         |
 | La montaña        | la montagne     |
 | El desierto       | le désert       |
 | El volcán         | le volcan       |
-| La isla           | l’île           |
+| La isla           | l'île           |
 | El clima          | le climat       |
 
----
-
-### La faune et la flore en espagnol
+### Fauna y flora
 
 | Espagnol           | Français        |
 | ------------------ | --------------- |
-| El animal          | l’animal        |
-| La especie         | l’espèce        |
+| El animal          | l'animal        |
+| La especie         | l'espèce        |
 | La biodiversidad   | la biodiversité |
 | El mamífero        | le mammifère    |
-| El ave / el pájaro | l’oiseau        |
-| El insecto         | l’insecte       |
+| El ave / el pájaro | l'oiseau        |
+| El insecto         | l'insecte       |
 | El pez             | le poisson      |
-| El árbol           | l’arbre         |
+| El árbol           | l'arbre         |
 | La planta          | la plante       |
 | La flor            | la fleur        |
-| El arbusto         | l’arbuste       |
-| La hierba          | l’herbe         |
+| El arbusto         | l'arbuste       |
+| La hierba          | l'herbe         |
 | El coral           | le corail       |
 | El depredador      | le prédateur    |
 | La presa           | la proie        |
 
-### Les phénomènes naturels en espagnol
+### Fenómenos naturales
 
 | Espagnol              | Français                |
 | --------------------- | ----------------------- |
@@ -123,17 +145,17 @@ Happened in Cali (Colombia), was a disappointment.
 | La lluvia             | la pluie                |
 | La tormenta           | la tempête              |
 | El trueno             | le tonnerre             |
-| El relámpago          | l’éclair                |
+| El relámpago          | l'éclair                |
 | La nieve              | la neige                |
 | El granizo            | la grêle                |
 | El terremoto          | le tremblement de terre |
-| La erupción volcánica | l’éruption volcanique   |
+| La erupción volcánica | l'éruption volcanique   |
 | La sequía             | la sécheresse           |
-| La inundación         | l’inondation            |
-| El huracán            | l’ouragan               |
+| La inundación         | l'inondation            |
+| El huracán            | l'ouragan               |
 | El tsunami            | le tsunami              |
 
-### Les enjeux environnementaux en espagnol
+### Desafíos ambientales
 
 | Espagnol                                | Français                                |
 | --------------------------------------- | --------------------------------------- |
@@ -143,39 +165,40 @@ Happened in Cali (Colombia), was a disappointment.
 | El reciclaje                            | le recyclage                            |
 | La deforestación                        | la déforestation                        |
 | La sobrepesca                           | la surpêche                             |
-| La energía renovable                    | l’énergie renouvelable                  |
-| La energía solar / eólica               | l’énergie solaire / éolienne            |
-| La energía hidroeléctrica / mareomotriz | l’énergie hydroélectrique / marémotrice |
+| La energía renovable                    | l'énergie renouvelable                  |
+| La energía solar / eólica               | l'énergie solaire / éolienne            |
+| La energía hidroeléctrica / mareomotriz | l'énergie hydroélectrique / marémotrice |
 | El desarrollo sostenible                | le développement durable                |
-| La huella ecológica                     | l’empreinte écologique                  |
+| La huella ecológica                     | l'empreinte écologique                  |
 | El plástico                             | le plastique                            |
 | El residuo                              | le déchet                               |
 | los vertidos                            | les déchets                             |
 
-### Expressions clés pour parler de nature et d’environnement en espagnol
+### Expresiones clave para el medio ambiente
 
 | Expression espagnole                           | Traduction française                        |
 | ---------------------------------------------- | ------------------------------------------- |
-| Cuidar el medio ambiente                       | protéger l’environnement                    |
+| Cuidar el medio ambiente                       | protéger l'environnement                    |
 | Reducir la contaminación                       | réduire la pollution                        |
 | Aumentar la biodiversidad                      | augmenter la biodiversité                   |
 | Luchar contra el cambio climático              | lutter contre le changement climatique      |
 | Proteger las especies en peligro de extinción  | protéger les espèces en voie de disparition |
 | Utilizar energías renovables                   | utiliser des énergies renouvelables         |
 | Promover el desarrollo sostenible              | promouvoir le développement durable         |
-| Concienciar sobre la importancia del reciclaje | sensibiliser à l’importance du recyclage    |
+| Concienciar sobre la importancia del reciclaje | sensibiliser à l'importance du recyclage    |
 | Evitar la deforestación                        | éviter la déforestation                     |
 | Preservar los recursos naturales               | préserver les ressources naturelles         |
 
-### Vocabulaire de la nature en contexte : exemples pratiques
+### Vocabulario en contexto
 
 | Phrase en espagnol                                                                     | Traduction française                                                                         |
 | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| « La biodiversidad aparece esencial para mantener el equilibrio de los ecosistemas. »  | La biodiversité est essentielle pour maintenir l’équilibre des écosystèmes.                  |
+| « La biodiversidad aparece esencial para mantener el equilibrio de los ecosistemas. »  | La biodiversité est essentielle pour maintenir l'équilibre des écosystèmes.                  |
 | « El calentamiento global va provocando un aumento de las inundaciones y sequías. »    | Le réchauffement climatique provoque une augmentation des inondations et des sécheresses.    |
-| « El gobierno promueve el uso de energías renovables como la solar y la eólica. »      | Le gouvernement promeut l’utilisation d’énergies renouvelables comme le solaire et l’éolien. |
-| « Tenemos que reducir el uso de plástico para proteger los océanos y la vida marina. » | Nous devons réduire l’utilisation du plastique pour protéger les océans et la vie marine.    |
+| « El gobierno promueve el uso de energías renovables como la solar y la eólica. »      | Le gouvernement promeut l'utilisation d'énergies renouvelables comme le solaire et l'éolien. |
+| « Tenemos que reducir el uso de plástico para proteger los océanos y la vida marina. » | Nous devons réduire l'utilisation du plastique pour protéger les océans et la vie marine.    |
 | « La deforestación pone en peligro a muchas especies animales y vegetales. »           | La déforestation met en danger de nombreuses espèces animales et végétales.                  |
 
 [^1]: pas [Macron](https://www.francetvinfo.fr/environnement/crise-climatique/qui-aurait-pu-predire-la-crise-climatique-la-petite-phrase-d-emmanuel-macron-agace-les-specialistes-du-climat_5576013.html) du coup
 [^2]: Réponse d'actionnaire de Total à un militant [voir](https://www.huffingtonpost.fr/environnement/video/a-l-ag-de-total-vives-tensions-entre-actionnaires-et-militants-ecologistes_218374.html)
+[^3]: Vous avez bien lu : la moitié du PIB mondial dépend de la biodiversité
