@@ -67,6 +67,7 @@ La Federación Americana de Oficinas Agrícolas (AFBF), es una organización agr
 | maltratados | maltraités |
 | vigilancia | surveillance |
 | llamadas de auxilio | appel de secours |
+| la enfermedad | la maladie |
 
 ## Tipos de violencia
 

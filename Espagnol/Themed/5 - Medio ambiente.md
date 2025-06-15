@@ -84,6 +84,8 @@ Tuvo lugar en Cali (Colombia), fue una decepción.
 | el barro | la boue |
 | barranco | ravin |
 | despilfarro | gâchis |
+| un apagón | une coupure d'électricité |
+| un brote | une pousse / une poussée (upsurge) |
 
 ## Acciones y consecuencias
 

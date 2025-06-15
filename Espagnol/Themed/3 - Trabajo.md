@@ -74,6 +74,12 @@ En el contexto de la vuelta a la oficina, empresas tecnológicas como Intel, Tes
 | un gasto | une dépense |
 | presupuesto | un budget |
 | comprometerse | s'engager |
+| la inversión | l'investissement |
+| un inversor / una inversora | un/une investisseur |
+| una inversión | un investissement |
+| un aumento / un incremento | une augmentation |
+| dilema | dilemme |
+| un usuario | un utilisateur |
 
 ## Condiciones de trabajo
 

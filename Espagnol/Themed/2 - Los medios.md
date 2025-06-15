@@ -92,6 +92,13 @@ Is biased by design, and might pure propaganda in the wrong hands ![^4]
 | la libertad de prensa | la liberté de la presse |
 | el amarillismo | le sensationnalisme |
 | un bulo | un canular / un intox |
+| la carta | la lettre |
+| una postal | une carte postale |
+| la letra | les paroles |
+| una portada | la une (d'un journal) |
+| la víspera | la veille |
+| la narrativa | le récit |
+| un acontecimiento | un évènement |
 
 ## Medios de comunicación
 

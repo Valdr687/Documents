@@ -86,6 +86,8 @@ Un pequeño grupo de hombres extremadamente ricos que ejercen control o influenc
 | lazos | liens (diplomatique) |
 | los lazos | liens (diplomatique) |
 | un juez / un abogado | un juge / un avocat |
+| el motín | la mutinerie |
+| multa | amende (pécuniaire) |
 
 ## Sistema político
 
