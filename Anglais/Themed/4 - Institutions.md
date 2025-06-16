@@ -63,122 +63,90 @@ It is a 900-page policy "wish list", a set of proposals that would expand presid
 * **Broligarchy**  
 A small group of ultrawealthy men who exert inordinate control or influence within a political structure, particularly while espousing views regarded as anti-democratic, technofascist, and masculinist. [Read this article](https://www.theguardian.com/commentisfree/2024/dec/28/bro-culture-trump)
 
-# Vocabulary (must know)
-
-## Nouns
-
-|     |     |
-| --- | --- |
-| PUN (Play on word) | Jeu de mot |
-| POTUS | President Of The United States |
-| Spin doctor | adviser (derogatory word) / conseiller (péjoratif) |
-| Establishment | dominant social group, the elite who control a polity, an organization, or an institution |
-| Tory | Conservative party in UK |
-| Whitehall|Siège du gouvernement britannique|
-| Hindsight | Recul |
-| Hurdles | Obstacles|
-| Fallout | Conséquences / Répercussions / Retombées |
-| Long-run | Long terme |
-| a scape goat | bouc émissaire |
-| the greater good | le bien commun, supérieur à celui de l'individu |
-| doublespeak | double langage / langue de bois / éléments de langage |
-
-## Adjectifs
-
-|     |     |
-| --- | --- |
-| Well off | Aisé |
-| Wealthy | Riche |
-| Tongue-in-cheek | Ironique |
-| Eclectic | Hétéroclite[^7]|
-| Bold | Audacieux |
-| Deceitful | Someone that behaves in a dishonest way|
-| dire | terrible, désastreux |
-| keen | enthousiaste |
-| Scarce | Rare |
-| Staunch | Fervent |
-| jingoistic | ultra-nationaliste |
-
-## Verbs
-
-|     |     |
-| --- | --- |
-| To boast | Se vanter |
-| To flourish / prosper / thrive |Prospérer|
-| To avert | To prevent / Éviter |
-| To set up | Mettre en place |
-| To shift | Déplacer, changer |
-| To grasp | Saisir |
-|to convey a message|véhiculer un message|
-|MP|Member of Parliament|
-|MEP|Member of the European Parliament|
-|riot|une émeute|
-
-## Expressions
-
-|     |     |
-| --- | --- |
-|to make up for|pour compenser|
-| Running metaphor | Métaphore filée|
-| To weather the storm | Traverser la tempête |
-| Devil-may-care | not considering or worrying about the results of your actions|
-| Provided / providing that | if and only if |
-| The then government | The government at that time |
-| to leave unscathed | Laisser indemne |
-| Self-inflected wound| Blessure auto-infligée |
-
 # Vocabulary
 
-## Adjectifs
+## General vocabulary
 
 |     |     |
 | --- | --- |
+| Adamant | Catégorique, intransigeant (to be used for oral speech) |
+| Bold | Audacieux |
+| Clear-cut | Clair |
+| Deceitful | Someone that behaves in a dishonest way |
+| Dire | Terrible, désastreux |
+| Eclectic | Hétéroclite |
+| Jingoistic | Ultra-nationaliste |
+| Keen | Enthousiaste |
+| McCarthyite | Someone who accuse of subversion and treason, especially when related to anarchism, communism, and socialism, and especially when the accusations are false or unproven and are made in a public and attention-grabbing manner |
+| Mindful | Conscious or aware of something |
+| Scarce | Rare |
+| Sensible | Raisonnable |
+| Sensitive | Sensible |
+| Staunch | Fervent |
 | Supine | Soumis |
-|adamant| catégorique, intransigeant(to be used for oral speech)|
-|clear-cut|clair|
-|Mindful| conscious or aware of something.|
-|McCarthyite|someone who accuse of subversion and treason, especially when related to anarchism, communism, and socialism, and especially when the accusations are false or unproven and are made in a public and attention-grabbing manner.|
-|sensitive|sensible|
-|sensible|raisonnable|
-
-## Noms
-
-|     |     |
-| --- | --- |
-| White van man | a man who is thought to be typical of drivers of white vans by being rude, not well educated, and having very strong, often unpleasant opinions |
-| Headquarters | Siège |
-| Quirk | Étrange |
-| Thuggish | Voyou |
-| Damage | Dégâts|
-| Damages | Dommages (et intérêts)|
-| shrewd | perspicace (nom) / judicieux (adjectif) |
-| shell gaz  | gaz de schiste |
-
-## Verbes
-
-|     |     |
-| --- | --- |
-| To overlap (Overlapped)|Se chevaucher|
-| To coddle | To treat tenderly (Dorloter)|
-| To flout | to openly disregard (a law, a convention) |
+| Tongue-in-cheek | Ironique |
+| Wealthy | Riche |
+| Well off | Aisé |
+| To avert | To prevent / Éviter |
+| To be neck and neck | Être au coude à coude |
+| To boast | Se vanter |
+| To coddle | To treat tenderly (Dorloter) |
+| To convey a message | Véhiculer un message |
 | To dog | Poursuivre, harceler |
-| To pastich | Pasticher[^8]|
-| to be neck and neck | être au coude à coude |
-|constituency|une circonscription|
-|arson|un incendie criminel|
+| To flout | To openly disregard (a law, a convention) |
+| To flourish / prosper / thrive | Prospérer |
+| To grasp | Saisir |
+| To make up for | Pour compenser |
+| To overlap (Overlapped) | Se chevaucher |
+| To pastich | Pasticher |
+| To set up | Mettre en place |
+| To shift | Déplacer, changer |
+| Arson | Un incendie criminel |
+| Damage | Dégâts |
+| Damages | Dommages (et intérêts) |
+| Fallout | Conséquences / Répercussions / Retombées |
+| Headquarters | Siège |
+| Hindsight | Recul |
+| Hurdles | Obstacles |
+| Long-run | Long terme |
+| Quirk | Étrange |
+| Shell gaz | Gaz de schiste |
+| Shrewd | Perspicace (nom) / judicieux (adjectif) |
+| Thuggish | Voyou |
+| Busted on his own petard | Pris à son propre piège |
+| Devil-may-care | Not considering or worrying about the results of your actions |
+| Fraught with | Chargé de |
+| I won't do it for all the tea in China | Je ne le ferais pas pour tout l'or du monde |
+| Provided / providing that | If and only if |
+| Running metaphor | Métaphore filée |
+| The then government | The government at that time |
+| To be divided over something | Être divisé par quelque chose |
+| To be one sandwich short of a picnic / To be nut / To be crackers | Avoir une case en moins |
+| To be watered down / to be tempered down / to be diluted / to be mellowed | Être atténué |
+| To leave unscathed | Laisser indemne |
+| To run amok | Devenir enragé et perdre tout contrôle |
+| To utter out one's concession speech | Faire un discours dans lequel on reconnaît sa défaite, notamment après une élection |
+| To weather the storm | Traverser la tempête |
+| Self-inflected wound | Blessure auto-infligée |
 
-## Expressions
+## Politics and institutions
 
 |     |     |
 | --- | --- |
-| Busted on his own petard | Pris à son propre piège |
-| I won't do it for all the tea in China | Je ne le ferais pas pour tout l'or du monde |
-| To be one sandwich short of a picnic / To be nut / To be crackers | Avoir une case en moins |
-|fraught with|chargé de|
-|to de divided over something|être divisé par qqch|
-|to be watered down / to be tempered down / to be diluted / to be mellowed|être atténué|
-|to run amok| devenir enragé et perdre tout contrôle |
-| to utter out one's concession speech | faire un discours dans lequel on reconnait sa défaite, notamment après une élection|
+| Constituency | Une circonscription |
+| Doublespeak | Double langage / langue de bois / éléments de langage |
+| Establishment | Dominant social group, the elite who control a polity, an organization, or an institution |
+| MEP | Member of the European Parliament |
+| MP | Member of Parliament |
+| POTUS | President Of The United States |
+| PUN (Play on word) | Jeu de mot |
+| Riot | Une émeute |
+| A scape goat | Bouc émissaire |
+| Spin doctor | Adviser (derogatory word) / conseiller (péjoratif) |
+| The greater good | Le bien commun, supérieur à celui de l'individu |
+| Tory | Conservative party in UK |
+| White van man | A man who is thought to be typical of drivers of white vans by being rude, not well educated, and having very strong, often unpleasant opinions |
+| Whitehall | Siège du gouvernement britannique |
 
 [^1]: Rise of extremism, rise of far right, rise of nationalism (*I can keep going for a while*)
 [^2]: Bruno Retailleau, Gérald Moussa Darmanin, Anne Genetet, Guillaume Kasbarian... je pourrais continuer longtemps, [lisez ceci](https://www.publicsenat.fr/actualites/politique/legislatives-emmanuel-macron-participe-a-installer-les-thematiques-dextreme-droite) en attendant.
@@ -186,5 +154,3 @@ A small group of ultrawealthy men who exert inordinate control or influence with
 [^4]: et non, ce n'est pas le début d'une mauvaise blague
 [^5]: [source](https://www.lesechos.fr/monde/europe/allemagne-quand-elon-musk-discute-de-hitler-avec-lextreme-droite-2141707)
 [^6]: [See](https://www.euronews.com/my-europe/2025/01/08/what-we-know-about-elon-musks-attack-on-keir-starmer-over-the-grooming-gangs-scandal)
-[^7]: Qui est fait de parties de styles différents.
-[^8]: Imiter la manière, le style d'un écrivain, d'un artiste.

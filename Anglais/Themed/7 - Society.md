@@ -4,14 +4,13 @@
 
 * [Introduction](#introduction)
 * [Cultural references](#cultural-references)
-* [Vocabulary (must know)](#vocabulary-must-know)
 * [Vocabulary](#vocabulary)
 
 # Introduction
 
 ## What is at stake ?
 
-> A new world order / Inequality / Social classes
+> A new world order / Inequality / Social classes / Tourism
 
 As a women [CEO](https://www.youtube.com/watch?v=SYfYPyjaN3w) never said "We say that women are paid less, that's not true, I earn as much as a men. As I hired women, I saved money on their salaries. That allowed me to increase mine".
 
@@ -33,7 +32,7 @@ Comme ne l'a jamais dit une [PDG](https://www.youtube.com/watch?v=SYfYPyjaN3w) "
 ## Inequalities
 
 * **Oxfam**
-Confederation of ONGs known for its reports on poverty and wealth distribution. Its 2025 report states most billionaire wealth is taken, not earned - with 60% coming from either inheritance, cronyism or monopoly power. Furthermore, our deeply unequal world remains colonial in many ways. There is a long history of colonial domination which has largely benefited the richest people. This system still extracts wealth from the Global South to the super-rich 1% in the Global North at a rate of $30million an hour. This must be reversed.[^1]
+Confederation of ONGs known for its reports on poverty and wealth distribution. Its 2025 report states most billionaire wealth is taken, not earned - with 60% coming from either inheritance, cronyism or monopoly power. Furthermore, our deeply unequal world remains colonial in many ways. There is a long history of colonial domination which has largely benefited the richest people. This system still extracts wealth from the Global South to the super-rich 1% in the Global North at a rate of $30million an hour.[^1]
 
 * **Queerbaiting**
 Marketing technique for fiction and entertainment in which creators hint at, but do not depict, same-sex romance or other LGBTQ+ representation.[^2]
@@ -63,25 +62,36 @@ Top administration officials were using a Signal group chat to discuss American 
 * **DOGE**
 Department supposed to "modernize federal technology and software to maximize governmental efficiency" ruled by Elon Musk meant to save a billion. *Wired*, ***The*** newspaper of Silicon Valley, said "The Incompetence of DOGE Is a Feature, Not a Bug" as they track the damages done by the department who earned access to all internal governmental data, the way they cut spending has been accused of being against the Constitution (Congress is the one suppose to manage the budget).
 
-# Vocabulary (must know)
-
-|English|French|
-|-|-|
-| the working/middle/upper class | la classe ouvrière/moyenne/supérieure |
-| a billionaire | un milliardaire |
-| a millionaire | un millionnaire |
-| a social class | une classe sociale |
-| an executive | un cadre |
+## Tourism
 
 # Vocabulary
 
-|English|French|
-|-|-|
-| a class defector | un transfuge de classe |
-| happy middle | juste milieu |
-| an electronic ankle tag | un bracelet électronique |
-| the GRU/the CVR | Russian military/civilian intelligence|
+## General vocabulary
 
-[^1]: Copy and paste from [Oxfam](https://www.oxfam.org/en/takers-not-makers-unjust-poverty-and-unearned-wealth-colonialism)
+|     |     |
+| --- | --- |
+| An electronic ankle tag | Un bracelet électronique |
+| Happy middle | Juste milieu |
+
+## Social classes and inequality
+
+|     |     |
+| --- | --- |
+| A billionaire | Un milliardaire |
+| A class defector | Un transfuge de classe |
+| A millionaire | Un millionnaire |
+| A social class | Une classe sociale |
+| An executive | Un cadre |
+| The working/middle/upper class | La classe ouvrière/moyenne/supérieure |
+
+## Intelligence and security
+
+|     |     |
+| --- | --- |
+| The GRU/the CVR | Russian military/civilian intelligence |
+
+## Tourism
+
+[^1]: Copied and pasted from [Oxfam](https://www.oxfam.org/en/takers-not-makers-unjust-poverty-and-unearned-wealth-colonialism)
 [^2]: Et oui ! Disney n'est pas woke, ils font du marketing !
 [^3]: J'aurais aimé que ce soit une blague... [Article complet](https://www.france24.com/en/europe/20250110-musk-praises-afd-leader-reiterates-support-german-far-right-party)

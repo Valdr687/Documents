@@ -4,7 +4,6 @@
 
 * [Introduction](#introduction)
 * [Cultural references](#cultural-references)
-* [Vocabulary (must know)](#vocabulary-must-know)
 * [Vocabulary](#vocabulary)
 
 # Introduction
@@ -59,83 +58,51 @@ r/antiwork is a subreddit associated with contemporary labor movements, critique
 * **Tech layoffs**  
 In the context of return to office, tech companies like Intel, Tesla, Google, Meta have announced massive layoffs. Since 2022 more 450 thousands workers were affected by layoffs in the tech industry, with a peak in 2023. See [this website](https://layoffs.fyi/).
 
-# Vocabulary (must know)
-
-## Adjectifs
-
-|     |     |
-| --- | --- |
-| Ongoing | En cours |
-| Demanding | Exigeant |
-| Soaring | Qui monte en flèche |
-
-## Noms
-
-|     |     |
-| --- | --- |
-| workload | charge de travail |
-| shortage | pénurie / manque |
-| Pandemic era | "Ere COVID" |
-| Burn-out |     |
-| Catalyst | Catalyseur |
-| Phenomenon (plural phenomena) | Phénomène |
-| The workplace | Lieu de travail |
-| A lay off | Un licenciement |
-| The work ethic | La déontologie, l'éthique du travail |
-| An employee | Un employé |
-
-## Verbes
-
-|     |     |
-| --- | --- |
-| To stall | Caller (pour une voiture) / Ralentir (pour une tendance) / Ne pas avoir de connection (pour un torrent) |
-| To resign | Démissionner |
-| To trigger | Déclencher |
-| To peak | Reach maximum |
-
-## Expressions
-
-|     |     |
-| --- | --- |
-| *Something* is likely to *something* | Il est probable que *quelque chose* *quelque chose* |
-| To extol the merits | Praise |
-| To be sick and tired off |     |
-| The Great Reshuffle  <br>The Great Resignation | The Big Quit |
-| To go awry | Mal tourner / déraper |
-
 # Vocabulary
 
-## Adjectifs
+## General vocabulary
 
 |     |     |
 | --- | --- |
+| Demanding | Exigeant |
+| Ongoing | En cours |
 | Resentful | Rancunier, aigri |
-
-## Noms
-
-|     |     |
-| --- | --- |
-| ⌀ serendipity | heureux hasard |
-| aftermath | suite / conséquences |
-| swathes of workers | Hordes de travailleurs |
+| Soaring | Qui monte en flèche |
+| To be on the brink of | Être sur le point de |
+| To juggle work and family | Concilier travail et vie de famille |
+| To peak | Reach maximum |
+| To resign | Démissionner |
+| To stall | Caler (pour une voiture) / Ralentir (pour une tendance) / Ne pas avoir de connexion (pour un torrent) |
+| To trigger | Déclencher |
+| Aftermath | Suite / conséquences |
+| Catalyst | Catalyseur |
+| Phenomenon (plural phenomena) | Phénomène |
+| ⌀ serendipity | Heureux hasard |
 | Tipping point | Point de basculement |
-| The payroll | Masse salariale |
 | Turning point | Tournant |
+| *Something* is likely to *something* | Il est probable que *quelque chose* *quelque chose* |
+| To be sick and tired off | En avoir marre de |
+| To extol the merits | Praise |
+| To go awry | Mal tourner / déraper |
+| Without the hassle of | Sans le tracas lié à quelque chose |
 
-## Verbes
-
-|     |     |
-| --- | --- |
-| to juggle work and family | concilier travail et vie de famille |
-| to be on the brink of | être sur le point de |
-
-## Expressions
+## Work and employment
 
 |     |     |
 | --- | --- |
-| Flexible working hours | des heures de travail flexibles |
-| Without the hassle of | sans le tracas lié à qq chose |
-| stream lining | réduire les couts , profiler, rationaliser |
+| An employee | Un employé |
+| Burn-out | Burn-out |
+| A lay off | Un licenciement |
+| Pandemic era | "Ère COVID" |
+| Shortage | Pénurie / manque |
+| Swathes of workers | Hordes de travailleurs |
+| The payroll | Masse salariale |
+| The work ethic | La déontologie, l'éthique du travail |
+| The workplace | Lieu de travail |
+| Workload | Charge de travail |
+| Flexible working hours | Des heures de travail flexibles |
+| Stream lining | Réduire les coûts, profiler, rationaliser |
+| The Great Reshuffle / The Great Resignation | The Big Quit |
 
 [^1]: [DeepSeek took over rival OpenAI’s coveted spot for most-downloaded free app in the U.S. on Apple’s App Store, dethroning ChatGPT for DeepSeek’s own AI Assistant.](https://www.cnbc.com/2025/01/27/chinas-deepseek-ai-tops-chatgpt-app-store-what-you-should-know.html)
 [^2]: Oui, c'est du français.

@@ -4,7 +4,6 @@
 
 * [Introduction](#introduction)
 * [Cultural references](#cultural-references)
-* [Vocabulary (must known)](#vocabulary-must-known)
 * [Vocabulary](#vocabulary)
 
 # Introduction
@@ -68,115 +67,88 @@ Happened in Cali (Colombia), was a disappointment.
 * **The Line**  
 A 170 km long city in Saudi Arabia, with a population of 1 million, powered by 100% renewable energy, with no cars, no streets, no carbon emissions, and no waste. That is... if it end up built, the construction has started, human rights are already violated but the project is still in its infancy.
 
-# Vocabulary (must known)
-
-## Nouns
-
-|||
-|-|-|
-|footprint|empreinte|
-|rubble|gravats|
-|drought|sècheresse|
-|accommodation|hébergement|
-| a town planner  | un urbaniste |
-| a real estate agent                        | un agent immobilier         |
-| downtown, the city centre                 | le centre-ville             |
-| an inhabitant, resident                   | un habitant, une habitante  |
-| The old districts                         | les vieux quartiers         |
-| a neighborhood, a borough                 | un arrondissement           |
-| council flats or houses                   | des habitations HLM         |
-| council estate                            | une cité                    |
-| a skyscraper, a high rise                | un gratte-ciel              |
-| the sewers                                | les égouts                  |
-| A metropolis/ a conurbation               | une métropole               |
-| a mushroom town                           | une ville champignon        |
-| a gated community                         | une résidence sécurisée     |
-| concrete                                  | le béton                    |
-| a resilient society                       | une société résiliente      |
-| a motto                                   | une devise                  |
-| the consumer society                      | la société de consommation  |
-|plight | bad fate|
-|urbanites|urbains|
-| blaze | incendie/brasier |
-| COP | Conference of Parties |
-| climate denier | |
-| Pesticides ||
-
-## Verbs
-
-|||
-|-|-|
-|to plateau||
-|to greenwash||
-| to renovate, to refurbish                  | rénover                     |
-| to gentrify, become middle class           | embourgeoiser               |
-| to pull down, take down, demolish          | démolir                     |
-
-## Adjectives
-
-|||
-|-|-|
-|reluctant|réticent|
-|sprawling|s'étalant|
-| ablaze | en feu |
-| shrinking| rétrécissant |
-| sustainable|durable|
-
-## Expressions
-
-|||
-|-|-|
-| there is more to *this* than meets the eye | il y a plus que ce qu'on voit |
-|within walkable distance|à une distance accessible à pied|
-|well thought of|bien pensé|
-|all the more so|d'autant plus|
-|heavy reliance|fort dépendance|
-|scathing criticism|critique acerbe|
-|hence + GN|d'où|
-| a sustainable future                     | un avenir durable          |
-
 # Vocabulary
 
-## Nouns
+## General vocabulary
 
-|||
-|-|-|
-| epoch | époque |
-| dormitory estate                          | une cité-dortoir            |
-| a listed building                          | un monument classé          |
-| a city-dweller | un habitant des villes |
-|endeavour|effort|
-|notoriously|notoirement|
-| an urban landscape, a cityscape            | un paysage urbain           |
-| property market                            | le marché immobilier        |
-| consumption patterns                      | des formes de consommation  |
-| suburbs                                   | la grande banlieue         |
+|     |     |
+| --- | --- |
+| Ablaze | En feu |
+| Forlorn | Abandonné/délaissé |
+| Reluctant | Réticent |
+| Relentless | Implacable/acharné |
+| Shrinking | Rétrécissant |
+| Sprawling | S'étalant |
+| Sustainable | Durable |
+| Trail-blazer | Précurseur |
+| Belittle | Rabaisser/dénigrer |
+| Dwindle | Diminuer/décliner |
+| To lambast | Critiquer |
+| To plateau | Plafonner |
+| Blaze | Incendie/brasier |
+| Drought | Sécheresse |
+| Endeavour | Effort |
+| Epoch | Époque |
+| Footprint | Empreinte |
+| Notoriously | Notoirement |
+| Plight | Bad fate |
+| Rubble | Gravats |
+| All the more so | D'autant plus |
+| An incremental increase | Une augmentation incrémentale |
+| Heavy reliance | Forte dépendance |
+| Hence + GN | D'où |
+| Scathing criticism | Critique acerbe |
+| The bottom line is | En fin de compte |
+| There is more to *this* than meets the eye | Il y a plus que ce qu'on voit |
+| To slow something down | Ralentir quelque chose |
+| To speed something up | Accélérer quelque chose |
+| Well thought of | Bien pensé |
+| Year in and year out | Année après année |
 
-## Verbs
+## Environment and climate
 
-|||
-|-|-|
-|to lambast|critiquer|
-| belittle | rabaisser/dénigrer |
-| dwindle | diminuer/décliner |
+|     |     |
+| --- | --- |
+| To greenwash | Faire du greenwashing |
+| A resilient society | Une société résiliente |
+| Climate denier | Climatosceptique |
+| COP | Conference of Parties |
+| Pesticides | Pesticides |
+| A sustainable future | Un avenir durable |
+| Consumption patterns | Des formes de consommation |
+| The consumer society | La société de consommation |
 
-## Adjectives
+## Cities and urban planning
 
-|||
-|-|-|
-|trail-blazer|précurseur|
-| relentless | implacable/acharné |
-| forlorn | abandonné/délaissé |
-
-## Expressions
-
-|||
-|-|-|
-| the bottom line is | en fin de compte |
-| year in and year out | année après année |
-| an incremental increase                  | une augmentation incrémentale |
-| to slow something down                    | ralentir quelque chose      |
-| to speed something up                     | accélérer quelque chose     |
+|     |     |
+| --- | --- |
+| To gentrify, become middle class | Embourgeoiser |
+| To pull down, take down, demolish | Démolir |
+| To renovate, to refurbish | Rénover |
+| Accommodation | Hébergement |
+| A city-dweller | Un habitant des villes |
+| A gated community | Une résidence sécurisée |
+| A listed building | Un monument classé |
+| A metropolis/ a conurbation | Une métropole |
+| A motto | Une devise |
+| A mushroom town | Une ville champignon |
+| A neighborhood, a borough | Un arrondissement |
+| A real estate agent | Un agent immobilier |
+| A skyscraper, a high rise | Un gratte-ciel |
+| A town planner | Un urbaniste |
+| An inhabitant, resident | Un habitant, une habitante |
+| An urban landscape, a cityscape | Un paysage urbain |
+| Concrete | Le béton |
+| Council estate | Une cité |
+| Council flats or houses | Des habitations HLM |
+| Dormitory estate | Une cité-dortoir |
+| Downtown, the city centre | Le centre-ville |
+| Property market | Le marché immobilier |
+| Suburbs | La grande banlieue |
+| The old districts | Les vieux quartiers |
+| The sewers | Les égouts |
+| Urbanites | Urbains |
+| Within walkable distance | À une distance accessible à pied |
 
 [^1]: pas [Macron](https://www.francetvinfo.fr/environnement/crise-climatique/qui-aurait-pu-predire-la-crise-climatique-la-petite-phrase-d-emmanuel-macron-agace-les-specialistes-du-climat_5576013.html) du coup
 [^2]: Réponse d'actionnaire de Total à un militant [voir](https://www.huffingtonpost.fr/environnement/video/a-l-ag-de-total-vives-tensions-entre-actionnaires-et-militants-ecologistes_218374.html)

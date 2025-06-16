@@ -4,7 +4,7 @@
 
 * [Introduction](#introduction)
 * [Cultural references](#cultural-references)
-* [Vocabulary](#vocabulary-must-known)
+* [Vocabulary](#vocabulary)
 
 # Introduction
 
@@ -49,50 +49,45 @@ A famous photograph taken in 1972 during the Vietnam war.
 * **Agricultural union**
 The American Farm Bureau Federation (AFBF), is a United States–based agricultural organization and lobbying group who has longed opposed green policies.
 
-# Vocabulary (must known)
+# Vocabulary
 
-## Nouns
+## General vocabulary
 
-|||
-|-|-|
-| a shooting | une fusillade |
-| a first responder | un premier répondant (personne qui apporte les premiers secours) |
-| cognitive dissonance | dissonance cognitive |
-| compartmentalisation | compartimentalisation |
-| speciesism | spécisme |
-| antispeciesism | antispécisme |
-| vivisection | vivisection |
-| commodification | marchandisation |
-| animal exploitation | exploitation animale |
-| humane myth | mythe de l'humanité |
-| omnivore | omnivore |
-| veganism | véganisme |
-| sentience | conscience |
-| a slaughterhouse /an abattoir | un abattoir |
+|     |     |
+| --- | --- |
+| Acrimony | Acrimonie (haine) |
+| Organic | Biologique |
+| Sentient | Sensible/conscient |
+| To slaughter | Massacrer |
+| Cognitive dissonance | Dissonance cognitive |
+| Compartmentalisation | Compartimentalisation |
+| To trivialize something | Banaliser quelque chose |
 
-## Verbs
+## Violence and weapons
 
-|||
-|-|-|
-| to slaughter | massacrer |
+|     |     |
+| --- | --- |
+| A first responder | Un premier répondant (personne qui apporte les premiers secours) |
+| A shooting | Une fusillade |
 
-## Adjectives
+## Animal rights and protection
 
-|||
-|-|-|
-| acrimony | acrimonie (haine) |
-| cruelty-free | sans cruauté |
-| free-range | en liberté/plein air |
-| omnivorous | omnivore |
-| organic | biologique |
-| sentient | sensible/conscient |
-
-## Expressions
-
-|||
-|-|-|
-| to trivialize something | banaliser quelque chose |
-| lab-grown meat | viande cultivée en laboratoire |
+|     |     |
+| --- | --- |
+| Cruelty-free | Sans cruauté |
+| Free-range | En liberté/plein air |
+| Omnivorous | Omnivore |
+| Animal exploitation | Exploitation animale |
+| Antispeciesism | Antispécisme |
+| A slaughterhouse /an abattoir | Un abattoir |
+| Commodification | Marchandisation |
+| Humane myth | Mythe de l'humanité |
+| Omnivore | Omnivore |
+| Sentience | Conscience |
+| Speciesism | Spécisme |
+| Veganism | Véganisme |
+| Vivisection | Vivisection |
+| Lab-grown meat | Viande cultivée en laboratoire |
 
 [^1]: [Waly Dia. Est-ce que vous condamnez les violences ?](https://www.radiofrance.fr/franceinter/podcasts/la-chronique-de-waly-dia/la-chronique-de-waly-dia-du-lundi-20-mars-2023-2323931)
 [^2]: [Usul. Est-ce que vous condamnez les violences ?](https://www.youtube.com/watch?v=L6OW3C-Y3fU)

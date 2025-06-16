@@ -4,7 +4,6 @@
 
 * [Introduction](#introduction)
 * [Cultural references](#cultural-references)
-* [Vocabulary (must know)](#vocabulary-must-know)
 * [Vocabulary](#vocabulary)
 
 # Introduction
@@ -68,139 +67,120 @@ Is biased by design, and might pure propaganda in the wrong hands ![^4]
 5. **A book (or film) review** commentary of a book that has just come out, written by a reviewer. (a critic)
 6. **A press review** uses articles from other newspapers on the same topic and provides a selection of opinions.
 
-# Vocabulary (must know)
-
-## Adjectifs
-
-|     |     |
-| --- | --- |
-| Whistleblower | lanceur d'alerte |
-| Brand new | Neuf |
-| Questionable | Questionnable |
-| Manifold | Multiple |
-| Resilient | Résilient |
-| Lesser | Inférieur, plus faible |
-| Deep-rooted | Profondément enraciné |
-| Poles apart | Aux antipodes, deux mondes opposés |
-| Heated | Chauffé, animé, passionné |
-| Unbridgeable | Insurmontable, impossible à combler |
-| Flawed | Défectueux, imparfait |
-| Mainstream | Principal, dominant, traditionnel (pour parler d'un média par example) |
-| Diehard | Pur et dur / Conservateur, réactionnaire (politique) |
-|Sky-rocketing|Qui connait une croissance exponentielle|
-|Fuelled (UK) / Fueled (US)|Alimenté|
-|Remarkable|Remarquable|
-
-## Verbes
-
-|     |     |
-| --- | --- |
-| To dub | Nommer, appeler |
-| To hammer | Marteler |
-| To convey | Transmettre un message |
-| To remind | Rappeler |
-| To hype | Médiatiser, générer un engouement médiatique |
-| Come to grips | Tackle the problem |
-| To backfire | avoir l'effet inverse que prévu |
-| To be plagued (by) | To be afflicted (with) |
-| To make headway | Faire du progrès / Improve |
-| To mend fences (with another country) | Se réconcilier, réparer les ponts (avec un autre pays) |
-|To deter / deterrent|Dissuader / dissuasion|
-|To undermine|Saper|
-
-## Noms, groupes nominaux
-
-|     |     |
-| --- | --- |
-| A policy | une politique (agricole) |
-| Ø politics | les politiques |
-| Ø politician | un politique |
-| CEO | PDG |
-| Clout | Influence (political clout) |
-| A buzzword | A fashionable word |
-| A breakthrough | Avancée, rupture |
-| The advent of | L'avènement de |
-| A case in point | Un exemple frappant |
-| Bureaucracy / Red Tape | Bureaucratie |
-| Ø sovereignty | Souveraineté |
-| The bottom line | Le bilan, le fond |
-| Birthplace | Lieu de naissance |
-| Testimonies | Témoignage |
-| Wake-up call |     |
-| Straightforward | Direct / Franc |
-| To which | A laquelle |
-| Gradation |     |
-| a burning issue | une question brulante |
-| a catch-22 situation | une situation sans issue |
-| a snag | une difficulté cachée, un problème inattendu |
-| a hurdle | un obstacle |
-| A stalemate | l'enlisement, une impasse |
-| a U- turn | un changement radical |
-| an asset | un gain, un capital, un atout, un bien (propriété) / ressource (logiciel) |
-| the outlook | la perspective |
-|actually|en fait|
-|a surge|hausse, montée|
-| a MP | a Parliament Member|
-
-## Expression
-
-|     |     |
-| --- | --- |
-| To bear the brunt | Payer le prix |
-| this is ø wishful thinking | prendre ses rêves pour des réalités. |
-| to give someone a free hand | to give someone carte blanche |
-|For all that|Pour autant|
-|To point an accusing finger at *someone*|Pointer du doigt quelqu'un|
-
 # Vocabulary
 
-## Adjectifs
+## General vocabulary
 
 |     |     |
 | --- | --- |
-| Law abiding | Qui respecte la loi |
-| Spine-chilling | qui fait froid dans le dos |
-| Eye-watering | astronomique |
+| Actually | En fait |
+| Brand new | Neuf |
+| Birthplace | Lieu de naissance |
 | Contentious | Litigieux, contentieux |
+| Deep-rooted | Profondément enraciné |
 | Derelict | En ruine |
+| Eye-watering | Astronomique |
+| Flawed | Défectueux, imparfait |
+| Fuelled (UK) / Fueled (US) | Alimenté |
+| Gradation | Gradation |
+| Heated | Chauffé, animé, passionné |
+| Law abiding | Qui respecte la loi |
+| Lesser | Inférieur, plus faible |
+| Manifold | Multiple |
+| Poles apart | Aux antipodes, deux mondes opposés |
 | Puzzled | Perplexe |
-
-## Verbes
-
-|     |     |
-| --- | --- |
-| To underpin | Soutenir, étayer |
-| To implement | Carry out |
-| To jettison | To give up on something |
-| To embark | Embarquer, amorcer (commencer) |
-| To pave the way | Make something possible |
+| Questionable | Questionnable |
+| Remarkable | Remarquable |
+| Resilient | Résilient |
+| Sky-rocketing | Qui connaît une croissance exponentielle |
+| Spine-chilling | Qui fait froid dans le dos |
+| Straightforward | Direct / Franc |
+| Unbridgeable | Insurmontable, impossible à combler |
 | To beg to differ | To disagree |
-|To implement|Implémenter / carry out / faire passer (une loi)|
-| To pay lip service | Défendre par les mots mais pas par les actes (Macron et l'écologie, le féminisme...)|
-
-## Noms, groupes nominaux
-
-|     |     |
-| --- | --- |
-| Petri dish | Ban d'essai |
+| To embark | Embarquer, amorcer (commencer) |
+| To jettison | To give up on something |
+| To pave the way | Make something possible |
+| To underpin | Soutenir, étayer |
+| A brainchild | Idée originale, création, invention personnelle (ou d'un groupe !) |
+| A case in point | Un exemple frappant |
 | Guinea pigs | Cobayes |
-| Parts and parcel | Partie ( it is parts and parcel of... ) |
-| a NIMBY | quelqu'un opposé à un projet uniquement car il porte atteinte à sa vie |
-| a quandary | une impasse, un dilemme |
-| a brainchild | Idée originale, création, invention personnelle (ou d'un groupe !) |
+| Parts and parcel | Partie (it is parts and parcel of...) |
+| Petri dish | Banc d'essai |
+| To which | À laquelle |
+| By stacking | En empilant |
+| By stating | En affirmant |
+| For all that | Pour autant |
+| Knock on effects | Effets dominos |
+| To give someone a free hand | To give someone carte blanche |
+| To make a case for | Donner des raisons, des arguments (rhétorique) |
+| To see "the writing on the wall" | To see the end |
+| To take stock of | Faire un bilan de |
 
-## Expression
+## Media and journalism
 
 |     |     |
 | --- | --- |
-| To see "the writing on the wall" | To see the end |
+| Mainstream | Principal, dominant, traditionnel (pour parler d'un média par exemple) |
+| To convey | Transmettre un message |
+| To dub | Nommer, appeler |
+| To hammer | Marteler |
+| To hype | Médiatiser, générer un engouement médiatique |
+| To remind | Rappeler |
+| A breakthrough | Avancée, rupture |
+| A buzzword | A fashionable word |
+| A MP | A Parliament Member |
+| CEO | PDG |
+| Testimonies | Témoignage |
+| The advent of | L'avènement de |
+| Wake-up call | Signal d'alarme |
+| Whistleblower | Lanceur d'alerte |
+
+## Politics and institutions
+
+|     |     |
+| --- | --- |
+| Diehard | Pur et dur / Conservateur, réactionnaire (politique) |
+| To deter / deterrent | Dissuader / dissuasion |
+| To implement | Implémenter / carry out / faire passer (une loi) |
+| To mend fences (with another country) | Se réconcilier, réparer les ponts (avec un autre pays) |
+| To pay lip service | Défendre par les mots mais pas par les actes (Macron et l'écologie, le féminisme...) |
+| To undermine | Saper |
+| A policy | Une politique (agricole) |
+| Bureaucracy / Red Tape | Bureaucratie |
+| Clout | Influence (political clout) |
+| Ø politician | Un politique |
+| Ø politics | Les politiques |
+| Ø sovereignty | Souveraineté |
+
+## Problems and crises
+
+|     |     |
+| --- | --- |
+| To backfire | Avoir l'effet inverse que prévu |
+| To be plagued (by) | To be afflicted (with) |
+| A burning issue | Une question brûlante |
+| A catch-22 situation | Une situation sans issue |
+| A hurdle | Un obstacle |
+| A NIMBY | Quelqu'un opposé à un projet uniquement car il porte atteinte à sa vie |
+| A quandary | Une impasse, un dilemme |
+| A snag | Une difficulté cachée, un problème inattendu |
+| A stalemate | L'enlisement, une impasse |
+| Come to grips | Tackle the problem |
 | Nimby (ism) | Not In My BackYard / To want something but not near you |
-| To give someone a free hand | To give someone carte blanche |
-| Knock on effects | Effets dominos |
-| To take stock of | Faire un bilan de |
-| By stacking | En empilant |
-|By stating|En affirmant|
-| To make a case for | Donner des raisons, des raisons (rhétorique) |
+| To bear the brunt | Payer le prix |
+| To point an accusing finger at *someone* | Pointer du doigt quelqu'un |
+
+## Change and progress
+
+|     |     |
+| --- | --- |
+| To make headway | Faire du progrès / Improve |
+| An asset | Un gain, un capital, un atout, un bien (propriété) / ressource (logiciel) |
+| The bottom line | Le bilan, le fond |
+| The outlook | La perspective |
+| A surge | Hausse, montée |
+| A U-turn | Un changement radical |
+| This is ø wishful thinking | Prendre ses rêves pour des réalités |
 
 [^1]: [Also see](https://www.mirror.co.uk/news/uk-news/voting-tory-cause-your-wife-8274342)
 [^2]: [Also listen to](https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/le-pizzagate-7478278)
