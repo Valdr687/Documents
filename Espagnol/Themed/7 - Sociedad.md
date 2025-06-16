@@ -75,6 +75,8 @@ Departamento supuesto a "modernizar la tecnología y software federal para maxim
 | los terrícolas | les Terriens |
 | el hogar | le foyer |
 | el matrimonio | le mariage |
+| dar la luz | donner naissance |
+| bisabuelos | arrières grand-parents |
 | las películas taquilleras | les films à succès |
 | el racismo encubierto | le racisme dissimulé |
 | la supervivencia | la survie |

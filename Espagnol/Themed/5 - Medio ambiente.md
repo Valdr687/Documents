@@ -70,6 +70,9 @@ O pérdida de hábitat es el proceso en el cual un hábitat natural se vuelve in
 * **COP 16 para la biodiversidad**
 Tuvo lugar en Cali (Colombia), fue una decepción.
 
+* **Arroz Jaspe**
+Variedad de arroz (hibrido) que necessita la mitad de agua que el arroz normal (1250 litros por kilo en vez de 2500) y es resistente a las sequías.
+
 # Vocabulario
 
 ## Vocabulario esencial
@@ -86,6 +89,19 @@ Tuvo lugar en Cali (Colombia), fue una decepción.
 | despilfarro | gâchis |
 | un apagón | une coupure d'électricité |
 | un brote | une pousse / une poussée (upsurge) |
+
+## Agricultura
+
+| Espagnol | Français |
+|----------|----------|
+| cosechas | récoltes |
+| agronomía | agronomie |
+| ganadería | élevage |
+| campesino, agricultor | paysan, agriculteur |
+| anegamiento / inundados | inondation |
+| ahorrar | économiser |
+| prados | prairies |
+| metano | méthane |
 
 ## Acciones y consecuencias
 

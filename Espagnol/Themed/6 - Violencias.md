@@ -43,6 +43,9 @@ JR es un artista francés que exhibe su trabajo en las calles. Colaboró con The
 * **La Niña del Napalm**
 Una fotografía famosa tomada en 1972 durante la guerra de Vietnam.
 
+* **Dictadura de Franco y robo de bébés**
+Mas de tres mil bebés fueron robados a sus padres durante la dictadura de Franco en España. La mayoría de los bebés fueron vendidos a familias ricas que no podían tener hijos.
+
 ## Protección animal
 
 * **Filósofos**
@@ -51,6 +54,16 @@ Una fotografía famosa tomada en 1972 durante la guerra de Vietnam.
 
 * **Unión agrícola**
 La Federación Americana de Oficinas Agrícolas (AFBF), es una organización agrícola con sede en Estados Unidos y grupo de presión que se ha opuesto durante mucho tiempo a las políticas verdes.
+
+## Feminismo
+
+* **La manada**
+El caso de La Manada es el nombre por el que se conocen los sucesos relacionados con un caso de violación múltiple acaecido en Pamplona (Navarra, España), en la madrugada del 7 de julio de 2016, durante las fiestas de San Fermín. Un grupo de cinco hombres violó a una joven de dieciocho años en un portal en el centro de la capital navarra, y a su vez fueron denunciados por la víctima.
+
+El caso, que se consideró en dos tribunales de Navarra —Audiencia Provincial y Tribunal Superior de Navarra— como un abuso sexual, no como violación, tuvo una importante cobertura mediática y en redes sociales.​ También movilizó a gran parte de la población española, que se manifestó en desacuerdo con dichas sentencias. El caso fue finalmente revisado y sentenciado por el Tribunal Supremo, que lo consideró una violación.
+
+* **Ley del solo sí es sí**
+ley de garantía integral de la libertad sexual, también conocida como ley del solo sí es sí, es una ley española aprobada en 2022 que modifica el Código Penal para garantizar el consentimiento expreso en las relaciones sexuales y endurecer las penas por delitos sexuales.
 
 # Vocabulario
 
