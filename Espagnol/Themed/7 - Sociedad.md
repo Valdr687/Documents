@@ -83,24 +83,6 @@ Departamento supuesto a "modernizar la tecnología y software federal para maxim
 | la travesía | la traversée |
 | sobrecargado | surchargé |
 | los sanitarios | les secours |
-| la llave / la clave | la clé (porte) / la clé (élément clé) |
-| la prenda / la ropa | le vêtement / les vêtements |
-| la muchedumbre | la foule |
-| cualquiera | n'importe qui |
-| verosímil | vraisemblable |
-| jerarquizar | hiérarchiser |
-| hace falta | il faut |
-| desafortunadamente | malheureusement |
-| debido | à cause de |
-| cada vez más | à chaque fois plus |
-| a menudo / seguido | fréquent |
-| vivienda | résidence |
-| ser culto | être cultivé |
-| huir | fuir |
-| la huida | la fuite |
-| se ha disparado | ont augmenté très rapidement |
-| burbuja inmobiliaria | bulle immobilière |
-| aranceles | tarifs |
 
 ## Estructura social
 

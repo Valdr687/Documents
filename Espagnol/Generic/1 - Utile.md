@@ -3,16 +3,12 @@
 # Table de contenu
 
 * [Générique](#générique)
-* [Vocabulaire pour la synthèse](#vocabulaire-pour-la-synthèse)
+* [Pour parler de documents](#pour-parler-de-documents)
 * [Expressions utiles](#expressions-utiles)
-* [Verbes essentiels](#verbes-essentiels)
+* [Verbes](#verbes)
 * [Vocabulaire divers](#vocabulaire-divers)
 
 # Générique
-
-*Parce que tout ne rentre pas forcément dans une catégorie*
-
-# Vocabulaire pour la synthèse
 
 ## Pour parler de documents
 
@@ -39,7 +35,7 @@
 | defiende la idea según la cual | elle défend l'idée selon laquelle |
 | como implica la viñeta... | comme l'illustration le laisse supposer... |
 
-# Expressions utiles
+## Expressions utiles
 
 | Espagnol | Français |
 |----------|----------|
@@ -57,7 +53,7 @@
 | anunciar a bombo y platillo | annoncer à grand renfort de publicité |
 | tener buena/mala fama | avoir bonne/mauvaise réputation |
 
-# Verbes essentiels
+## Verbes
 
 | Espagnol | Français |
 |----------|----------|
@@ -94,7 +90,7 @@
 | acabar de | finir de |
 | disparar | tirer |
 
-# Vocabulaire divers
+## Vocabulaire divers
 
 | Espagnol | Français |
 |----------|----------|
@@ -102,3 +98,21 @@
 | una queja | une plainte |
 | una sospecha | une suspicion |
 | un enfoque | une approche |
+| la llave / la clave | la clé (porte) / la clé (élément clé) |
+| la prenda / la ropa | le vêtement / les vêtements |
+| la muchedumbre | la foule |
+| cualquiera | n'importe qui |
+| verosímil | vraisemblable |
+| jerarquizar | hiérarchiser |
+| hace falta | il faut |
+| desafortunadamente | malheureusement |
+| debido | à cause de |
+| cada vez más | à chaque fois plus |
+| a menudo / seguido | fréquent |
+| vivienda | résidence |
+| ser culto | être cultivé |
+| huir | fuir |
+| la huida | la fuite |
+| se ha disparado | ont augmenté très rapidement |
+| burbuja inmobiliaria | bulle immobilière |
+| aranceles | tarifs |

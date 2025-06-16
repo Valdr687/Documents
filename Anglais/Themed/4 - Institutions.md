@@ -4,7 +4,6 @@
 
 * [Introduction](#introduction)
 * [Cultural references](#cultural-references)
-* [Vocabulary (must know)](#vocabulary-must-know)
 * [Vocabulary](#vocabulary)
 
 # Introduction

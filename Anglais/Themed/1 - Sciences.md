@@ -4,7 +4,6 @@
 
 * [Introduction](#introduction)
 * [Cultural references](#cultural-references)
-* [Vocabulary (must know)](#vocabulary-must-know)
 * [Vocabulary](#vocabulary)
 
 # Introduction
@@ -72,104 +71,93 @@ The term "Transhumanism" was coined in 1957 by Julian Huxley, biologist and brot
 Neuralink and others (Synchron) are working on brain-machine interfaces (BCI) to allow people to control computers with their thoughts (at least 3 success for Neuralink).  
 Controversy : Neuralink (Elon Musk) has been accused of using monkeys as guinea pigs for their experiments in inhumane conditions.
 
-# Vocabulary (must know)
-
-## Adjectifs
-
-|     |     |
-| --- | --- |
-| Looming | Menacing |
-| Ubiquitous | omniprésent |
-| Caucasian | Caucasien |
-| Allegedly | Supposément |
-| Sentient | Sensible (conscient) |
-| Life-like | Réaliste, qui semble être vivant    |
-| State-of-the-art | Cutting Edge |
-| Versatile |Polyvalent, Versatile     |
-
-## Noms
-
-|     |     |
-| --- | --- |
-| Ubiquity | Omniprésence |
-| Surveillance |     |
-| infringement | Infraction / Violation |
-| Ethics | Éthique     |
-| Performance-enhancing drugs | Médicament pour se doper|
-| Shallow experiment | Expériences douteuses |
-| Graft | Greffer |
-| human dignity | la dignité humaine |
-| unethical behavior | comportement contraire à l'éthique |
-| a thorny issue, a tricky issue | une question épineuse |
-| an implant | un implant |
-| a breakthrough | une percée |
-| a CCTV camera | une caméra de surveillance |
-
-## Verbes
-
-|     |     |
-| --- | --- |
-| To foresee | Anticiper |
-| to tamper with nature | porter atteinte à la nature, toucher à la nature |
-| go beyond sth | Aller au-delà de qqch |
-| to transcend human nature | transcender la nature humaine |
-| to enhance human nature | améliorer la nature humaine |
-| to be faced with a dilemma | être confronté à un dilemme |
-| to cause public outrage | scandaliser l'opinion |
-| to spark a debate | provoquer un débat |
-| to be a cause for concern | être source d'inquiétude |
-| to be borderline | être (un cas) limite |
-| to graft | greffer |
-| to pioneer | inventer, lancer |
-| to have mixed feelings about something | avoir des sentiments mitigés |
-| to wipe out | anéantir |
-| to erase | effacer, gommer |
-
-## Expressions
-
-|     |     |
-| --- | --- |
-| Spiral out of control | Devenir hors de contrôle |
-| To go rogue | Cesser de suivre les ordres |
-| a boon or a bane? | un fléau ou une bénédiction? |
-
 # Vocabulary
 
-## Adjectifs
+## Vocabulaire Général et Descriptif
 
 |     |     |
 | --- | --- |
 | heedless | qui ne fait pas attention, insensible à |
 | Intertwined | Linked together |
 | Watershed | Décisif |
-| Saddened | Attristé     |
-| Creepy | Effrayant    |
+| Saddened | Attristé |
+| Creepy | Effrayant |
 | Thorough | Reliable |
+| the spectrum of colour | le spectre des couleurs |
+| a hurdling race | une course d'obstacles |
+| Awe | Admiration |
+| to heed | faire attention à |
+| to vying | Être en compétition contre |
+| to wipe out | anéantir |
+| to erase | effacer, gommer |
+| To purport | To appear to do something |
 
-## Noms
+## Intelligence Artificielle et Technologie
+
+|     |     |
+| --- | --- |
+| a breakthrough | une percée |
+| State-of-the-art, Cutting Edge | À la pointe de la technologie |
+| bleeding edge | À la pointe de la technologie (renforcé) |
+| Versatile | Polyvalent, Versatile |
+| Sentient | Sensible (conscient) |
+| Life-like | Réaliste, qui semble être vivant |
+| to pioneer | inventer, lancer |
+| To epitomize | Epitomiser / Personnifier |
+| to kit something out | équiper |
+| To foresee | Anticiper |
+| Spiral out of control | Devenir hors de contrôle |
+| To go rogue | Cesser de suivre les ordres |
+
+## Surveillance et Vie Privée
+
+|     |     |
+| --- | --- |
+| Surveillance | Surveillance |
+| a CCTV camera | une caméra de surveillance |
+| infringement | Infraction / Violation |
+| Ubiquity | Omniprésence |
+| Ubiquitous | omniprésent |
+| Looming | Menacing |
+| Caucasian | Caucasien |
+| Allegedly | Supposément |
+
+## Transhumanisme et Modifications Corporelles
 
 |     |     |
 | --- | --- |
 | a Cyborg | un cyborg (moitié android, moitié humain) |
-| the spectrum of colours | le spectre des couleurs |
-| a hurdling race | une course d'obstacles |
-| the sacredness, the sanctity of life | Le caractère sacré de la vie |
+| an implant | un implant |
+| Performance-enhancing drugs | Médicament pour se doper |
 | body hacking | la modification du corps humain |
-| an influential school of thought | une école de pensée influente |
-| Awe | Admiration     |
+| the sacredness, the sanctity of life | Le caractère sacré de la vie |
+| human dignity | la dignité humaine |
 | Skull | Crane |
+| to tamper with nature | porter atteinte à la nature, toucher à la nature |
+| to transcend human nature | transcender la nature humaine |
+| to enhance human nature | améliorer la nature humaine |
+| to graft | greffer |
+| Graft | Greffer |
+| go beyond sth | Aller au-delà de qqch |
+| Play the sorcerer's apprentice, play God | jouer à l'apprenti sorcier |
 
-## Verbes
+## Éthique et Débats Sociétaux
 
 |     |     |
 | --- | --- |
-| to heed | faire attention à |
-| to vying | Être en compétition contre |
-| to kit something out | équiper |
+| Ethics | Éthique |
+| unethical behavior | comportement contraire à l'éthique |
+| a thorny issue, a tricky issue | une question épineuse |
+| an influential school of thought | une école de pensée influente |
+| Shallow experiment | Expériences douteuses |
+| to be faced with a dilemma | être confronté à un dilemme |
+| to cause public outrage | scandaliser l'opinion |
+| to spark a debate | provoquer un débat |
+| to be a cause for concern | être source d'inquiétude |
+| to be borderline | être (un cas) limite |
 | to cause an outcry | susciter un tollé, une levée de boucliers |
-| Play the sorcerer's apprentice, play God | jouer à l'apprenti sorcier |
-| To epitomize | Epitomiser / Personnifier |
-| To purport | To appear to do something |
+| to have mixed feelings about something | avoir des sentiments mitigés |
+| a boon or a bane? | un fléau ou une bénédiction? |
 
 [^1]: Caméra de vidéo surveillance (dans la liste, il s'agissait de [*foreshadowing*](https://fr.wikipedia.org/wiki/Foreshadowing)).
 [^2]: The Cours des comptes questioned the effectiveness of the use of CCTVs in public spaces. Also see [this article](https://www.lemonde.fr/societe/article/2022/02/10/la-videosurveillance-a-paris-critiquee-par-la-cour-des-comptes_6113170_3224.html)
