@@ -123,6 +123,7 @@ Correlation vs causation : correlation does not imply causation.
 | in the interest of                     | dans un souci de / au nom de / dans l'intérêt de |
 | namely                                 | à savoir, c'est-à-dire                           |
 | merely                                 | simplement                                       |
+| to no avail                                | en vain                                                   |
 
 # Miscellaneous - Stage 2
 
