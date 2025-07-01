@@ -128,5 +128,5 @@ En el contexto de la vuelta a la oficina, empresas tecnológicas como Intel, Tes
 | la crisis | la crise |
 | la recuperación | la reprise |
 
-[^1]: [DeepSeek took over rival OpenAI’s coveted spot for most-downloaded free app in the U.S. on Apple’s App Store, dethroning ChatGPT for DeepSeek’s own AI Assistant.](https://www.cnbc.com/2025/01/27/chinas-deepseek-ai-tops-chatgpt-app-store-what-you-should-know.html)
+[^1]: [DeepSeek arrebató a su rival OpenAI el codiciado puesto de aplicación gratuita más descargada en EE.UU. en la App Store de Apple, destronando a ChatGPT en favor del propio asistente de IA de DeepSeek.](https://www.cnbc.com/2025/01/27/chinas-deepseek-ai-tops-chatgpt-app-store-what-you-should-know.html)
 [^2]: Je ne dirais qu'il s'est planté, mais que ça n'a pas [fonctionné](https://www.youtube.com/watch?v=vC7C4BEvhRs).

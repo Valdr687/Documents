@@ -137,3 +137,10 @@ Un pequeño grupo de hombres extremadamente ricos que ejercen control o influenc
 | una sentencia | une sentence |
 | culpable | coupable |
 | inocente | innocent |
+
+[^1]: Auge del extremismo, auge de la extrema derecha, auge del nacionalismo (*puedo seguir un rato*)
+[^2]: Bruno Retailleau, Gérald Moussa Darmanin, Anne Genetet, Guillaume Kasbarian... je pourrais continuer longtemps, [lisez ceci](https://www.publicsenat.fr/actualites/politique/legislatives-emmanuel-macron-participe-a-installer-les-thematiques-dextreme-droite) en attendant.
+[^3]: j'en ai marre de pouvoir continuer longtemps
+[^4]: et non, ce n'est pas le début d'une mauvaise blague
+[^5]: [source](https://www.lesechos.fr/monde/europe/allemagne-quand-elon-musk-discute-de-hitler-avec-lextreme-droite-2141707)
+[^6]: [Veer](https://www.euronews.com/my-europe/2025/01/08/what-we-know-about-elon-musks-attack-on-keir-starmer-over-the-grooming-gangs-scandal)

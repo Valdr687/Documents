@@ -150,3 +150,7 @@ Departamento supuesto a "modernizar la tecnología y software federal para maxim
 | el refugiado | le réfugié |
 | el exiliado | l'exilé |
 | la frontera | la frontière |
+
+[^1]: Copiado y pegado de [Oxfam](https://www.oxfam.org/en/takers-not-makers-unjust-poverty-and-unearned-wealth-colonialism)
+[^2]: Et oui ! Disney n'est pas woke, ils font du marketing !
+[^3]: J'aurais aimé que ce soit une blague... [Article complet](https://www.france24.com/en/europe/20250110-musk-praises-afd-leader-reiterates-support-german-far-right-party)
