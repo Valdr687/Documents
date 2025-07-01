@@ -4,9 +4,15 @@ Ensemble de fiches de révisions / résumés de cours pour les classes préparat
 
 ## Anglais
 
-Several sheets organized in three categories : Miscellaneous (Complements) / Grammar point (Generic) / Themed. Each themed sheet aims to provide some cultural references and some vocabulary to understand and discuss of what is a stake.
+Several sheets organized in three categories : Miscellaneous (Complements) / Grammar point (Generic) / Themed.  
 
 [Fiches de vocabulaire](./Anglais/README.md)
+
+## Espagnol
+
+Lo mismo que en inglés, pero en español.
+
+[Fichas de vocabulario](./Espagnol/README.md)
 
 ## Info
 
