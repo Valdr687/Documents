@@ -1,4 +1,4 @@
-# Mémo info PTSI/PT
+# Fiches d'info
 
 ## Table des matières
 
