@@ -3,7 +3,7 @@
 ## What is this ?
 
 This is a collection of cheat sheets and vocabulary for English.  
-Each themed sheet includes a an introduction, cultural references and a vocabulary section spited in two parts: basics and the more advanced, less essential words.
+Each themed sheet includes a an introduction, cultural references and a vocabulary section.
 
 ## Contents
 
