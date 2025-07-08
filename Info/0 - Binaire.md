@@ -133,8 +133,6 @@ Tableau de conversion :
 Si l'addition de deux nombre en binaire utilise plus de bits que le nombre sur lequel on les code, le résultat va "dépasser" vers a gauche, on parle alors de dépassement.  
 Pour certain systèmes, le calcul ne crée pas d'erreur tandis que sur d'autres une erreur est signalé.
 
->Franchement, la suite n'est pas utile, mais fait partie de la culture, les maths sont eux inutiles.
-
 ### Notion de mode d'arrondi et problème de précision
 
 Le codage des réels nécessite l'utilisation d'arrondis, en effet tous les réels ne sont pas codé sur $n$ bits, l'espace entre les réels représentables ne sont pas égaux.
@@ -146,7 +144,7 @@ Alors pour $x \in F$, deux cas peuvent se présenter :
 - sinon ils existents $X^{-} \in F$ et $X^{+} \in F$ tels que
   $X^{-} < x < X^{+}$ et $]X^{-},X^{+}[ \cap F=\emptyset$
 
-Un exemple marquant est $0.1 + 0,2 = 0,300000004$, ce qui explique une fameuse erreur en `JavaScript`, consultez cet [article](https://gauravkk22.medium.com/why-0-1-0-2-0-3-is-false-in-js-mystery-unsolved-with-solution-4f7db2755f18).
+Un exemple marquant est $0.1 + 0,2 = 0,300000004$, vous pouvez en apprendre plus sur ce [site](https://0.30000000000000004.com/).
 
 ### Représentation d'autres informations
 
