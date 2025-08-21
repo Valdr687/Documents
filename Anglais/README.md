@@ -9,7 +9,7 @@ Each themed sheet includes a an introduction, cultural references and a vocabula
 
 * Generic content
   * [Grammar](./Generic/0%20-%20Grammaire.md)
-  * [Synthèse et autres mots pratique](./Generic/1%20-%20Utile.md)
+  * [Synthèse et autres mots pratiques](./Generic/1%20-%20Utile.md)
 * Themed
   * [Sciences](./Themed/1%20-%20Sciences.md)
   * [The media](./Themed/2%20-%20The%20media.md)
